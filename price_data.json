@@ -1,0 +1,6246 @@
+{
+  "products": [
+    {
+      "name": "Acer VivoBook Max",
+      "price": 162837.28,
+      "url": "https://www.amazon.in/product/2a50f107-b8ca-4286-aad8-66492e7146e8",
+      "image_url": "https://via.placeholder.com/300x300?text=Laptop",
+      "site": "Amazon",
+      "category": "laptop",
+      "scraped_at": "2025-06-05T15:01:23.492710",
+      "rating": 4.0,
+      "reviews_count": 1772
+    },
+    {
+      "name": "Dell Aspire Lite",
+      "price": 93912.71,
+      "url": "https://www.amazon.in/product/48722bdc-fe34-4766-ba77-f0dfd569ff8d",
+      "image_url": "https://via.placeholder.com/300x300?text=Laptop",
+      "site": "Amazon",
+      "category": "laptop",
+      "scraped_at": "2025-06-05T15:01:23.492726",
+      "rating": 4.1,
+      "reviews_count": 3064
+    },
+    {
+      "name": "Dell ThinkPad",
+      "price": 118757.74,
+      "url": "https://www.amazon.in/product/883f4168-29ff-4926-b1d4-782de4a305ec",
+      "image_url": "https://via.placeholder.com/300x300?text=Laptop",
+      "site": "Amazon",
+      "category": "laptop",
+      "scraped_at": "2025-06-05T15:01:23.492734",
+      "rating": 4.5,
+      "reviews_count": 329
+    },
+    {
+      "name": "Dell Pavilion Ultra",
+      "price": 149827.52,
+      "url": "https://www.amazon.in/product/8d804654-4e09-4b05-ad36-c9feb01d7953",
+      "image_url": "https://via.placeholder.com/300x300?text=Laptop",
+      "site": "Amazon",
+      "category": "laptop",
+      "scraped_at": "2025-06-05T15:01:23.492739",
+      "rating": 3.7,
+      "reviews_count": 3908
+    },
+    {
+      "name": "Lenovo VivoBook SE",
+      "price": 72422.21,
+      "url": "https://www.amazon.in/product/b49745d9-8b61-4f72-b8ec-9c09eb87c954",
+      "image_url": "https://via.placeholder.com/300x300?text=Laptop",
+      "site": "Amazon",
+      "category": "laptop",
+      "scraped_at": "2025-06-05T15:01:23.492744",
+      "rating": 3.8,
+      "reviews_count": 3488
+    },
+    {
+      "name": "MacBook Aspire Max",
+      "price": 129568.04,
+      "url": "https://www.amazon.in/product/e8bebd9b-532a-4003-9bf5-63b413268c29",
+      "image_url": "https://via.placeholder.com/300x300?text=Laptop",
+      "site": "Amazon",
+      "category": "laptop",
+      "scraped_at": "2025-06-05T15:01:23.492749",
+      "rating": 3.9,
+      "reviews_count": 4890
+    },
+    {
+      "name": "MacBook ThinkPad Lite",
+      "price": 30731.88,
+      "url": "https://www.amazon.in/product/e0335b5c-3d4d-46ff-bf8e-149c8757f983",
+      "image_url": "https://via.placeholder.com/300x300?text=Laptop",
+      "site": "Amazon",
+      "category": "laptop",
+      "scraped_at": "2025-06-05T15:01:23.492753",
+      "rating": 3.9,
+      "reviews_count": 1775
+    },
+    {
+      "name": "ASUS Aspire Pro",
+      "price": 28135.0,
+      "url": "https://www.amazon.in/product/be9b84d2-3c6a-4f4c-b385-54fc2ced1743",
+      "image_url": "https://via.placeholder.com/300x300?text=Laptop",
+      "site": "Amazon",
+      "category": "laptop",
+      "scraped_at": "2025-06-05T15:01:23.492758",
+      "rating": 4.6,
+      "reviews_count": 1911
+    },
+    {
+      "name": "Dell Air",
+      "price": 60687.6,
+      "url": "https://www.flipkart.in/product/16e12e76-dec1-429f-b307-4839bf237ecf",
+      "image_url": "https://via.placeholder.com/300x300?text=Laptop",
+      "site": "Flipkart",
+      "category": "laptop",
+      "scraped_at": "2025-06-05T15:01:23.492763",
+      "rating": 4.9,
+      "reviews_count": 2275
+    },
+    {
+      "name": "Dell VivoBook Lite",
+      "price": 90338.63,
+      "url": "https://www.flipkart.in/product/9073225b-642f-4bd9-b3ea-d7e47900cf1a",
+      "image_url": "https://via.placeholder.com/300x300?text=Laptop",
+      "site": "Flipkart",
+      "category": "laptop",
+      "scraped_at": "2025-06-05T15:01:23.492767",
+      "rating": 3.6,
+      "reviews_count": 4847
+    },
+    {
+      "name": "Lenovo Air SE",
+      "price": 68275.32,
+      "url": "https://www.flipkart.in/product/cfbce894-c9d6-4aaf-b792-ce8fa686302d",
+      "image_url": "https://via.placeholder.com/300x300?text=Laptop",
+      "site": "Flipkart",
+      "category": "laptop",
+      "scraped_at": "2025-06-05T15:01:23.492771",
+      "rating": 3.8,
+      "reviews_count": 793
+    },
+    {
+      "name": "MacBook Inspiron Ultra",
+      "price": 112135.55,
+      "url": "https://www.flipkart.in/product/c314411f-6afb-4290-aa93-1b1d43f06c4f",
+      "image_url": "https://via.placeholder.com/300x300?text=Laptop",
+      "site": "Flipkart",
+      "category": "laptop",
+      "scraped_at": "2025-06-05T15:01:23.492776",
+      "rating": 3.7,
+      "reviews_count": 847
+    },
+    {
+      "name": "Acer Air Ultra",
+      "price": 63279.18,
+      "url": "https://www.flipkart.in/product/8b28c878-f7b6-4678-99ed-38994127a6f4",
+      "image_url": "https://via.placeholder.com/300x300?text=Laptop",
+      "site": "Flipkart",
+      "category": "laptop",
+      "scraped_at": "2025-06-05T15:01:23.492780",
+      "rating": 4.1,
+      "reviews_count": 64
+    },
+    {
+      "name": "HP VivoBook Ultra",
+      "price": 101757.6,
+      "url": "https://www.flipkart.in/product/9b7a313f-f584-4999-879f-6f508db0298a",
+      "image_url": "https://via.placeholder.com/300x300?text=Laptop",
+      "site": "Flipkart",
+      "category": "laptop",
+      "scraped_at": "2025-06-05T15:01:23.492784",
+      "rating": 3.5,
+      "reviews_count": 4381
+    },
+    {
+      "name": "Acer Air Max",
+      "price": 33441.02,
+      "url": "https://www.flipkart.in/product/25ad5de1-90db-4f78-963d-1f1830965de2",
+      "image_url": "https://via.placeholder.com/300x300?text=Laptop",
+      "site": "Flipkart",
+      "category": "laptop",
+      "scraped_at": "2025-06-05T15:01:23.492788",
+      "rating": 4.9,
+      "reviews_count": 3718
+    },
+    {
+      "name": "HP Air Lite",
+      "price": 92910.41,
+      "url": "https://www.flipkart.in/product/ba6e0bf7-1bd5-4994-af1e-c6f2a4ca431e",
+      "image_url": "https://via.placeholder.com/300x300?text=Laptop",
+      "site": "Flipkart",
+      "category": "laptop",
+      "scraped_at": "2025-06-05T15:01:23.492792",
+      "rating": 4.4,
+      "reviews_count": 175
+    },
+    {
+      "name": "Samsung Galaxy Reno",
+      "price": 15036.94,
+      "url": "https://www.amazon.in/product/98e61d10-0a54-4ee9-9cac-bcc9c292228a",
+      "image_url": "https://via.placeholder.com/300x300?text=Smartphone",
+      "site": "Amazon",
+      "category": "smartphone",
+      "scraped_at": "2025-06-05T15:01:23.492806",
+      "rating": 4.9,
+      "reviews_count": 3627
+    },
+    {
+      "name": "Realme 11 Pro",
+      "price": 9049.71,
+      "url": "https://www.amazon.in/product/28d9d5bc-d204-4b4b-93d6-04de20b34a2f",
+      "image_url": "https://via.placeholder.com/300x300?text=Smartphone",
+      "site": "Amazon",
+      "category": "smartphone",
+      "scraped_at": "2025-06-05T15:01:23.492811",
+      "rating": 4.2,
+      "reviews_count": 2990
+    },
+    {
+      "name": "iPhone 14 Lite",
+      "price": 131350.66,
+      "url": "https://www.amazon.in/product/31fea232-ef7a-498c-b357-d2f89e7fd506",
+      "image_url": "https://via.placeholder.com/300x300?text=Smartphone",
+      "site": "Amazon",
+      "category": "smartphone",
+      "scraped_at": "2025-06-05T15:01:23.492815",
+      "rating": 4.7,
+      "reviews_count": 1674
+    },
+    {
+      "name": "Realme 11 Ultra",
+      "price": 31508.6,
+      "url": "https://www.amazon.in/product/b805399d-05e8-4d31-93e8-a12aa5f1359c",
+      "image_url": "https://via.placeholder.com/300x300?text=Smartphone",
+      "site": "Amazon",
+      "category": "smartphone",
+      "scraped_at": "2025-06-05T15:01:23.492819",
+      "rating": 4.3,
+      "reviews_count": 2458
+    },
+    {
+      "name": "iPhone 14 Lite",
+      "price": 63483.51,
+      "url": "https://www.amazon.in/product/9dcfd4f2-17a2-4d1d-9c7d-502acd394cad",
+      "image_url": "https://via.placeholder.com/300x300?text=Smartphone",
+      "site": "Amazon",
+      "category": "smartphone",
+      "scraped_at": "2025-06-05T15:01:23.492823",
+      "rating": 4.8,
+      "reviews_count": 1891
+    },
+    {
+      "name": "iPhone 11 SE",
+      "price": 93689.63,
+      "url": "https://www.amazon.in/product/b292c80a-ac76-4f44-9dc6-955d67cdd3cb",
+      "image_url": "https://via.placeholder.com/300x300?text=Smartphone",
+      "site": "Amazon",
+      "category": "smartphone",
+      "scraped_at": "2025-06-05T15:01:23.492827",
+      "rating": 4.1,
+      "reviews_count": 946
+    },
+    {
+      "name": "Realme S23 Pro",
+      "price": 12109.54,
+      "url": "https://www.amazon.in/product/54d0a61b-fbd8-4a7e-85e3-d4337940a168",
+      "image_url": "https://via.placeholder.com/300x300?text=Smartphone",
+      "site": "Amazon",
+      "category": "smartphone",
+      "scraped_at": "2025-06-05T15:01:23.492831",
+      "rating": 3.7,
+      "reviews_count": 2165
+    },
+    {
+      "name": "Realme Reno Ultra",
+      "price": 120490.92,
+      "url": "https://www.amazon.in/product/b9233ddd-342f-4f87-8769-46f32b192e2d",
+      "image_url": "https://via.placeholder.com/300x300?text=Smartphone",
+      "site": "Amazon",
+      "category": "smartphone",
+      "scraped_at": "2025-06-05T15:01:23.492835",
+      "rating": 3.7,
+      "reviews_count": 1453
+    },
+    {
+      "name": "OnePlus Reno SE",
+      "price": 76887.93,
+      "url": "https://www.flipkart.in/product/9dccdb04-0440-4bd2-846b-6c7c0c984450",
+      "image_url": "https://via.placeholder.com/300x300?text=Smartphone",
+      "site": "Flipkart",
+      "category": "smartphone",
+      "scraped_at": "2025-06-05T15:01:23.492840",
+      "rating": 4.0,
+      "reviews_count": 390
+    },
+    {
+      "name": "Xiaomi 10 Pro Plus",
+      "price": 26770.95,
+      "url": "https://www.flipkart.in/product/fe35071e-a2e3-4a8b-90b7-94e6f59d40d1",
+      "image_url": "https://via.placeholder.com/300x300?text=Smartphone",
+      "site": "Flipkart",
+      "category": "smartphone",
+      "scraped_at": "2025-06-05T15:01:23.492844",
+      "rating": 4.0,
+      "reviews_count": 4809
+    },
+    {
+      "name": "Oppo 10 Pro",
+      "price": 49502.82,
+      "url": "https://www.flipkart.in/product/56e152d4-1353-4c21-aa7b-42bfbb7f955b",
+      "image_url": "https://via.placeholder.com/300x300?text=Smartphone",
+      "site": "Flipkart",
+      "category": "smartphone",
+      "scraped_at": "2025-06-05T15:01:23.492848",
+      "rating": 4.0,
+      "reviews_count": 3729
+    },
+    {
+      "name": "Realme 10 Pro SE",
+      "price": 20046.04,
+      "url": "https://www.flipkart.in/product/eca912a0-93a7-4407-8958-792d6466508f",
+      "image_url": "https://via.placeholder.com/300x300?text=Smartphone",
+      "site": "Flipkart",
+      "category": "smartphone",
+      "scraped_at": "2025-06-05T15:01:23.492852",
+      "rating": 4.3,
+      "reviews_count": 2114
+    },
+    {
+      "name": "Realme S23 Plus",
+      "price": 95718.18,
+      "url": "https://www.flipkart.in/product/6e950731-5ffd-4860-a329-ab9439b7d231",
+      "image_url": "https://via.placeholder.com/300x300?text=Smartphone",
+      "site": "Flipkart",
+      "category": "smartphone",
+      "scraped_at": "2025-06-05T15:01:23.492856",
+      "rating": 3.7,
+      "reviews_count": 4493
+    },
+    {
+      "name": "Xiaomi Reno Pro",
+      "price": 52974.68,
+      "url": "https://www.flipkart.in/product/d590cc95-5882-4d05-96bb-efcb82b258b7",
+      "image_url": "https://via.placeholder.com/300x300?text=Smartphone",
+      "site": "Flipkart",
+      "category": "smartphone",
+      "scraped_at": "2025-06-05T15:01:23.492860",
+      "rating": 4.8,
+      "reviews_count": 2927
+    },
+    {
+      "name": "iPhone 10 Pro Lite",
+      "price": 57091.74,
+      "url": "https://www.flipkart.in/product/edb17196-ecc0-4813-aa0a-3912315586d2",
+      "image_url": "https://via.placeholder.com/300x300?text=Smartphone",
+      "site": "Flipkart",
+      "category": "smartphone",
+      "scraped_at": "2025-06-05T15:01:23.492864",
+      "rating": 3.7,
+      "reviews_count": 3305
+    },
+    {
+      "name": "OnePlus 10 Pro Max",
+      "price": 43175.55,
+      "url": "https://www.flipkart.in/product/624f3c2f-996f-41ff-9be6-4c02b0777773",
+      "image_url": "https://via.placeholder.com/300x300?text=Smartphone",
+      "site": "Flipkart",
+      "category": "smartphone",
+      "scraped_at": "2025-06-05T15:01:23.492868",
+      "rating": 3.6,
+      "reviews_count": 4660
+    },
+    {
+      "name": "Audio-Technica WH-1000XM4 Max",
+      "price": 5185.43,
+      "url": "https://www.amazon.in/product/28c1476f-868b-4e31-87fb-02a74b47f255",
+      "image_url": "https://via.placeholder.com/300x300?text=Headphones",
+      "site": "Amazon",
+      "category": "headphones",
+      "scraped_at": "2025-06-05T15:01:23.492879",
+      "rating": 4.4,
+      "reviews_count": 4641
+    },
+    {
+      "name": "JBL WH-1000XM4",
+      "price": 20131.52,
+      "url": "https://www.amazon.in/product/1740d710-e1ff-42a1-93b8-dff4b24411aa",
+      "image_url": "https://via.placeholder.com/300x300?text=Headphones",
+      "site": "Amazon",
+      "category": "headphones",
+      "scraped_at": "2025-06-05T15:01:23.492883",
+      "rating": 4.8,
+      "reviews_count": 1665
+    },
+    {
+      "name": "Sennheiser HD 450BT Pro",
+      "price": 22581.24,
+      "url": "https://www.amazon.in/product/cc1df6fb-d665-4071-a929-8fccdecdbb9c",
+      "image_url": "https://via.placeholder.com/300x300?text=Headphones",
+      "site": "Amazon",
+      "category": "headphones",
+      "scraped_at": "2025-06-05T15:01:23.492887",
+      "rating": 3.7,
+      "reviews_count": 1843
+    },
+    {
+      "name": "Sennheiser QuietComfort",
+      "price": 27923.12,
+      "url": "https://www.amazon.in/product/775c12c6-1fe4-48d8-988a-8c6b43764dc9",
+      "image_url": "https://via.placeholder.com/300x300?text=Headphones",
+      "site": "Amazon",
+      "category": "headphones",
+      "scraped_at": "2025-06-05T15:01:23.492891",
+      "rating": 3.8,
+      "reviews_count": 3291
+    },
+    {
+      "name": "JBL ATH-M50x Lite",
+      "price": 5441.42,
+      "url": "https://www.amazon.in/product/bd078143-0c72-4ab4-9944-52b25f05ec69",
+      "image_url": "https://via.placeholder.com/300x300?text=Headphones",
+      "site": "Amazon",
+      "category": "headphones",
+      "scraped_at": "2025-06-05T15:01:23.492895",
+      "rating": 4.4,
+      "reviews_count": 1824
+    },
+    {
+      "name": "Audio-Technica Tune 750 Max",
+      "price": 34421.97,
+      "url": "https://www.amazon.in/product/e7c6e00d-964d-45c8-9563-8349cfda294c",
+      "image_url": "https://via.placeholder.com/300x300?text=Headphones",
+      "site": "Amazon",
+      "category": "headphones",
+      "scraped_at": "2025-06-05T15:01:23.492899",
+      "rating": 3.7,
+      "reviews_count": 4543
+    },
+    {
+      "name": "Sennheiser Studio3 Pro",
+      "price": 9810.95,
+      "url": "https://www.amazon.in/product/3d2bdc06-94e6-4a4f-9b3e-1e22819ac9cc",
+      "image_url": "https://via.placeholder.com/300x300?text=Headphones",
+      "site": "Amazon",
+      "category": "headphones",
+      "scraped_at": "2025-06-05T15:01:23.492904",
+      "rating": 3.9,
+      "reviews_count": 4731
+    },
+    {
+      "name": "Bose ATH-M50x Lite",
+      "price": 4108.57,
+      "url": "https://www.amazon.in/product/e2e42e67-61eb-41f0-b2ca-8e1bcb71fef1",
+      "image_url": "https://via.placeholder.com/300x300?text=Headphones",
+      "site": "Amazon",
+      "category": "headphones",
+      "scraped_at": "2025-06-05T15:01:23.492908",
+      "rating": 4.0,
+      "reviews_count": 3675
+    },
+    {
+      "name": "Bose WH-1000XM4 Plus",
+      "price": 22422.67,
+      "url": "https://www.flipkart.in/product/08f5fa75-e7e7-45a0-88e0-a5ea15d2c216",
+      "image_url": "https://via.placeholder.com/300x300?text=Headphones",
+      "site": "Flipkart",
+      "category": "headphones",
+      "scraped_at": "2025-06-05T15:01:23.492913",
+      "rating": 4.2,
+      "reviews_count": 3330
+    },
+    {
+      "name": "Sony HD 450BT Max",
+      "price": 26149.5,
+      "url": "https://www.flipkart.in/product/baae23cb-fb68-4df8-93b2-d83af86a7078",
+      "image_url": "https://via.placeholder.com/300x300?text=Headphones",
+      "site": "Flipkart",
+      "category": "headphones",
+      "scraped_at": "2025-06-05T15:01:23.492917",
+      "rating": 4.8,
+      "reviews_count": 1038
+    },
+    {
+      "name": "Sony WH-1000XM4 Ultra",
+      "price": 14939.04,
+      "url": "https://www.flipkart.in/product/8dd9d41f-7464-4438-97ea-8b73722e07d5",
+      "image_url": "https://via.placeholder.com/300x300?text=Headphones",
+      "site": "Flipkart",
+      "category": "headphones",
+      "scraped_at": "2025-06-05T15:01:23.492921",
+      "rating": 4.1,
+      "reviews_count": 3072
+    },
+    {
+      "name": "JBL HD 450BT Max",
+      "price": 12371.16,
+      "url": "https://www.flipkart.in/product/c893f3bd-4c40-41b7-92f3-fb588498ed75",
+      "image_url": "https://via.placeholder.com/300x300?text=Headphones",
+      "site": "Flipkart",
+      "category": "headphones",
+      "scraped_at": "2025-06-05T15:01:23.492925",
+      "rating": 4.3,
+      "reviews_count": 291
+    },
+    {
+      "name": "Beats HD 450BT Ultra",
+      "price": 8499.77,
+      "url": "https://www.flipkart.in/product/fcb63b05-09b8-4475-ab75-6b2bb3721ad5",
+      "image_url": "https://via.placeholder.com/300x300?text=Headphones",
+      "site": "Flipkart",
+      "category": "headphones",
+      "scraped_at": "2025-06-05T15:01:23.492929",
+      "rating": 4.4,
+      "reviews_count": 4207
+    },
+    {
+      "name": "Sony QuietComfort Lite",
+      "price": 34625.67,
+      "url": "https://www.flipkart.in/product/3bd2059e-9551-41b6-bb06-5b0901b3db93",
+      "image_url": "https://via.placeholder.com/300x300?text=Headphones",
+      "site": "Flipkart",
+      "category": "headphones",
+      "scraped_at": "2025-06-05T15:01:23.492933",
+      "rating": 3.6,
+      "reviews_count": 2956
+    },
+    {
+      "name": "Bose Tune 750 SE",
+      "price": 35466.5,
+      "url": "https://www.flipkart.in/product/50797ba3-63b8-49ec-b27c-f8347d25b6db",
+      "image_url": "https://via.placeholder.com/300x300?text=Headphones",
+      "site": "Flipkart",
+      "category": "headphones",
+      "scraped_at": "2025-06-05T15:01:23.492937",
+      "rating": 3.8,
+      "reviews_count": 2118
+    },
+    {
+      "name": "Sony ATH-M50x SE",
+      "price": 24631.01,
+      "url": "https://www.flipkart.in/product/6d10c1cf-dd4e-4d13-a5ff-b23216a39d32",
+      "image_url": "https://via.placeholder.com/300x300?text=Headphones",
+      "site": "Flipkart",
+      "category": "headphones",
+      "scraped_at": "2025-06-05T15:01:23.492941",
+      "rating": 3.8,
+      "reviews_count": 3379
+    },
+    {
+      "name": "Adidas Classic Max",
+      "price": 5538.45,
+      "url": "https://www.amazon.in/product/0c2e21a6-a457-401a-b2d2-6d68a1868bb0",
+      "image_url": "https://via.placeholder.com/300x300?text=Shoes",
+      "site": "Amazon",
+      "category": "shoes",
+      "scraped_at": "2025-06-05T15:01:23.492951",
+      "rating": 3.9,
+      "reviews_count": 1503
+    },
+    {
+      "name": "New Balance Air Max Plus",
+      "price": 13435.04,
+      "url": "https://www.amazon.in/product/2bd43d0e-2ccd-4639-9a98-dfb49064acb9",
+      "image_url": "https://via.placeholder.com/300x300?text=Shoes",
+      "site": "Amazon",
+      "category": "shoes",
+      "scraped_at": "2025-06-05T15:01:23.492956",
+      "rating": 4.4,
+      "reviews_count": 2155
+    },
+    {
+      "name": "New Balance Classic Pro",
+      "price": 10205.13,
+      "url": "https://www.amazon.in/product/8fee33bb-efc4-4ed5-af6e-67d592039290",
+      "image_url": "https://via.placeholder.com/300x300?text=Shoes",
+      "site": "Amazon",
+      "category": "shoes",
+      "scraped_at": "2025-06-05T15:01:23.492960",
+      "rating": 4.9,
+      "reviews_count": 2517
+    },
+    {
+      "name": "Reebok Chuck Taylor Plus",
+      "price": 10946.58,
+      "url": "https://www.amazon.in/product/b0e286e3-32fb-4759-ba09-70bb9f2f867a",
+      "image_url": "https://via.placeholder.com/300x300?text=Shoes",
+      "site": "Amazon",
+      "category": "shoes",
+      "scraped_at": "2025-06-05T15:01:23.492964",
+      "rating": 4.0,
+      "reviews_count": 3408
+    },
+    {
+      "name": "Reebok Classic SE",
+      "price": 12680.68,
+      "url": "https://www.amazon.in/product/ef8c450d-cb8c-4ffa-854b-5d678c94bd64",
+      "image_url": "https://via.placeholder.com/300x300?text=Shoes",
+      "site": "Amazon",
+      "category": "shoes",
+      "scraped_at": "2025-06-05T15:01:23.492968",
+      "rating": 3.5,
+      "reviews_count": 4479
+    },
+    {
+      "name": "Puma 574 SE",
+      "price": 9320.48,
+      "url": "https://www.amazon.in/product/f074c93b-8296-46ea-9a33-08c807f0a1e5",
+      "image_url": "https://via.placeholder.com/300x300?text=Shoes",
+      "site": "Amazon",
+      "category": "shoes",
+      "scraped_at": "2025-06-05T15:01:23.492973",
+      "rating": 4.8,
+      "reviews_count": 1754
+    },
+    {
+      "name": "New Balance Air Max Max",
+      "price": 12466.87,
+      "url": "https://www.amazon.in/product/dd3c2018-bc87-45c7-9b9f-7076808eb2f0",
+      "image_url": "https://via.placeholder.com/300x300?text=Shoes",
+      "site": "Amazon",
+      "category": "shoes",
+      "scraped_at": "2025-06-05T15:01:23.492977",
+      "rating": 3.9,
+      "reviews_count": 89
+    },
+    {
+      "name": "Puma 574 Ultra",
+      "price": 7516.38,
+      "url": "https://www.amazon.in/product/b07f67b7-cdcc-4db6-a458-b599e27f3220",
+      "image_url": "https://via.placeholder.com/300x300?text=Shoes",
+      "site": "Amazon",
+      "category": "shoes",
+      "scraped_at": "2025-06-05T15:01:23.492981",
+      "rating": 4.9,
+      "reviews_count": 2000
+    },
+    {
+      "name": "Reebok Chuck Taylor SE",
+      "price": 6965.41,
+      "url": "https://www.flipkart.in/product/dd2bad7c-14d0-48d8-9b53-4ad74ff1dd97",
+      "image_url": "https://via.placeholder.com/300x300?text=Shoes",
+      "site": "Flipkart",
+      "category": "shoes",
+      "scraped_at": "2025-06-05T15:01:23.492985",
+      "rating": 4.7,
+      "reviews_count": 2020
+    },
+    {
+      "name": "Nike Classic SE",
+      "price": 4903.55,
+      "url": "https://www.flipkart.in/product/cddf2044-672f-4d55-8155-b3576f552da4",
+      "image_url": "https://via.placeholder.com/300x300?text=Shoes",
+      "site": "Flipkart",
+      "category": "shoes",
+      "scraped_at": "2025-06-05T15:01:23.492989",
+      "rating": 4.5,
+      "reviews_count": 2365
+    },
+    {
+      "name": "Nike Classic Lite",
+      "price": 10818.78,
+      "url": "https://www.flipkart.in/product/63e2db7d-554e-4f10-b936-6aa88a821da8",
+      "image_url": "https://via.placeholder.com/300x300?text=Shoes",
+      "site": "Flipkart",
+      "category": "shoes",
+      "scraped_at": "2025-06-05T15:01:23.492993",
+      "rating": 4.4,
+      "reviews_count": 2876
+    },
+    {
+      "name": "Puma Air Max Plus",
+      "price": 10930.31,
+      "url": "https://www.flipkart.in/product/b495010b-91c4-4676-a97c-c270eec43f37",
+      "image_url": "https://via.placeholder.com/300x300?text=Shoes",
+      "site": "Flipkart",
+      "category": "shoes",
+      "scraped_at": "2025-06-05T15:01:23.492997",
+      "rating": 4.5,
+      "reviews_count": 3502
+    },
+    {
+      "name": "Nike Chuck Taylor Plus",
+      "price": 3042.66,
+      "url": "https://www.flipkart.in/product/e05811a0-6996-4df1-9a6b-33125c95cb78",
+      "image_url": "https://via.placeholder.com/300x300?text=Shoes",
+      "site": "Flipkart",
+      "category": "shoes",
+      "scraped_at": "2025-06-05T15:01:23.493001",
+      "rating": 4.2,
+      "reviews_count": 4468
+    },
+    {
+      "name": "Reebok Ultraboost",
+      "price": 11477.74,
+      "url": "https://www.flipkart.in/product/3e2bd1df-03ae-4976-8154-dde3f25b09fe",
+      "image_url": "https://via.placeholder.com/300x300?text=Shoes",
+      "site": "Flipkart",
+      "category": "shoes",
+      "scraped_at": "2025-06-05T15:01:23.493005",
+      "rating": 4.4,
+      "reviews_count": 96
+    },
+    {
+      "name": "Converse Air Max",
+      "price": 8726.0,
+      "url": "https://www.flipkart.in/product/402d7125-9b45-40a9-8ab0-523100691098",
+      "image_url": "https://via.placeholder.com/300x300?text=Shoes",
+      "site": "Flipkart",
+      "category": "shoes",
+      "scraped_at": "2025-06-05T15:01:23.493009",
+      "rating": 4.9,
+      "reviews_count": 3288
+    },
+    {
+      "name": "Adidas Air Max Pro",
+      "price": 13624.92,
+      "url": "https://www.flipkart.in/product/5145cb66-4db3-4ace-96f1-55a4d2f5ef65",
+      "image_url": "https://via.placeholder.com/300x300?text=Shoes",
+      "site": "Flipkart",
+      "category": "shoes",
+      "scraped_at": "2025-06-05T15:01:23.493012",
+      "rating": 5.0,
+      "reviews_count": 3927
+    },
+    {
+      "name": "Cambridge Textbook Lite",
+      "price": 1070.96,
+      "url": "https://www.amazon.in/product/de2ec651-285d-42dd-b058-272dee5d7acf",
+      "image_url": "https://via.placeholder.com/300x300?text=Books",
+      "site": "Amazon",
+      "category": "books",
+      "scraped_at": "2025-06-05T15:01:23.493022",
+      "rating": 4.4,
+      "reviews_count": 1895
+    },
+    {
+      "name": "Cambridge Academic Ultra",
+      "price": 2326.4,
+      "url": "https://www.amazon.in/product/3f22dcc3-efd1-4bf0-bb37-3ea1ef6cd64b",
+      "image_url": "https://via.placeholder.com/300x300?text=Books",
+      "site": "Amazon",
+      "category": "books",
+      "scraped_at": "2025-06-05T15:01:23.493027",
+      "rating": 4.1,
+      "reviews_count": 340
+    },
+    {
+      "name": "HarperCollins Classics",
+      "price": 334.42,
+      "url": "https://www.amazon.in/product/73de9d42-fe98-4678-abe1-7db2cbfab7c3",
+      "image_url": "https://via.placeholder.com/300x300?text=Books",
+      "site": "Amazon",
+      "category": "books",
+      "scraped_at": "2025-06-05T15:01:23.493031",
+      "rating": 4.4,
+      "reviews_count": 4884
+    },
+    {
+      "name": "Random House Textbook Ultra",
+      "price": 2587.02,
+      "url": "https://www.amazon.in/product/6f43af6c-72f3-4f2d-a735-0da982f9093d",
+      "image_url": "https://via.placeholder.com/300x300?text=Books",
+      "site": "Amazon",
+      "category": "books",
+      "scraped_at": "2025-06-05T15:01:23.493034",
+      "rating": 4.9,
+      "reviews_count": 2106
+    },
+    {
+      "name": "HarperCollins Children Ultra",
+      "price": 574.89,
+      "url": "https://www.amazon.in/product/947545a8-01a6-4620-8543-ced94a573a0e",
+      "image_url": "https://via.placeholder.com/300x300?text=Books",
+      "site": "Amazon",
+      "category": "books",
+      "scraped_at": "2025-06-05T15:01:23.493038",
+      "rating": 4.9,
+      "reviews_count": 501
+    },
+    {
+      "name": "Scholastic Textbook Plus",
+      "price": 1214.38,
+      "url": "https://www.amazon.in/product/72a5df1d-12d2-4d37-b75c-bc876fbaeee2",
+      "image_url": "https://via.placeholder.com/300x300?text=Books",
+      "site": "Amazon",
+      "category": "books",
+      "scraped_at": "2025-06-05T15:01:23.493042",
+      "rating": 4.6,
+      "reviews_count": 4788
+    },
+    {
+      "name": "Penguin Modern Fiction",
+      "price": 2073.6,
+      "url": "https://www.amazon.in/product/d0c79289-23dd-4648-be4e-8d8108d34571",
+      "image_url": "https://via.placeholder.com/300x300?text=Books",
+      "site": "Amazon",
+      "category": "books",
+      "scraped_at": "2025-06-05T15:01:23.493046",
+      "rating": 3.8,
+      "reviews_count": 1850
+    },
+    {
+      "name": "Oxford Academic Lite",
+      "price": 924.08,
+      "url": "https://www.amazon.in/product/477f779e-ff33-43f2-8b7c-7c0d0a4d79e9",
+      "image_url": "https://via.placeholder.com/300x300?text=Books",
+      "site": "Amazon",
+      "category": "books",
+      "scraped_at": "2025-06-05T15:01:23.493050",
+      "rating": 4.1,
+      "reviews_count": 1233
+    },
+    {
+      "name": "Random House Modern Fiction Lite",
+      "price": 719.15,
+      "url": "https://www.flipkart.in/product/9e84791e-732a-4d38-ac2d-3e8c4d2f61eb",
+      "image_url": "https://via.placeholder.com/300x300?text=Books",
+      "site": "Flipkart",
+      "category": "books",
+      "scraped_at": "2025-06-05T15:01:23.493054",
+      "rating": 4.7,
+      "reviews_count": 1714
+    },
+    {
+      "name": "Random House Classics Lite",
+      "price": 1664.06,
+      "url": "https://www.flipkart.in/product/a24b2b5c-5644-4ba5-aedb-d5724ba72baf",
+      "image_url": "https://via.placeholder.com/300x300?text=Books",
+      "site": "Flipkart",
+      "category": "books",
+      "scraped_at": "2025-06-05T15:01:23.493058",
+      "rating": 3.7,
+      "reviews_count": 2032
+    },
+    {
+      "name": "Random House Classics SE",
+      "price": 1914.26,
+      "url": "https://www.flipkart.in/product/3f0cc196-3548-47c2-b18b-356f084d04c2",
+      "image_url": "https://via.placeholder.com/300x300?text=Books",
+      "site": "Flipkart",
+      "category": "books",
+      "scraped_at": "2025-06-05T15:01:23.493062",
+      "rating": 3.7,
+      "reviews_count": 4563
+    },
+    {
+      "name": "Penguin Academic Pro",
+      "price": 1382.83,
+      "url": "https://www.flipkart.in/product/e363e361-91a2-4768-96d0-0cda2a92ddcd",
+      "image_url": "https://via.placeholder.com/300x300?text=Books",
+      "site": "Flipkart",
+      "category": "books",
+      "scraped_at": "2025-06-05T15:01:23.493066",
+      "rating": 4.8,
+      "reviews_count": 504
+    },
+    {
+      "name": "Penguin Textbook Lite",
+      "price": 1197.09,
+      "url": "https://www.flipkart.in/product/8496e080-2067-46c4-8598-6132eb192c6a",
+      "image_url": "https://via.placeholder.com/300x300?text=Books",
+      "site": "Flipkart",
+      "category": "books",
+      "scraped_at": "2025-06-05T15:01:23.493070",
+      "rating": 4.5,
+      "reviews_count": 4039
+    },
+    {
+      "name": "Oxford Modern Fiction",
+      "price": 1896.23,
+      "url": "https://www.flipkart.in/product/75b4a4d3-da54-44d2-981e-ba8025a5fee3",
+      "image_url": "https://via.placeholder.com/300x300?text=Books",
+      "site": "Flipkart",
+      "category": "books",
+      "scraped_at": "2025-06-05T15:01:23.493073",
+      "rating": 3.5,
+      "reviews_count": 4572
+    },
+    {
+      "name": "HarperCollins Modern Fiction Lite",
+      "price": 2534.33,
+      "url": "https://www.flipkart.in/product/58670d52-553b-4ecf-9714-f1795b097330",
+      "image_url": "https://via.placeholder.com/300x300?text=Books",
+      "site": "Flipkart",
+      "category": "books",
+      "scraped_at": "2025-06-05T15:01:23.493077",
+      "rating": 4.3,
+      "reviews_count": 4922
+    },
+    {
+      "name": "Scholastic Children Ultra",
+      "price": 2703.57,
+      "url": "https://www.flipkart.in/product/2c53015e-1e13-49f6-b8bf-1b114edb4ed9",
+      "image_url": "https://via.placeholder.com/300x300?text=Books",
+      "site": "Flipkart",
+      "category": "books",
+      "scraped_at": "2025-06-05T15:01:23.493081",
+      "rating": 4.5,
+      "reviews_count": 2905
+    },
+    {
+      "name": "Timex Digital Ultra",
+      "price": 4089.76,
+      "url": "https://www.amazon.in/product/f329072e-a7f9-4a0c-b9ec-e155789e5ff1",
+      "image_url": "https://via.placeholder.com/300x300?text=Watch",
+      "site": "Amazon",
+      "category": "watch",
+      "scraped_at": "2025-06-05T15:01:23.493091",
+      "rating": 3.7,
+      "reviews_count": 839
+    },
+    {
+      "name": "Citizen Analog SE",
+      "price": 15598.95,
+      "url": "https://www.amazon.in/product/55910741-e034-47ce-854b-5183e240a10c",
+      "image_url": "https://via.placeholder.com/300x300?text=Watch",
+      "site": "Amazon",
+      "category": "watch",
+      "scraped_at": "2025-06-05T15:01:23.493095",
+      "rating": 4.9,
+      "reviews_count": 3272
+    },
+    {
+      "name": "Fossil Dress Plus",
+      "price": 40048.44,
+      "url": "https://www.amazon.in/product/e3c1f778-dcc5-4ba7-8286-3f0b86a7838f",
+      "image_url": "https://via.placeholder.com/300x300?text=Watch",
+      "site": "Amazon",
+      "category": "watch",
+      "scraped_at": "2025-06-05T15:01:23.493099",
+      "rating": 3.8,
+      "reviews_count": 594
+    },
+    {
+      "name": "Titan Dress Pro",
+      "price": 7205.29,
+      "url": "https://www.amazon.in/product/c8bc6be6-967e-49d4-b5ee-7dce0ddc2981",
+      "image_url": "https://via.placeholder.com/300x300?text=Watch",
+      "site": "Amazon",
+      "category": "watch",
+      "scraped_at": "2025-06-05T15:01:23.493103",
+      "rating": 3.9,
+      "reviews_count": 853
+    },
+    {
+      "name": "Titan Analog SE",
+      "price": 13814.96,
+      "url": "https://www.amazon.in/product/1818f51f-5938-43a1-8736-7b68c6a30963",
+      "image_url": "https://via.placeholder.com/300x300?text=Watch",
+      "site": "Amazon",
+      "category": "watch",
+      "scraped_at": "2025-06-05T15:01:23.493107",
+      "rating": 4.1,
+      "reviews_count": 2224
+    },
+    {
+      "name": "Casio Digital",
+      "price": 39384.24,
+      "url": "https://www.amazon.in/product/0a64ec1c-a51c-4f9d-b51c-6791c9566b3f",
+      "image_url": "https://via.placeholder.com/300x300?text=Watch",
+      "site": "Amazon",
+      "category": "watch",
+      "scraped_at": "2025-06-05T15:01:23.493110",
+      "rating": 4.8,
+      "reviews_count": 2508
+    },
+    {
+      "name": "Casio Analog Plus",
+      "price": 36103.97,
+      "url": "https://www.amazon.in/product/742f0177-0e26-4ba5-831f-b7328137cd1a",
+      "image_url": "https://via.placeholder.com/300x300?text=Watch",
+      "site": "Amazon",
+      "category": "watch",
+      "scraped_at": "2025-06-05T15:01:23.493115",
+      "rating": 4.8,
+      "reviews_count": 3801
+    },
+    {
+      "name": "Casio Analog Ultra",
+      "price": 19511.35,
+      "url": "https://www.amazon.in/product/b233aab4-7d3a-4e1d-b47e-e8e0f1b61cb3",
+      "image_url": "https://via.placeholder.com/300x300?text=Watch",
+      "site": "Amazon",
+      "category": "watch",
+      "scraped_at": "2025-06-05T15:01:23.493118",
+      "rating": 3.7,
+      "reviews_count": 4099
+    },
+    {
+      "name": "Timex Smart SE",
+      "price": 15834.89,
+      "url": "https://www.flipkart.in/product/91493a20-4075-41ab-9aca-4fc65c99816f",
+      "image_url": "https://via.placeholder.com/300x300?text=Watch",
+      "site": "Flipkart",
+      "category": "watch",
+      "scraped_at": "2025-06-05T15:01:23.493122",
+      "rating": 3.9,
+      "reviews_count": 4595
+    },
+    {
+      "name": "Fossil Sports SE",
+      "price": 42492.5,
+      "url": "https://www.flipkart.in/product/98bbe40e-98f2-4cc4-87c6-44f5548aefbd",
+      "image_url": "https://via.placeholder.com/300x300?text=Watch",
+      "site": "Flipkart",
+      "category": "watch",
+      "scraped_at": "2025-06-05T15:01:23.493126",
+      "rating": 4.2,
+      "reviews_count": 2978
+    },
+    {
+      "name": "Citizen Digital Plus",
+      "price": 23617.79,
+      "url": "https://www.flipkart.in/product/4bee2404-d68c-4bae-813d-77952296ce78",
+      "image_url": "https://via.placeholder.com/300x300?text=Watch",
+      "site": "Flipkart",
+      "category": "watch",
+      "scraped_at": "2025-06-05T15:01:23.493130",
+      "rating": 4.4,
+      "reviews_count": 981
+    },
+    {
+      "name": "Timex Smart",
+      "price": 2876.74,
+      "url": "https://www.flipkart.in/product/30993193-b757-4075-817e-82bc5b62543b",
+      "image_url": "https://via.placeholder.com/300x300?text=Watch",
+      "site": "Flipkart",
+      "category": "watch",
+      "scraped_at": "2025-06-05T15:01:23.493134",
+      "rating": 3.6,
+      "reviews_count": 3797
+    },
+    {
+      "name": "Casio Analog Max",
+      "price": 44731.62,
+      "url": "https://www.flipkart.in/product/fcf75655-843f-4ad4-9ee6-25ceb94f9291",
+      "image_url": "https://via.placeholder.com/300x300?text=Watch",
+      "site": "Flipkart",
+      "category": "watch",
+      "scraped_at": "2025-06-05T15:01:23.493138",
+      "rating": 5.0,
+      "reviews_count": 3638
+    },
+    {
+      "name": "Citizen Smart Plus",
+      "price": 32834.96,
+      "url": "https://www.flipkart.in/product/9e7590d1-8979-4bc9-bf28-b9fae59f1069",
+      "image_url": "https://via.placeholder.com/300x300?text=Watch",
+      "site": "Flipkart",
+      "category": "watch",
+      "scraped_at": "2025-06-05T15:01:23.493142",
+      "rating": 3.7,
+      "reviews_count": 4407
+    },
+    {
+      "name": "Timex Analog Max",
+      "price": 31182.55,
+      "url": "https://www.flipkart.in/product/3f174fdc-a0da-4cff-98b7-948cbc176726",
+      "image_url": "https://via.placeholder.com/300x300?text=Watch",
+      "site": "Flipkart",
+      "category": "watch",
+      "scraped_at": "2025-06-05T15:01:23.493146",
+      "rating": 4.9,
+      "reviews_count": 2704
+    },
+    {
+      "name": "Casio Smart Max",
+      "price": 50726.7,
+      "url": "https://www.flipkart.in/product/e1d27a9b-dc51-44f3-9740-83edfb423532",
+      "image_url": "https://via.placeholder.com/300x300?text=Watch",
+      "site": "Flipkart",
+      "category": "watch",
+      "scraped_at": "2025-06-05T15:01:23.493149",
+      "rating": 4.5,
+      "reviews_count": 2887
+    },
+    {
+      "name": "Tommy Hilfiger Sport Lite",
+      "price": 3851.36,
+      "url": "https://www.amazon.in/product/c2e29304-7dac-4624-9096-b7e6da3a7881",
+      "image_url": "https://via.placeholder.com/300x300?text=Backpack",
+      "site": "Amazon",
+      "category": "backpack",
+      "scraped_at": "2025-06-05T15:01:23.493159",
+      "rating": 4.6,
+      "reviews_count": 3884
+    },
+    {
+      "name": "VIP Sport Plus",
+      "price": 7222.64,
+      "url": "https://www.amazon.in/product/751797d2-d11a-4524-b431-52aeffe60be2",
+      "image_url": "https://via.placeholder.com/300x300?text=Backpack",
+      "site": "Amazon",
+      "category": "backpack",
+      "scraped_at": "2025-06-05T15:01:23.493163",
+      "rating": 4.2,
+      "reviews_count": 1905
+    },
+    {
+      "name": "Tommy Hilfiger Laptop Lite",
+      "price": 2442.95,
+      "url": "https://www.amazon.in/product/18fec6d8-9d11-4110-9816-a6d1bd61b09c",
+      "image_url": "https://via.placeholder.com/300x300?text=Backpack",
+      "site": "Amazon",
+      "category": "backpack",
+      "scraped_at": "2025-06-05T15:01:23.493167",
+      "rating": 4.4,
+      "reviews_count": 2891
+    },
+    {
+      "name": "Wildcraft Hiking Plus",
+      "price": 1625.48,
+      "url": "https://www.amazon.in/product/147e2711-9567-4d19-91e6-97b54675496f",
+      "image_url": "https://via.placeholder.com/300x300?text=Backpack",
+      "site": "Amazon",
+      "category": "backpack",
+      "scraped_at": "2025-06-05T15:01:23.493171",
+      "rating": 4.4,
+      "reviews_count": 481
+    },
+    {
+      "name": "VIP Casual Pro",
+      "price": 2184.68,
+      "url": "https://www.amazon.in/product/b1eff8a2-a35e-469d-a35e-c0c05203bf65",
+      "image_url": "https://via.placeholder.com/300x300?text=Backpack",
+      "site": "Amazon",
+      "category": "backpack",
+      "scraped_at": "2025-06-05T15:01:23.493174",
+      "rating": 4.1,
+      "reviews_count": 3045
+    },
+    {
+      "name": "Tommy Hilfiger Sport Plus",
+      "price": 7746.36,
+      "url": "https://www.amazon.in/product/d6e31eaf-362a-434a-9086-6040fd2f8b04",
+      "image_url": "https://via.placeholder.com/300x300?text=Backpack",
+      "site": "Amazon",
+      "category": "backpack",
+      "scraped_at": "2025-06-05T15:01:23.493178",
+      "rating": 4.1,
+      "reviews_count": 463
+    },
+    {
+      "name": "Tommy Hilfiger Hiking Plus",
+      "price": 1878.66,
+      "url": "https://www.amazon.in/product/a05c3b30-e0ea-4a4f-af2b-c3e250941302",
+      "image_url": "https://via.placeholder.com/300x300?text=Backpack",
+      "site": "Amazon",
+      "category": "backpack",
+      "scraped_at": "2025-06-05T15:01:23.493182",
+      "rating": 4.7,
+      "reviews_count": 3183
+    },
+    {
+      "name": "Tommy Hilfiger Hiking Pro",
+      "price": 8116.07,
+      "url": "https://www.amazon.in/product/bb201679-2f00-4eb1-9fa5-0b59b3ac7f7e",
+      "image_url": "https://via.placeholder.com/300x300?text=Backpack",
+      "site": "Amazon",
+      "category": "backpack",
+      "scraped_at": "2025-06-05T15:01:23.493186",
+      "rating": 4.0,
+      "reviews_count": 1326
+    },
+    {
+      "name": "Nike Hiking Lite",
+      "price": 7830.65,
+      "url": "https://www.flipkart.in/product/ff251c79-21fb-405f-a667-db8c1e35bf6a",
+      "image_url": "https://via.placeholder.com/300x300?text=Backpack",
+      "site": "Flipkart",
+      "category": "backpack",
+      "scraped_at": "2025-06-05T15:01:23.493190",
+      "rating": 3.6,
+      "reviews_count": 891
+    },
+    {
+      "name": "VIP Sport Max",
+      "price": 2513.97,
+      "url": "https://www.flipkart.in/product/2e002a19-9493-4a2d-9137-88aa8930cc31",
+      "image_url": "https://via.placeholder.com/300x300?text=Backpack",
+      "site": "Flipkart",
+      "category": "backpack",
+      "scraped_at": "2025-06-05T15:01:23.493194",
+      "rating": 3.7,
+      "reviews_count": 3518
+    },
+    {
+      "name": "VIP Casual Pro",
+      "price": 6311.47,
+      "url": "https://www.flipkart.in/product/17a01a01-341b-4244-88c6-e2823f0483c0",
+      "image_url": "https://via.placeholder.com/300x300?text=Backpack",
+      "site": "Flipkart",
+      "category": "backpack",
+      "scraped_at": "2025-06-05T15:01:23.493198",
+      "rating": 4.2,
+      "reviews_count": 4224
+    },
+    {
+      "name": "American Tourister Laptop Pro",
+      "price": 3855.48,
+      "url": "https://www.flipkart.in/product/f22b1263-ae37-4bd3-be59-83284986cf21",
+      "image_url": "https://via.placeholder.com/300x300?text=Backpack",
+      "site": "Flipkart",
+      "category": "backpack",
+      "scraped_at": "2025-06-05T15:01:23.493202",
+      "rating": 3.6,
+      "reviews_count": 4032
+    },
+    {
+      "name": "Wildcraft Laptop Max",
+      "price": 6286.87,
+      "url": "https://www.flipkart.in/product/ece7cdc5-0d14-4fe6-b29c-929c831a29f2",
+      "image_url": "https://via.placeholder.com/300x300?text=Backpack",
+      "site": "Flipkart",
+      "category": "backpack",
+      "scraped_at": "2025-06-05T15:01:23.493206",
+      "rating": 3.8,
+      "reviews_count": 2589
+    },
+    {
+      "name": "VIP Travel SE",
+      "price": 5343.77,
+      "url": "https://www.flipkart.in/product/26ae1e48-b7e3-4aa0-84da-cb0cff9d52d9",
+      "image_url": "https://via.placeholder.com/300x300?text=Backpack",
+      "site": "Flipkart",
+      "category": "backpack",
+      "scraped_at": "2025-06-05T15:01:23.493209",
+      "rating": 4.3,
+      "reviews_count": 1369
+    },
+    {
+      "name": "Wildcraft Casual Plus",
+      "price": 2007.78,
+      "url": "https://www.flipkart.in/product/974936f9-1786-4539-8f39-a2155fd78336",
+      "image_url": "https://via.placeholder.com/300x300?text=Backpack",
+      "site": "Flipkart",
+      "category": "backpack",
+      "scraped_at": "2025-06-05T15:01:23.493214",
+      "rating": 4.1,
+      "reviews_count": 4097
+    },
+    {
+      "name": "Skybags Sport Max",
+      "price": 4970.55,
+      "url": "https://www.flipkart.in/product/04200b2b-cf3f-45f7-b644-5303f34e71bd",
+      "image_url": "https://via.placeholder.com/300x300?text=Backpack",
+      "site": "Flipkart",
+      "category": "backpack",
+      "scraped_at": "2025-06-05T15:01:23.493217",
+      "rating": 4.5,
+      "reviews_count": 4144
+    },
+    {
+      "name": "Fujifilm Mirrorless",
+      "price": 130214.47,
+      "url": "https://www.amazon.in/product/6a9156bc-6780-449e-b1d3-cad2e20fd575",
+      "image_url": "https://via.placeholder.com/300x300?text=Camera",
+      "site": "Amazon",
+      "category": "camera",
+      "scraped_at": "2025-06-05T15:01:23.493227",
+      "rating": 3.8,
+      "reviews_count": 161
+    },
+    {
+      "name": "Fujifilm Mirrorless SE",
+      "price": 60025.03,
+      "url": "https://www.amazon.in/product/7fd00983-0416-4c9f-8200-035425aca839",
+      "image_url": "https://via.placeholder.com/300x300?text=Camera",
+      "site": "Amazon",
+      "category": "camera",
+      "scraped_at": "2025-06-05T15:01:23.493232",
+      "rating": 4.8,
+      "reviews_count": 1559
+    },
+    {
+      "name": "Canon Point & Shoot Max",
+      "price": 103587.89,
+      "url": "https://www.amazon.in/product/152d5f90-7386-4e55-9196-c68784dc5472",
+      "image_url": "https://via.placeholder.com/300x300?text=Camera",
+      "site": "Amazon",
+      "category": "camera",
+      "scraped_at": "2025-06-05T15:01:23.493236",
+      "rating": 4.5,
+      "reviews_count": 2303
+    },
+    {
+      "name": "Canon Action Pro",
+      "price": 77275.77,
+      "url": "https://www.amazon.in/product/c92fcc20-5b62-48a0-9feb-377a438165cc",
+      "image_url": "https://via.placeholder.com/300x300?text=Camera",
+      "site": "Amazon",
+      "category": "camera",
+      "scraped_at": "2025-06-05T15:01:23.493240",
+      "rating": 3.6,
+      "reviews_count": 3565
+    },
+    {
+      "name": "Sony Action Max",
+      "price": 195095.58,
+      "url": "https://www.amazon.in/product/6b85246c-dde6-40be-b25b-7eeca7d8a627",
+      "image_url": "https://via.placeholder.com/300x300?text=Camera",
+      "site": "Amazon",
+      "category": "camera",
+      "scraped_at": "2025-06-05T15:01:23.493244",
+      "rating": 4.2,
+      "reviews_count": 2339
+    },
+    {
+      "name": "Olympus Action Plus",
+      "price": 219194.09,
+      "url": "https://www.amazon.in/product/a11c47e7-10c1-4a24-a2e5-2fec096e70f9",
+      "image_url": "https://via.placeholder.com/300x300?text=Camera",
+      "site": "Amazon",
+      "category": "camera",
+      "scraped_at": "2025-06-05T15:01:23.493247",
+      "rating": 5.0,
+      "reviews_count": 1878
+    },
+    {
+      "name": "Nikon Mirrorless Pro",
+      "price": 169258.22,
+      "url": "https://www.amazon.in/product/a67161fd-d61e-4332-a12e-a938220d6d7b",
+      "image_url": "https://via.placeholder.com/300x300?text=Camera",
+      "site": "Amazon",
+      "category": "camera",
+      "scraped_at": "2025-06-05T15:01:23.493251",
+      "rating": 3.8,
+      "reviews_count": 4790
+    },
+    {
+      "name": "Nikon Instant Lite",
+      "price": 141163.88,
+      "url": "https://www.amazon.in/product/4c33d489-2aec-48e6-bd1c-b4d8c994da7a",
+      "image_url": "https://via.placeholder.com/300x300?text=Camera",
+      "site": "Amazon",
+      "category": "camera",
+      "scraped_at": "2025-06-05T15:01:23.493255",
+      "rating": 4.9,
+      "reviews_count": 1413
+    },
+    {
+      "name": "Panasonic Instant Lite",
+      "price": 136762.15,
+      "url": "https://www.flipkart.in/product/922ca792-29be-45c3-bb15-fe730559b00a",
+      "image_url": "https://via.placeholder.com/300x300?text=Camera",
+      "site": "Flipkart",
+      "category": "camera",
+      "scraped_at": "2025-06-05T15:01:23.493259",
+      "rating": 4.0,
+      "reviews_count": 1556
+    },
+    {
+      "name": "Sony DSLR",
+      "price": 21291.78,
+      "url": "https://www.flipkart.in/product/2a200cff-eece-4100-bab7-bba567925b60",
+      "image_url": "https://via.placeholder.com/300x300?text=Camera",
+      "site": "Flipkart",
+      "category": "camera",
+      "scraped_at": "2025-06-05T15:01:23.493263",
+      "rating": 4.0,
+      "reviews_count": 202
+    },
+    {
+      "name": "Sony Professional Max",
+      "price": 138660.13,
+      "url": "https://www.flipkart.in/product/7d4aa27f-db92-405e-87da-d3eace4619fe",
+      "image_url": "https://via.placeholder.com/300x300?text=Camera",
+      "site": "Flipkart",
+      "category": "camera",
+      "scraped_at": "2025-06-05T15:01:23.493267",
+      "rating": 4.5,
+      "reviews_count": 1770
+    },
+    {
+      "name": "Canon Professional Lite",
+      "price": 91835.54,
+      "url": "https://www.flipkart.in/product/09538cbe-4d28-4094-b38d-d2f31111417d",
+      "image_url": "https://via.placeholder.com/300x300?text=Camera",
+      "site": "Flipkart",
+      "category": "camera",
+      "scraped_at": "2025-06-05T15:01:23.493271",
+      "rating": 4.4,
+      "reviews_count": 3753
+    },
+    {
+      "name": "Nikon Instant Lite",
+      "price": 82277.79,
+      "url": "https://www.flipkart.in/product/6370ed77-f592-4c4b-abc4-0f292c998eb9",
+      "image_url": "https://via.placeholder.com/300x300?text=Camera",
+      "site": "Flipkart",
+      "category": "camera",
+      "scraped_at": "2025-06-05T15:01:23.493275",
+      "rating": 4.7,
+      "reviews_count": 3637
+    },
+    {
+      "name": "Panasonic Professional Lite",
+      "price": 25642.82,
+      "url": "https://www.flipkart.in/product/b9e5d18e-17f3-4cd5-9fa6-0419572c62f0",
+      "image_url": "https://via.placeholder.com/300x300?text=Camera",
+      "site": "Flipkart",
+      "category": "camera",
+      "scraped_at": "2025-06-05T15:01:23.493279",
+      "rating": 4.3,
+      "reviews_count": 322
+    },
+    {
+      "name": "Canon Mirrorless SE",
+      "price": 203583.71,
+      "url": "https://www.flipkart.in/product/1dfd468d-9f4f-4821-aa7b-ca010ec9f268",
+      "image_url": "https://via.placeholder.com/300x300?text=Camera",
+      "site": "Flipkart",
+      "category": "camera",
+      "scraped_at": "2025-06-05T15:01:23.493283",
+      "rating": 4.7,
+      "reviews_count": 4225
+    },
+    {
+      "name": "Fujifilm Instant Lite",
+      "price": 40259.7,
+      "url": "https://www.flipkart.in/product/fde108ff-f86d-4c3f-8df7-55982f1d52b5",
+      "image_url": "https://via.placeholder.com/300x300?text=Camera",
+      "site": "Flipkart",
+      "category": "camera",
+      "scraped_at": "2025-06-05T15:01:23.493287",
+      "rating": 3.8,
+      "reviews_count": 1346
+    },
+    {
+      "name": "Lenovo Tab S8",
+      "price": 62119.52,
+      "url": "https://www.amazon.in/product/87cb7234-824f-40bd-b5cd-c5a14855cafe",
+      "image_url": "https://via.placeholder.com/300x300?text=Tablet",
+      "site": "Amazon",
+      "category": "tablet",
+      "scraped_at": "2025-06-05T15:01:23.493296",
+      "rating": 4.4,
+      "reviews_count": 3426
+    },
+    {
+      "name": "Samsung Tab S8 Ultra",
+      "price": 74228.82,
+      "url": "https://www.amazon.in/product/25881783-499a-4251-837f-11ada6175928",
+      "image_url": "https://via.placeholder.com/300x300?text=Tablet",
+      "site": "Amazon",
+      "category": "tablet",
+      "scraped_at": "2025-06-05T15:01:23.493300",
+      "rating": 4.7,
+      "reviews_count": 2695
+    },
+    {
+      "name": "iPad Go Pro",
+      "price": 27417.5,
+      "url": "https://www.amazon.in/product/8ca587e5-2a84-43ee-88ce-e983da5c7d76",
+      "image_url": "https://via.placeholder.com/300x300?text=Tablet",
+      "site": "Amazon",
+      "category": "tablet",
+      "scraped_at": "2025-06-05T15:01:23.493304",
+      "rating": 3.7,
+      "reviews_count": 2211
+    },
+    {
+      "name": "Samsung Tab S8 Lite",
+      "price": 40617.64,
+      "url": "https://www.amazon.in/product/f69b15fd-9ff1-4782-86e0-27935751fe5d",
+      "image_url": "https://via.placeholder.com/300x300?text=Tablet",
+      "site": "Amazon",
+      "category": "tablet",
+      "scraped_at": "2025-06-05T15:01:23.493308",
+      "rating": 3.5,
+      "reviews_count": 4615
+    },
+    {
+      "name": "iPad S8 Lite",
+      "price": 58266.67,
+      "url": "https://www.amazon.in/product/19ddda6c-1407-4ad0-b1dc-c65e36f8cd94",
+      "image_url": "https://via.placeholder.com/300x300?text=Tablet",
+      "site": "Amazon",
+      "category": "tablet",
+      "scraped_at": "2025-06-05T15:01:23.493311",
+      "rating": 4.9,
+      "reviews_count": 3798
+    },
+    {
+      "name": "Huawei Go Max",
+      "price": 84440.4,
+      "url": "https://www.amazon.in/product/d967abc4-409d-46d0-a495-c99d45f68382",
+      "image_url": "https://via.placeholder.com/300x300?text=Tablet",
+      "site": "Amazon",
+      "category": "tablet",
+      "scraped_at": "2025-06-05T15:01:23.493315",
+      "rating": 3.8,
+      "reviews_count": 2292
+    },
+    {
+      "name": "iPad MatePad Ultra",
+      "price": 10607.27,
+      "url": "https://www.amazon.in/product/bb2974fb-0ceb-4454-a06a-060d9009e7c6",
+      "image_url": "https://via.placeholder.com/300x300?text=Tablet",
+      "site": "Amazon",
+      "category": "tablet",
+      "scraped_at": "2025-06-05T15:01:23.493319",
+      "rating": 4.4,
+      "reviews_count": 2820
+    },
+    {
+      "name": "Amazon Fire M10 Pro",
+      "price": 51440.61,
+      "url": "https://www.amazon.in/product/9d1a94c1-8b73-4dd4-90ca-ffac2710b31f",
+      "image_url": "https://via.placeholder.com/300x300?text=Tablet",
+      "site": "Amazon",
+      "category": "tablet",
+      "scraped_at": "2025-06-05T15:01:23.493323",
+      "rating": 4.2,
+      "reviews_count": 3744
+    },
+    {
+      "name": "Lenovo Tab M10 Lite",
+      "price": 71877.9,
+      "url": "https://www.flipkart.in/product/77e727ce-5f16-4e7b-9152-45165ba83222",
+      "image_url": "https://via.placeholder.com/300x300?text=Tablet",
+      "site": "Flipkart",
+      "category": "tablet",
+      "scraped_at": "2025-06-05T15:01:23.493327",
+      "rating": 3.7,
+      "reviews_count": 339
+    },
+    {
+      "name": "Lenovo Tab HD 10 Plus",
+      "price": 43902.78,
+      "url": "https://www.flipkart.in/product/b3047e2f-8743-408b-9ec0-7e7b046b6ab4",
+      "image_url": "https://via.placeholder.com/300x300?text=Tablet",
+      "site": "Flipkart",
+      "category": "tablet",
+      "scraped_at": "2025-06-05T15:01:23.493331",
+      "rating": 4.5,
+      "reviews_count": 4964
+    },
+    {
+      "name": "Samsung Tab HD 10 Lite",
+      "price": 20599.33,
+      "url": "https://www.flipkart.in/product/9a653696-438d-4b94-a8b3-7bfc708ca74a",
+      "image_url": "https://via.placeholder.com/300x300?text=Tablet",
+      "site": "Flipkart",
+      "category": "tablet",
+      "scraped_at": "2025-06-05T15:01:23.493335",
+      "rating": 4.6,
+      "reviews_count": 4395
+    },
+    {
+      "name": "Samsung Tab M10 Plus",
+      "price": 26163.54,
+      "url": "https://www.flipkart.in/product/55e5e47b-651b-4b2b-a463-f117be2e4e82",
+      "image_url": "https://via.placeholder.com/300x300?text=Tablet",
+      "site": "Flipkart",
+      "category": "tablet",
+      "scraped_at": "2025-06-05T15:01:23.493339",
+      "rating": 4.4,
+      "reviews_count": 2540
+    },
+    {
+      "name": "Lenovo Tab M10 Ultra",
+      "price": 29794.21,
+      "url": "https://www.flipkart.in/product/7b27d084-80f8-4a62-b913-ab49d880d6db",
+      "image_url": "https://via.placeholder.com/300x300?text=Tablet",
+      "site": "Flipkart",
+      "category": "tablet",
+      "scraped_at": "2025-06-05T15:01:23.493343",
+      "rating": 4.1,
+      "reviews_count": 3724
+    },
+    {
+      "name": "Samsung Tab M10 Max",
+      "price": 38731.2,
+      "url": "https://www.flipkart.in/product/930d8d4d-f3a7-4f12-af97-4d5de05346ab",
+      "image_url": "https://via.placeholder.com/300x300?text=Tablet",
+      "site": "Flipkart",
+      "category": "tablet",
+      "scraped_at": "2025-06-05T15:01:23.493347",
+      "rating": 4.8,
+      "reviews_count": 3982
+    },
+    {
+      "name": "Lenovo Tab HD 10 Plus",
+      "price": 50264.89,
+      "url": "https://www.flipkart.in/product/0151f8b5-881f-415e-886f-87c0c9ad866a",
+      "image_url": "https://via.placeholder.com/300x300?text=Tablet",
+      "site": "Flipkart",
+      "category": "tablet",
+      "scraped_at": "2025-06-05T15:01:23.493351",
+      "rating": 4.0,
+      "reviews_count": 3625
+    },
+    {
+      "name": "Huawei MatePad Ultra",
+      "price": 41541.85,
+      "url": "https://www.flipkart.in/product/56a5221d-72a5-4383-8730-1a44f77b56e2",
+      "image_url": "https://via.placeholder.com/300x300?text=Tablet",
+      "site": "Flipkart",
+      "category": "tablet",
+      "scraped_at": "2025-06-05T15:01:23.493355",
+      "rating": 3.6,
+      "reviews_count": 4980
+    },
+    {
+      "name": "Marshall Boom Ultra",
+      "price": 12430.93,
+      "url": "https://www.amazon.in/product/6e071066-9a1c-4d5b-8aab-f838b5cbd393",
+      "image_url": "https://via.placeholder.com/300x300?text=Speaker",
+      "site": "Amazon",
+      "category": "speaker",
+      "scraped_at": "2025-06-05T15:01:23.493364",
+      "rating": 4.3,
+      "reviews_count": 3572
+    },
+    {
+      "name": "Bose Onyx",
+      "price": 28143.99,
+      "url": "https://www.amazon.in/product/1709a34d-6d50-4627-9a02-613f38232673",
+      "image_url": "https://via.placeholder.com/300x300?text=Speaker",
+      "site": "Amazon",
+      "category": "speaker",
+      "scraped_at": "2025-06-05T15:01:23.493368",
+      "rating": 4.9,
+      "reviews_count": 1839
+    },
+    {
+      "name": "JBL Boom Pro",
+      "price": 4767.0,
+      "url": "https://www.amazon.in/product/e16862d8-27cb-49b8-9322-a78c9c4ea008",
+      "image_url": "https://via.placeholder.com/300x300?text=Speaker",
+      "site": "Amazon",
+      "category": "speaker",
+      "scraped_at": "2025-06-05T15:01:23.493372",
+      "rating": 4.0,
+      "reviews_count": 3491
+    },
+    {
+      "name": "Marshall Boom Pro",
+      "price": 12612.35,
+      "url": "https://www.amazon.in/product/03f7283f-b4f1-4d56-8d65-d655f06d92f2",
+      "image_url": "https://via.placeholder.com/300x300?text=Speaker",
+      "site": "Amazon",
+      "category": "speaker",
+      "scraped_at": "2025-06-05T15:01:23.493376",
+      "rating": 4.7,
+      "reviews_count": 1662
+    },
+    {
+      "name": "JBL Onyx Max",
+      "price": 5732.37,
+      "url": "https://www.amazon.in/product/1be326a2-4780-4971-89ed-5658546da3b5",
+      "image_url": "https://via.placeholder.com/300x300?text=Speaker",
+      "site": "Amazon",
+      "category": "speaker",
+      "scraped_at": "2025-06-05T15:01:23.493380",
+      "rating": 5.0,
+      "reviews_count": 3970
+    },
+    {
+      "name": "Bose SoundLink Plus",
+      "price": 23801.77,
+      "url": "https://www.amazon.in/product/b1f471ab-3a24-41d9-abee-774cba0b8936",
+      "image_url": "https://via.placeholder.com/300x300?text=Speaker",
+      "site": "Amazon",
+      "category": "speaker",
+      "scraped_at": "2025-06-05T15:01:23.493384",
+      "rating": 3.5,
+      "reviews_count": 3675
+    },
+    {
+      "name": "JBL SoundLink Plus",
+      "price": 20876.6,
+      "url": "https://www.amazon.in/product/1c824fa6-ac24-4830-a5b4-c3563376a103",
+      "image_url": "https://via.placeholder.com/300x300?text=Speaker",
+      "site": "Amazon",
+      "category": "speaker",
+      "scraped_at": "2025-06-05T15:01:23.493388",
+      "rating": 4.8,
+      "reviews_count": 4365
+    },
+    {
+      "name": "Bose Onyx Lite",
+      "price": 22671.53,
+      "url": "https://www.amazon.in/product/938a0bc4-1a3b-4f9f-a69f-d2cc86fbfef2",
+      "image_url": "https://via.placeholder.com/300x300?text=Speaker",
+      "site": "Amazon",
+      "category": "speaker",
+      "scraped_at": "2025-06-05T15:01:23.493392",
+      "rating": 4.8,
+      "reviews_count": 894
+    },
+    {
+      "name": "Ultimate Ears SRS-XB Plus",
+      "price": 18758.34,
+      "url": "https://www.flipkart.in/product/f67d6032-5135-44df-9663-3c9ebd3fbfd2",
+      "image_url": "https://via.placeholder.com/300x300?text=Speaker",
+      "site": "Flipkart",
+      "category": "speaker",
+      "scraped_at": "2025-06-05T15:01:23.493396",
+      "rating": 3.7,
+      "reviews_count": 558
+    },
+    {
+      "name": "Ultimate Ears Flip",
+      "price": 14913.02,
+      "url": "https://www.flipkart.in/product/47a9fa3a-d8f0-4178-a127-6addf2f0575c",
+      "image_url": "https://via.placeholder.com/300x300?text=Speaker",
+      "site": "Flipkart",
+      "category": "speaker",
+      "scraped_at": "2025-06-05T15:01:23.493400",
+      "rating": 4.4,
+      "reviews_count": 4089
+    },
+    {
+      "name": "JBL Onyx Ultra",
+      "price": 18417.89,
+      "url": "https://www.flipkart.in/product/fe547668-019b-46fc-8bdc-7a35b5e25e71",
+      "image_url": "https://via.placeholder.com/300x300?text=Speaker",
+      "site": "Flipkart",
+      "category": "speaker",
+      "scraped_at": "2025-06-05T15:01:23.493403",
+      "rating": 5.0,
+      "reviews_count": 4936
+    },
+    {
+      "name": "JBL Acton",
+      "price": 24843.39,
+      "url": "https://www.flipkart.in/product/bc5a8c5e-290e-4583-ad4e-47f4a5915c7c",
+      "image_url": "https://via.placeholder.com/300x300?text=Speaker",
+      "site": "Flipkart",
+      "category": "speaker",
+      "scraped_at": "2025-06-05T15:01:23.493407",
+      "rating": 4.6,
+      "reviews_count": 1769
+    },
+    {
+      "name": "Sony Acton Ultra",
+      "price": 18771.84,
+      "url": "https://www.flipkart.in/product/e1e06336-f808-4505-be22-71db38fd8e4c",
+      "image_url": "https://via.placeholder.com/300x300?text=Speaker",
+      "site": "Flipkart",
+      "category": "speaker",
+      "scraped_at": "2025-06-05T15:01:23.493411",
+      "rating": 4.3,
+      "reviews_count": 4026
+    },
+    {
+      "name": "Harman Kardon Boom",
+      "price": 17567.93,
+      "url": "https://www.flipkart.in/product/58cd0d1e-88fb-4f4e-a1a1-afde309f1b91",
+      "image_url": "https://via.placeholder.com/300x300?text=Speaker",
+      "site": "Flipkart",
+      "category": "speaker",
+      "scraped_at": "2025-06-05T15:01:23.493415",
+      "rating": 4.5,
+      "reviews_count": 3529
+    },
+    {
+      "name": "Marshall SoundLink Plus",
+      "price": 7511.75,
+      "url": "https://www.flipkart.in/product/738fe46e-5daa-4147-9661-deb472ef83bf",
+      "image_url": "https://via.placeholder.com/300x300?text=Speaker",
+      "site": "Flipkart",
+      "category": "speaker",
+      "scraped_at": "2025-06-05T15:01:23.493419",
+      "rating": 3.8,
+      "reviews_count": 1003
+    },
+    {
+      "name": "Harman Kardon Onyx Plus",
+      "price": 10359.22,
+      "url": "https://www.flipkart.in/product/2dfaec71-9e89-4b1f-b62a-1f35bc649aa8",
+      "image_url": "https://via.placeholder.com/300x300?text=Speaker",
+      "site": "Flipkart",
+      "category": "speaker",
+      "scraped_at": "2025-06-05T15:01:23.493423",
+      "rating": 4.5,
+      "reviews_count": 2177
+    }
+  ],
+  "price_history": [
+    {
+      "product_name": "Acer VivoBook Max",
+      "site": "Amazon",
+      "price": 162837.28,
+      "category": "laptop",
+      "scraped_at": "2025-06-05T15:01:23.492710"
+    },
+    {
+      "product_name": "Acer VivoBook Max",
+      "site": "Amazon",
+      "price": 155858.68,
+      "category": "laptop",
+      "scraped_at": "2025-05-29T15:01:23.493429"
+    },
+    {
+      "product_name": "Acer VivoBook Max",
+      "site": "Amazon",
+      "price": 148832.09,
+      "category": "laptop",
+      "scraped_at": "2025-05-22T15:01:23.493434"
+    },
+    {
+      "product_name": "Acer VivoBook Max",
+      "site": "Amazon",
+      "price": 150192.26,
+      "category": "laptop",
+      "scraped_at": "2025-05-06T15:01:23.493436"
+    },
+    {
+      "product_name": "Dell Aspire Lite",
+      "site": "Amazon",
+      "price": 93912.71,
+      "category": "laptop",
+      "scraped_at": "2025-06-05T15:01:23.492726"
+    },
+    {
+      "product_name": "Dell Aspire Lite",
+      "site": "Amazon",
+      "price": 93109.23,
+      "category": "laptop",
+      "scraped_at": "2025-05-29T15:01:23.493438"
+    },
+    {
+      "product_name": "Dell Aspire Lite",
+      "site": "Amazon",
+      "price": 91816.47,
+      "category": "laptop",
+      "scraped_at": "2025-05-22T15:01:23.493439"
+    },
+    {
+      "product_name": "Dell Aspire Lite",
+      "site": "Amazon",
+      "price": 91596.55,
+      "category": "laptop",
+      "scraped_at": "2025-05-06T15:01:23.493440"
+    },
+    {
+      "product_name": "Dell ThinkPad",
+      "site": "Amazon",
+      "price": 118757.74,
+      "category": "laptop",
+      "scraped_at": "2025-06-05T15:01:23.492734"
+    },
+    {
+      "product_name": "Dell ThinkPad",
+      "site": "Amazon",
+      "price": 110264.26,
+      "category": "laptop",
+      "scraped_at": "2025-05-29T15:01:23.493442"
+    },
+    {
+      "product_name": "Dell ThinkPad",
+      "site": "Amazon",
+      "price": 124129.18,
+      "category": "laptop",
+      "scraped_at": "2025-05-22T15:01:23.493443"
+    },
+    {
+      "product_name": "Dell ThinkPad",
+      "site": "Amazon",
+      "price": 123232.03,
+      "category": "laptop",
+      "scraped_at": "2025-05-06T15:01:23.493444"
+    },
+    {
+      "product_name": "Dell Pavilion Ultra",
+      "site": "Amazon",
+      "price": 149827.52,
+      "category": "laptop",
+      "scraped_at": "2025-06-05T15:01:23.492739"
+    },
+    {
+      "product_name": "Dell Pavilion Ultra",
+      "site": "Amazon",
+      "price": 137972.7,
+      "category": "laptop",
+      "scraped_at": "2025-05-29T15:01:23.493445"
+    },
+    {
+      "product_name": "Dell Pavilion Ultra",
+      "site": "Amazon",
+      "price": 148089.22,
+      "category": "laptop",
+      "scraped_at": "2025-05-22T15:01:23.493447"
+    },
+    {
+      "product_name": "Dell Pavilion Ultra",
+      "site": "Amazon",
+      "price": 157795.44,
+      "category": "laptop",
+      "scraped_at": "2025-05-06T15:01:23.493448"
+    },
+    {
+      "product_name": "Lenovo VivoBook SE",
+      "site": "Amazon",
+      "price": 72422.21,
+      "category": "laptop",
+      "scraped_at": "2025-06-05T15:01:23.492744"
+    },
+    {
+      "product_name": "Lenovo VivoBook SE",
+      "site": "Amazon",
+      "price": 71973.26,
+      "category": "laptop",
+      "scraped_at": "2025-05-29T15:01:23.493449"
+    },
+    {
+      "product_name": "Lenovo VivoBook SE",
+      "site": "Amazon",
+      "price": 66447.88,
+      "category": "laptop",
+      "scraped_at": "2025-05-22T15:01:23.493450"
+    },
+    {
+      "product_name": "Lenovo VivoBook SE",
+      "site": "Amazon",
+      "price": 70015.72,
+      "category": "laptop",
+      "scraped_at": "2025-05-06T15:01:23.493451"
+    },
+    {
+      "product_name": "MacBook Aspire Max",
+      "site": "Amazon",
+      "price": 129568.04,
+      "category": "laptop",
+      "scraped_at": "2025-06-05T15:01:23.492749"
+    },
+    {
+      "product_name": "MacBook Aspire Max",
+      "site": "Amazon",
+      "price": 122790.18,
+      "category": "laptop",
+      "scraped_at": "2025-05-29T15:01:23.493453"
+    },
+    {
+      "product_name": "MacBook Aspire Max",
+      "site": "Amazon",
+      "price": 142062.83,
+      "category": "laptop",
+      "scraped_at": "2025-05-22T15:01:23.493454"
+    },
+    {
+      "product_name": "MacBook Aspire Max",
+      "site": "Amazon",
+      "price": 127550.37,
+      "category": "laptop",
+      "scraped_at": "2025-05-06T15:01:23.493455"
+    },
+    {
+      "product_name": "MacBook ThinkPad Lite",
+      "site": "Amazon",
+      "price": 30731.88,
+      "category": "laptop",
+      "scraped_at": "2025-06-05T15:01:23.492753"
+    },
+    {
+      "product_name": "MacBook ThinkPad Lite",
+      "site": "Amazon",
+      "price": 31134.45,
+      "category": "laptop",
+      "scraped_at": "2025-05-29T15:01:23.493456"
+    },
+    {
+      "product_name": "MacBook ThinkPad Lite",
+      "site": "Amazon",
+      "price": 28413.17,
+      "category": "laptop",
+      "scraped_at": "2025-05-22T15:01:23.493457"
+    },
+    {
+      "product_name": "MacBook ThinkPad Lite",
+      "site": "Amazon",
+      "price": 32414.72,
+      "category": "laptop",
+      "scraped_at": "2025-05-06T15:01:23.493459"
+    },
+    {
+      "product_name": "ASUS Aspire Pro",
+      "site": "Amazon",
+      "price": 28135.0,
+      "category": "laptop",
+      "scraped_at": "2025-06-05T15:01:23.492758"
+    },
+    {
+      "product_name": "ASUS Aspire Pro",
+      "site": "Amazon",
+      "price": 30062.84,
+      "category": "laptop",
+      "scraped_at": "2025-05-29T15:01:23.493460"
+    },
+    {
+      "product_name": "ASUS Aspire Pro",
+      "site": "Amazon",
+      "price": 26421.52,
+      "category": "laptop",
+      "scraped_at": "2025-05-22T15:01:23.493461"
+    },
+    {
+      "product_name": "ASUS Aspire Pro",
+      "site": "Amazon",
+      "price": 30448.56,
+      "category": "laptop",
+      "scraped_at": "2025-05-06T15:01:23.493462"
+    },
+    {
+      "product_name": "Dell Air",
+      "site": "Flipkart",
+      "price": 60687.6,
+      "category": "laptop",
+      "scraped_at": "2025-06-05T15:01:23.492763"
+    },
+    {
+      "product_name": "Dell Air",
+      "site": "Flipkart",
+      "price": 65681.18,
+      "category": "laptop",
+      "scraped_at": "2025-05-29T15:01:23.493464"
+    },
+    {
+      "product_name": "Dell Air",
+      "site": "Flipkart",
+      "price": 64900.13,
+      "category": "laptop",
+      "scraped_at": "2025-05-22T15:01:23.493465"
+    },
+    {
+      "product_name": "Dell Air",
+      "site": "Flipkart",
+      "price": 63163.85,
+      "category": "laptop",
+      "scraped_at": "2025-05-06T15:01:23.493466"
+    },
+    {
+      "product_name": "Dell VivoBook Lite",
+      "site": "Flipkart",
+      "price": 90338.63,
+      "category": "laptop",
+      "scraped_at": "2025-06-05T15:01:23.492767"
+    },
+    {
+      "product_name": "Dell VivoBook Lite",
+      "site": "Flipkart",
+      "price": 98126.0,
+      "category": "laptop",
+      "scraped_at": "2025-05-29T15:01:23.493467"
+    },
+    {
+      "product_name": "Dell VivoBook Lite",
+      "site": "Flipkart",
+      "price": 82019.47,
+      "category": "laptop",
+      "scraped_at": "2025-05-22T15:01:23.493469"
+    },
+    {
+      "product_name": "Dell VivoBook Lite",
+      "site": "Flipkart",
+      "price": 90623.41,
+      "category": "laptop",
+      "scraped_at": "2025-05-06T15:01:23.493470"
+    },
+    {
+      "product_name": "Lenovo Air SE",
+      "site": "Flipkart",
+      "price": 68275.32,
+      "category": "laptop",
+      "scraped_at": "2025-06-05T15:01:23.492771"
+    },
+    {
+      "product_name": "Lenovo Air SE",
+      "site": "Flipkart",
+      "price": 66287.74,
+      "category": "laptop",
+      "scraped_at": "2025-05-29T15:01:23.493471"
+    },
+    {
+      "product_name": "Lenovo Air SE",
+      "site": "Flipkart",
+      "price": 65778.09,
+      "category": "laptop",
+      "scraped_at": "2025-05-22T15:01:23.493472"
+    },
+    {
+      "product_name": "Lenovo Air SE",
+      "site": "Flipkart",
+      "price": 62818.17,
+      "category": "laptop",
+      "scraped_at": "2025-05-06T15:01:23.493473"
+    },
+    {
+      "product_name": "MacBook Inspiron Ultra",
+      "site": "Flipkart",
+      "price": 112135.55,
+      "category": "laptop",
+      "scraped_at": "2025-06-05T15:01:23.492776"
+    },
+    {
+      "product_name": "MacBook Inspiron Ultra",
+      "site": "Flipkart",
+      "price": 120119.52,
+      "category": "laptop",
+      "scraped_at": "2025-05-29T15:01:23.493474"
+    },
+    {
+      "product_name": "MacBook Inspiron Ultra",
+      "site": "Flipkart",
+      "price": 116138.84,
+      "category": "laptop",
+      "scraped_at": "2025-05-22T15:01:23.493475"
+    },
+    {
+      "product_name": "MacBook Inspiron Ultra",
+      "site": "Flipkart",
+      "price": 102054.39,
+      "category": "laptop",
+      "scraped_at": "2025-05-06T15:01:23.493477"
+    },
+    {
+      "product_name": "Acer Air Ultra",
+      "site": "Flipkart",
+      "price": 63279.18,
+      "category": "laptop",
+      "scraped_at": "2025-06-05T15:01:23.492780"
+    },
+    {
+      "product_name": "Acer Air Ultra",
+      "site": "Flipkart",
+      "price": 61198.55,
+      "category": "laptop",
+      "scraped_at": "2025-05-29T15:01:23.493478"
+    },
+    {
+      "product_name": "Acer Air Ultra",
+      "site": "Flipkart",
+      "price": 60305.71,
+      "category": "laptop",
+      "scraped_at": "2025-05-22T15:01:23.493479"
+    },
+    {
+      "product_name": "Acer Air Ultra",
+      "site": "Flipkart",
+      "price": 66155.72,
+      "category": "laptop",
+      "scraped_at": "2025-05-06T15:01:23.493480"
+    },
+    {
+      "product_name": "HP VivoBook Ultra",
+      "site": "Flipkart",
+      "price": 101757.6,
+      "category": "laptop",
+      "scraped_at": "2025-06-05T15:01:23.492784"
+    },
+    {
+      "product_name": "HP VivoBook Ultra",
+      "site": "Flipkart",
+      "price": 95579.61,
+      "category": "laptop",
+      "scraped_at": "2025-05-29T15:01:23.493482"
+    },
+    {
+      "product_name": "HP VivoBook Ultra",
+      "site": "Flipkart",
+      "price": 109192.36,
+      "category": "laptop",
+      "scraped_at": "2025-05-22T15:01:23.493483"
+    },
+    {
+      "product_name": "HP VivoBook Ultra",
+      "site": "Flipkart",
+      "price": 104326.55,
+      "category": "laptop",
+      "scraped_at": "2025-05-06T15:01:23.493484"
+    },
+    {
+      "product_name": "Acer Air Max",
+      "site": "Flipkart",
+      "price": 33441.02,
+      "category": "laptop",
+      "scraped_at": "2025-06-05T15:01:23.492788"
+    },
+    {
+      "product_name": "Acer Air Max",
+      "site": "Flipkart",
+      "price": 30673.9,
+      "category": "laptop",
+      "scraped_at": "2025-05-29T15:01:23.493485"
+    },
+    {
+      "product_name": "Acer Air Max",
+      "site": "Flipkart",
+      "price": 36597.04,
+      "category": "laptop",
+      "scraped_at": "2025-05-22T15:01:23.493486"
+    },
+    {
+      "product_name": "Acer Air Max",
+      "site": "Flipkart",
+      "price": 31238.85,
+      "category": "laptop",
+      "scraped_at": "2025-05-06T15:01:23.493487"
+    },
+    {
+      "product_name": "HP Air Lite",
+      "site": "Flipkart",
+      "price": 92910.41,
+      "category": "laptop",
+      "scraped_at": "2025-06-05T15:01:23.492792"
+    },
+    {
+      "product_name": "HP Air Lite",
+      "site": "Flipkart",
+      "price": 92267.96,
+      "category": "laptop",
+      "scraped_at": "2025-05-29T15:01:23.493489"
+    },
+    {
+      "product_name": "HP Air Lite",
+      "site": "Flipkart",
+      "price": 97193.17,
+      "category": "laptop",
+      "scraped_at": "2025-05-22T15:01:23.493490"
+    },
+    {
+      "product_name": "HP Air Lite",
+      "site": "Flipkart",
+      "price": 98663.5,
+      "category": "laptop",
+      "scraped_at": "2025-05-06T15:01:23.493491"
+    },
+    {
+      "product_name": "Samsung Galaxy Reno",
+      "site": "Amazon",
+      "price": 15036.94,
+      "category": "smartphone",
+      "scraped_at": "2025-06-05T15:01:23.492806"
+    },
+    {
+      "product_name": "Samsung Galaxy Reno",
+      "site": "Amazon",
+      "price": 13604.07,
+      "category": "smartphone",
+      "scraped_at": "2025-05-29T15:01:23.493492"
+    },
+    {
+      "product_name": "Samsung Galaxy Reno",
+      "site": "Amazon",
+      "price": 14168.13,
+      "category": "smartphone",
+      "scraped_at": "2025-05-22T15:01:23.493493"
+    },
+    {
+      "product_name": "Samsung Galaxy Reno",
+      "site": "Amazon",
+      "price": 14704.37,
+      "category": "smartphone",
+      "scraped_at": "2025-05-06T15:01:23.493494"
+    },
+    {
+      "product_name": "Realme 11 Pro",
+      "site": "Amazon",
+      "price": 9049.71,
+      "category": "smartphone",
+      "scraped_at": "2025-06-05T15:01:23.492811"
+    },
+    {
+      "product_name": "Realme 11 Pro",
+      "site": "Amazon",
+      "price": 9315.6,
+      "category": "smartphone",
+      "scraped_at": "2025-05-29T15:01:23.493496"
+    },
+    {
+      "product_name": "Realme 11 Pro",
+      "site": "Amazon",
+      "price": 9671.67,
+      "category": "smartphone",
+      "scraped_at": "2025-05-22T15:01:23.493497"
+    },
+    {
+      "product_name": "Realme 11 Pro",
+      "site": "Amazon",
+      "price": 8332.44,
+      "category": "smartphone",
+      "scraped_at": "2025-05-06T15:01:23.493498"
+    },
+    {
+      "product_name": "iPhone 14 Lite",
+      "site": "Amazon",
+      "price": 131350.66,
+      "category": "smartphone",
+      "scraped_at": "2025-06-05T15:01:23.492815"
+    },
+    {
+      "product_name": "iPhone 14 Lite",
+      "site": "Amazon",
+      "price": 131246.11,
+      "category": "smartphone",
+      "scraped_at": "2025-05-29T15:01:23.493499"
+    },
+    {
+      "product_name": "iPhone 14 Lite",
+      "site": "Amazon",
+      "price": 130863.78,
+      "category": "smartphone",
+      "scraped_at": "2025-05-22T15:01:23.493500"
+    },
+    {
+      "product_name": "iPhone 14 Lite",
+      "site": "Amazon",
+      "price": 118949.42,
+      "category": "smartphone",
+      "scraped_at": "2025-05-06T15:01:23.493501"
+    },
+    {
+      "product_name": "Realme 11 Ultra",
+      "site": "Amazon",
+      "price": 31508.6,
+      "category": "smartphone",
+      "scraped_at": "2025-06-05T15:01:23.492819"
+    },
+    {
+      "product_name": "Realme 11 Ultra",
+      "site": "Amazon",
+      "price": 33233.79,
+      "category": "smartphone",
+      "scraped_at": "2025-05-29T15:01:23.493503"
+    },
+    {
+      "product_name": "Realme 11 Ultra",
+      "site": "Amazon",
+      "price": 30758.22,
+      "category": "smartphone",
+      "scraped_at": "2025-05-22T15:01:23.493504"
+    },
+    {
+      "product_name": "Realme 11 Ultra",
+      "site": "Amazon",
+      "price": 33851.34,
+      "category": "smartphone",
+      "scraped_at": "2025-05-06T15:01:23.493505"
+    },
+    {
+      "product_name": "iPhone 14 Lite",
+      "site": "Amazon",
+      "price": 63483.51,
+      "category": "smartphone",
+      "scraped_at": "2025-06-05T15:01:23.492823"
+    },
+    {
+      "product_name": "iPhone 14 Lite",
+      "site": "Amazon",
+      "price": 64392.44,
+      "category": "smartphone",
+      "scraped_at": "2025-05-29T15:01:23.493506"
+    },
+    {
+      "product_name": "iPhone 14 Lite",
+      "site": "Amazon",
+      "price": 60710.79,
+      "category": "smartphone",
+      "scraped_at": "2025-05-22T15:01:23.493507"
+    },
+    {
+      "product_name": "iPhone 14 Lite",
+      "site": "Amazon",
+      "price": 69664.28,
+      "category": "smartphone",
+      "scraped_at": "2025-05-06T15:01:23.493508"
+    },
+    {
+      "product_name": "iPhone 11 SE",
+      "site": "Amazon",
+      "price": 93689.63,
+      "category": "smartphone",
+      "scraped_at": "2025-06-05T15:01:23.492827"
+    },
+    {
+      "product_name": "iPhone 11 SE",
+      "site": "Amazon",
+      "price": 93201.59,
+      "category": "smartphone",
+      "scraped_at": "2025-05-29T15:01:23.493510"
+    },
+    {
+      "product_name": "iPhone 11 SE",
+      "site": "Amazon",
+      "price": 100093.09,
+      "category": "smartphone",
+      "scraped_at": "2025-05-22T15:01:23.493511"
+    },
+    {
+      "product_name": "iPhone 11 SE",
+      "site": "Amazon",
+      "price": 96797.2,
+      "category": "smartphone",
+      "scraped_at": "2025-05-06T15:01:23.493512"
+    },
+    {
+      "product_name": "Realme S23 Pro",
+      "site": "Amazon",
+      "price": 12109.54,
+      "category": "smartphone",
+      "scraped_at": "2025-06-05T15:01:23.492831"
+    },
+    {
+      "product_name": "Realme S23 Pro",
+      "site": "Amazon",
+      "price": 12421.99,
+      "category": "smartphone",
+      "scraped_at": "2025-05-29T15:01:23.493513"
+    },
+    {
+      "product_name": "Realme S23 Pro",
+      "site": "Amazon",
+      "price": 12525.78,
+      "category": "smartphone",
+      "scraped_at": "2025-05-22T15:01:23.493515"
+    },
+    {
+      "product_name": "Realme S23 Pro",
+      "site": "Amazon",
+      "price": 12230.45,
+      "category": "smartphone",
+      "scraped_at": "2025-05-06T15:01:23.493516"
+    },
+    {
+      "product_name": "Realme Reno Ultra",
+      "site": "Amazon",
+      "price": 120490.92,
+      "category": "smartphone",
+      "scraped_at": "2025-06-05T15:01:23.492835"
+    },
+    {
+      "product_name": "Realme Reno Ultra",
+      "site": "Amazon",
+      "price": 120510.09,
+      "category": "smartphone",
+      "scraped_at": "2025-05-29T15:01:23.493517"
+    },
+    {
+      "product_name": "Realme Reno Ultra",
+      "site": "Amazon",
+      "price": 120197.53,
+      "category": "smartphone",
+      "scraped_at": "2025-05-22T15:01:23.493518"
+    },
+    {
+      "product_name": "Realme Reno Ultra",
+      "site": "Amazon",
+      "price": 118436.01,
+      "category": "smartphone",
+      "scraped_at": "2025-05-06T15:01:23.493519"
+    },
+    {
+      "product_name": "OnePlus Reno SE",
+      "site": "Flipkart",
+      "price": 76887.93,
+      "category": "smartphone",
+      "scraped_at": "2025-06-05T15:01:23.492840"
+    },
+    {
+      "product_name": "OnePlus Reno SE",
+      "site": "Flipkart",
+      "price": 75435.62,
+      "category": "smartphone",
+      "scraped_at": "2025-05-29T15:01:23.493521"
+    },
+    {
+      "product_name": "OnePlus Reno SE",
+      "site": "Flipkart",
+      "price": 71495.84,
+      "category": "smartphone",
+      "scraped_at": "2025-05-22T15:01:23.493522"
+    },
+    {
+      "product_name": "OnePlus Reno SE",
+      "site": "Flipkart",
+      "price": 80421.99,
+      "category": "smartphone",
+      "scraped_at": "2025-05-06T15:01:23.493523"
+    },
+    {
+      "product_name": "Xiaomi 10 Pro Plus",
+      "site": "Flipkart",
+      "price": 26770.95,
+      "category": "smartphone",
+      "scraped_at": "2025-06-05T15:01:23.492844"
+    },
+    {
+      "product_name": "Xiaomi 10 Pro Plus",
+      "site": "Flipkart",
+      "price": 25177.72,
+      "category": "smartphone",
+      "scraped_at": "2025-05-29T15:01:23.493524"
+    },
+    {
+      "product_name": "Xiaomi 10 Pro Plus",
+      "site": "Flipkart",
+      "price": 25792.18,
+      "category": "smartphone",
+      "scraped_at": "2025-05-22T15:01:23.493525"
+    },
+    {
+      "product_name": "Xiaomi 10 Pro Plus",
+      "site": "Flipkart",
+      "price": 26795.94,
+      "category": "smartphone",
+      "scraped_at": "2025-05-06T15:01:23.493526"
+    },
+    {
+      "product_name": "Oppo 10 Pro",
+      "site": "Flipkart",
+      "price": 49502.82,
+      "category": "smartphone",
+      "scraped_at": "2025-06-05T15:01:23.492848"
+    },
+    {
+      "product_name": "Oppo 10 Pro",
+      "site": "Flipkart",
+      "price": 50135.86,
+      "category": "smartphone",
+      "scraped_at": "2025-05-29T15:01:23.493528"
+    },
+    {
+      "product_name": "Oppo 10 Pro",
+      "site": "Flipkart",
+      "price": 51734.01,
+      "category": "smartphone",
+      "scraped_at": "2025-05-22T15:01:23.493529"
+    },
+    {
+      "product_name": "Oppo 10 Pro",
+      "site": "Flipkart",
+      "price": 45663.2,
+      "category": "smartphone",
+      "scraped_at": "2025-05-06T15:01:23.493530"
+    },
+    {
+      "product_name": "Realme 10 Pro SE",
+      "site": "Flipkart",
+      "price": 20046.04,
+      "category": "smartphone",
+      "scraped_at": "2025-06-05T15:01:23.492852"
+    },
+    {
+      "product_name": "Realme 10 Pro SE",
+      "site": "Flipkart",
+      "price": 19126.42,
+      "category": "smartphone",
+      "scraped_at": "2025-05-29T15:01:23.493531"
+    },
+    {
+      "product_name": "Realme 10 Pro SE",
+      "site": "Flipkart",
+      "price": 20099.73,
+      "category": "smartphone",
+      "scraped_at": "2025-05-22T15:01:23.493532"
+    },
+    {
+      "product_name": "Realme 10 Pro SE",
+      "site": "Flipkart",
+      "price": 18691.91,
+      "category": "smartphone",
+      "scraped_at": "2025-05-06T15:01:23.493533"
+    },
+    {
+      "product_name": "Realme S23 Plus",
+      "site": "Flipkart",
+      "price": 95718.18,
+      "category": "smartphone",
+      "scraped_at": "2025-06-05T15:01:23.492856"
+    },
+    {
+      "product_name": "Realme S23 Plus",
+      "site": "Flipkart",
+      "price": 93964.89,
+      "category": "smartphone",
+      "scraped_at": "2025-05-29T15:01:23.493535"
+    },
+    {
+      "product_name": "Realme S23 Plus",
+      "site": "Flipkart",
+      "price": 87455.47,
+      "category": "smartphone",
+      "scraped_at": "2025-05-22T15:01:23.493536"
+    },
+    {
+      "product_name": "Realme S23 Plus",
+      "site": "Flipkart",
+      "price": 89865.24,
+      "category": "smartphone",
+      "scraped_at": "2025-05-06T15:01:23.493537"
+    },
+    {
+      "product_name": "Xiaomi Reno Pro",
+      "site": "Flipkart",
+      "price": 52974.68,
+      "category": "smartphone",
+      "scraped_at": "2025-06-05T15:01:23.492860"
+    },
+    {
+      "product_name": "Xiaomi Reno Pro",
+      "site": "Flipkart",
+      "price": 50777.72,
+      "category": "smartphone",
+      "scraped_at": "2025-05-29T15:01:23.493538"
+    },
+    {
+      "product_name": "Xiaomi Reno Pro",
+      "site": "Flipkart",
+      "price": 56456.62,
+      "category": "smartphone",
+      "scraped_at": "2025-05-22T15:01:23.493539"
+    },
+    {
+      "product_name": "Xiaomi Reno Pro",
+      "site": "Flipkart",
+      "price": 56631.22,
+      "category": "smartphone",
+      "scraped_at": "2025-05-06T15:01:23.493540"
+    },
+    {
+      "product_name": "iPhone 10 Pro Lite",
+      "site": "Flipkart",
+      "price": 57091.74,
+      "category": "smartphone",
+      "scraped_at": "2025-06-05T15:01:23.492864"
+    },
+    {
+      "product_name": "iPhone 10 Pro Lite",
+      "site": "Flipkart",
+      "price": 57601.82,
+      "category": "smartphone",
+      "scraped_at": "2025-05-29T15:01:23.493542"
+    },
+    {
+      "product_name": "iPhone 10 Pro Lite",
+      "site": "Flipkart",
+      "price": 55382.37,
+      "category": "smartphone",
+      "scraped_at": "2025-05-22T15:01:23.493543"
+    },
+    {
+      "product_name": "iPhone 10 Pro Lite",
+      "site": "Flipkart",
+      "price": 58459.96,
+      "category": "smartphone",
+      "scraped_at": "2025-05-06T15:01:23.493544"
+    },
+    {
+      "product_name": "OnePlus 10 Pro Max",
+      "site": "Flipkart",
+      "price": 43175.55,
+      "category": "smartphone",
+      "scraped_at": "2025-06-05T15:01:23.492868"
+    },
+    {
+      "product_name": "OnePlus 10 Pro Max",
+      "site": "Flipkart",
+      "price": 42325.03,
+      "category": "smartphone",
+      "scraped_at": "2025-05-29T15:01:23.493545"
+    },
+    {
+      "product_name": "OnePlus 10 Pro Max",
+      "site": "Flipkart",
+      "price": 47289.88,
+      "category": "smartphone",
+      "scraped_at": "2025-05-22T15:01:23.493546"
+    },
+    {
+      "product_name": "OnePlus 10 Pro Max",
+      "site": "Flipkart",
+      "price": 43769.11,
+      "category": "smartphone",
+      "scraped_at": "2025-05-06T15:01:23.493547"
+    },
+    {
+      "product_name": "Audio-Technica WH-1000XM4 Max",
+      "site": "Amazon",
+      "price": 5185.43,
+      "category": "headphones",
+      "scraped_at": "2025-06-05T15:01:23.492879"
+    },
+    {
+      "product_name": "Audio-Technica WH-1000XM4 Max",
+      "site": "Amazon",
+      "price": 4692.7,
+      "category": "headphones",
+      "scraped_at": "2025-05-29T15:01:23.493549"
+    },
+    {
+      "product_name": "Audio-Technica WH-1000XM4 Max",
+      "site": "Amazon",
+      "price": 5694.63,
+      "category": "headphones",
+      "scraped_at": "2025-05-22T15:01:23.493550"
+    },
+    {
+      "product_name": "Audio-Technica WH-1000XM4 Max",
+      "site": "Amazon",
+      "price": 4938.01,
+      "category": "headphones",
+      "scraped_at": "2025-05-06T15:01:23.493551"
+    },
+    {
+      "product_name": "JBL WH-1000XM4",
+      "site": "Amazon",
+      "price": 20131.52,
+      "category": "headphones",
+      "scraped_at": "2025-06-05T15:01:23.492883"
+    },
+    {
+      "product_name": "JBL WH-1000XM4",
+      "site": "Amazon",
+      "price": 18889.77,
+      "category": "headphones",
+      "scraped_at": "2025-05-29T15:01:23.493552"
+    },
+    {
+      "product_name": "JBL WH-1000XM4",
+      "site": "Amazon",
+      "price": 21419.56,
+      "category": "headphones",
+      "scraped_at": "2025-05-22T15:01:23.493553"
+    },
+    {
+      "product_name": "JBL WH-1000XM4",
+      "site": "Amazon",
+      "price": 19823.32,
+      "category": "headphones",
+      "scraped_at": "2025-05-06T15:01:23.493555"
+    },
+    {
+      "product_name": "Sennheiser HD 450BT Pro",
+      "site": "Amazon",
+      "price": 22581.24,
+      "category": "headphones",
+      "scraped_at": "2025-06-05T15:01:23.492887"
+    },
+    {
+      "product_name": "Sennheiser HD 450BT Pro",
+      "site": "Amazon",
+      "price": 22176.65,
+      "category": "headphones",
+      "scraped_at": "2025-05-29T15:01:23.493556"
+    },
+    {
+      "product_name": "Sennheiser HD 450BT Pro",
+      "site": "Amazon",
+      "price": 23703.75,
+      "category": "headphones",
+      "scraped_at": "2025-05-22T15:01:23.493557"
+    },
+    {
+      "product_name": "Sennheiser HD 450BT Pro",
+      "site": "Amazon",
+      "price": 20951.83,
+      "category": "headphones",
+      "scraped_at": "2025-05-06T15:01:23.493558"
+    },
+    {
+      "product_name": "Sennheiser QuietComfort",
+      "site": "Amazon",
+      "price": 27923.12,
+      "category": "headphones",
+      "scraped_at": "2025-06-05T15:01:23.492891"
+    },
+    {
+      "product_name": "Sennheiser QuietComfort",
+      "site": "Amazon",
+      "price": 27614.79,
+      "category": "headphones",
+      "scraped_at": "2025-05-29T15:01:23.493559"
+    },
+    {
+      "product_name": "Sennheiser QuietComfort",
+      "site": "Amazon",
+      "price": 30569.81,
+      "category": "headphones",
+      "scraped_at": "2025-05-22T15:01:23.493560"
+    },
+    {
+      "product_name": "Sennheiser QuietComfort",
+      "site": "Amazon",
+      "price": 28976.01,
+      "category": "headphones",
+      "scraped_at": "2025-05-06T15:01:23.493562"
+    },
+    {
+      "product_name": "JBL ATH-M50x Lite",
+      "site": "Amazon",
+      "price": 5441.42,
+      "category": "headphones",
+      "scraped_at": "2025-06-05T15:01:23.492895"
+    },
+    {
+      "product_name": "JBL ATH-M50x Lite",
+      "site": "Amazon",
+      "price": 5915.34,
+      "category": "headphones",
+      "scraped_at": "2025-05-29T15:01:23.493563"
+    },
+    {
+      "product_name": "JBL ATH-M50x Lite",
+      "site": "Amazon",
+      "price": 4999.93,
+      "category": "headphones",
+      "scraped_at": "2025-05-22T15:01:23.493564"
+    },
+    {
+      "product_name": "JBL ATH-M50x Lite",
+      "site": "Amazon",
+      "price": 5768.12,
+      "category": "headphones",
+      "scraped_at": "2025-05-06T15:01:23.493565"
+    },
+    {
+      "product_name": "Audio-Technica Tune 750 Max",
+      "site": "Amazon",
+      "price": 34421.97,
+      "category": "headphones",
+      "scraped_at": "2025-06-05T15:01:23.492899"
+    },
+    {
+      "product_name": "Audio-Technica Tune 750 Max",
+      "site": "Amazon",
+      "price": 32617.3,
+      "category": "headphones",
+      "scraped_at": "2025-05-29T15:01:23.493566"
+    },
+    {
+      "product_name": "Audio-Technica Tune 750 Max",
+      "site": "Amazon",
+      "price": 34806.94,
+      "category": "headphones",
+      "scraped_at": "2025-05-22T15:01:23.493567"
+    },
+    {
+      "product_name": "Audio-Technica Tune 750 Max",
+      "site": "Amazon",
+      "price": 31993.53,
+      "category": "headphones",
+      "scraped_at": "2025-05-06T15:01:23.493569"
+    },
+    {
+      "product_name": "Sennheiser Studio3 Pro",
+      "site": "Amazon",
+      "price": 9810.95,
+      "category": "headphones",
+      "scraped_at": "2025-06-05T15:01:23.492904"
+    },
+    {
+      "product_name": "Sennheiser Studio3 Pro",
+      "site": "Amazon",
+      "price": 10509.51,
+      "category": "headphones",
+      "scraped_at": "2025-05-29T15:01:23.493570"
+    },
+    {
+      "product_name": "Sennheiser Studio3 Pro",
+      "site": "Amazon",
+      "price": 10653.55,
+      "category": "headphones",
+      "scraped_at": "2025-05-22T15:01:23.493571"
+    },
+    {
+      "product_name": "Sennheiser Studio3 Pro",
+      "site": "Amazon",
+      "price": 10367.93,
+      "category": "headphones",
+      "scraped_at": "2025-05-06T15:01:23.493572"
+    },
+    {
+      "product_name": "Bose ATH-M50x Lite",
+      "site": "Amazon",
+      "price": 4108.57,
+      "category": "headphones",
+      "scraped_at": "2025-06-05T15:01:23.492908"
+    },
+    {
+      "product_name": "Bose ATH-M50x Lite",
+      "site": "Amazon",
+      "price": 3912.1,
+      "category": "headphones",
+      "scraped_at": "2025-05-29T15:01:23.493573"
+    },
+    {
+      "product_name": "Bose ATH-M50x Lite",
+      "site": "Amazon",
+      "price": 3869.93,
+      "category": "headphones",
+      "scraped_at": "2025-05-22T15:01:23.493574"
+    },
+    {
+      "product_name": "Bose ATH-M50x Lite",
+      "site": "Amazon",
+      "price": 3908.69,
+      "category": "headphones",
+      "scraped_at": "2025-05-06T15:01:23.493575"
+    },
+    {
+      "product_name": "Bose WH-1000XM4 Plus",
+      "site": "Flipkart",
+      "price": 22422.67,
+      "category": "headphones",
+      "scraped_at": "2025-06-05T15:01:23.492913"
+    },
+    {
+      "product_name": "Bose WH-1000XM4 Plus",
+      "site": "Flipkart",
+      "price": 22192.74,
+      "category": "headphones",
+      "scraped_at": "2025-05-29T15:01:23.493577"
+    },
+    {
+      "product_name": "Bose WH-1000XM4 Plus",
+      "site": "Flipkart",
+      "price": 22339.44,
+      "category": "headphones",
+      "scraped_at": "2025-05-22T15:01:23.493578"
+    },
+    {
+      "product_name": "Bose WH-1000XM4 Plus",
+      "site": "Flipkart",
+      "price": 20993.12,
+      "category": "headphones",
+      "scraped_at": "2025-05-06T15:01:23.493579"
+    },
+    {
+      "product_name": "Sony HD 450BT Max",
+      "site": "Flipkart",
+      "price": 26149.5,
+      "category": "headphones",
+      "scraped_at": "2025-06-05T15:01:23.492917"
+    },
+    {
+      "product_name": "Sony HD 450BT Max",
+      "site": "Flipkart",
+      "price": 28491.8,
+      "category": "headphones",
+      "scraped_at": "2025-05-29T15:01:23.493580"
+    },
+    {
+      "product_name": "Sony HD 450BT Max",
+      "site": "Flipkart",
+      "price": 27256.45,
+      "category": "headphones",
+      "scraped_at": "2025-05-22T15:01:23.493581"
+    },
+    {
+      "product_name": "Sony HD 450BT Max",
+      "site": "Flipkart",
+      "price": 24548.6,
+      "category": "headphones",
+      "scraped_at": "2025-05-06T15:01:23.493582"
+    },
+    {
+      "product_name": "Sony WH-1000XM4 Ultra",
+      "site": "Flipkart",
+      "price": 14939.04,
+      "category": "headphones",
+      "scraped_at": "2025-06-05T15:01:23.492921"
+    },
+    {
+      "product_name": "Sony WH-1000XM4 Ultra",
+      "site": "Flipkart",
+      "price": 14368.97,
+      "category": "headphones",
+      "scraped_at": "2025-05-29T15:01:23.493584"
+    },
+    {
+      "product_name": "Sony WH-1000XM4 Ultra",
+      "site": "Flipkart",
+      "price": 14419.22,
+      "category": "headphones",
+      "scraped_at": "2025-05-22T15:01:23.493585"
+    },
+    {
+      "product_name": "Sony WH-1000XM4 Ultra",
+      "site": "Flipkart",
+      "price": 15302.35,
+      "category": "headphones",
+      "scraped_at": "2025-05-06T15:01:23.493586"
+    },
+    {
+      "product_name": "JBL HD 450BT Max",
+      "site": "Flipkart",
+      "price": 12371.16,
+      "category": "headphones",
+      "scraped_at": "2025-06-05T15:01:23.492925"
+    },
+    {
+      "product_name": "JBL HD 450BT Max",
+      "site": "Flipkart",
+      "price": 13035.05,
+      "category": "headphones",
+      "scraped_at": "2025-05-29T15:01:23.493587"
+    },
+    {
+      "product_name": "JBL HD 450BT Max",
+      "site": "Flipkart",
+      "price": 13286.68,
+      "category": "headphones",
+      "scraped_at": "2025-05-22T15:01:23.493588"
+    },
+    {
+      "product_name": "JBL HD 450BT Max",
+      "site": "Flipkart",
+      "price": 12653.95,
+      "category": "headphones",
+      "scraped_at": "2025-05-06T15:01:23.493589"
+    },
+    {
+      "product_name": "Beats HD 450BT Ultra",
+      "site": "Flipkart",
+      "price": 8499.77,
+      "category": "headphones",
+      "scraped_at": "2025-06-05T15:01:23.492929"
+    },
+    {
+      "product_name": "Beats HD 450BT Ultra",
+      "site": "Flipkart",
+      "price": 8005.95,
+      "category": "headphones",
+      "scraped_at": "2025-05-29T15:01:23.493591"
+    },
+    {
+      "product_name": "Beats HD 450BT Ultra",
+      "site": "Flipkart",
+      "price": 8812.88,
+      "category": "headphones",
+      "scraped_at": "2025-05-22T15:01:23.493592"
+    },
+    {
+      "product_name": "Beats HD 450BT Ultra",
+      "site": "Flipkart",
+      "price": 7770.82,
+      "category": "headphones",
+      "scraped_at": "2025-05-06T15:01:23.493593"
+    },
+    {
+      "product_name": "Sony QuietComfort Lite",
+      "site": "Flipkart",
+      "price": 34625.67,
+      "category": "headphones",
+      "scraped_at": "2025-06-05T15:01:23.492933"
+    },
+    {
+      "product_name": "Sony QuietComfort Lite",
+      "site": "Flipkart",
+      "price": 34072.1,
+      "category": "headphones",
+      "scraped_at": "2025-05-29T15:01:23.493594"
+    },
+    {
+      "product_name": "Sony QuietComfort Lite",
+      "site": "Flipkart",
+      "price": 35279.77,
+      "category": "headphones",
+      "scraped_at": "2025-05-22T15:01:23.493595"
+    },
+    {
+      "product_name": "Sony QuietComfort Lite",
+      "site": "Flipkart",
+      "price": 33678.3,
+      "category": "headphones",
+      "scraped_at": "2025-05-06T15:01:23.493597"
+    },
+    {
+      "product_name": "Bose Tune 750 SE",
+      "site": "Flipkart",
+      "price": 35466.5,
+      "category": "headphones",
+      "scraped_at": "2025-06-05T15:01:23.492937"
+    },
+    {
+      "product_name": "Bose Tune 750 SE",
+      "site": "Flipkart",
+      "price": 35886.77,
+      "category": "headphones",
+      "scraped_at": "2025-05-29T15:01:23.493598"
+    },
+    {
+      "product_name": "Bose Tune 750 SE",
+      "site": "Flipkart",
+      "price": 34934.07,
+      "category": "headphones",
+      "scraped_at": "2025-05-22T15:01:23.493599"
+    },
+    {
+      "product_name": "Bose Tune 750 SE",
+      "site": "Flipkart",
+      "price": 31969.84,
+      "category": "headphones",
+      "scraped_at": "2025-05-06T15:01:23.493600"
+    },
+    {
+      "product_name": "Sony ATH-M50x SE",
+      "site": "Flipkart",
+      "price": 24631.01,
+      "category": "headphones",
+      "scraped_at": "2025-06-05T15:01:23.492941"
+    },
+    {
+      "product_name": "Sony ATH-M50x SE",
+      "site": "Flipkart",
+      "price": 23524.98,
+      "category": "headphones",
+      "scraped_at": "2025-05-29T15:01:23.493601"
+    },
+    {
+      "product_name": "Sony ATH-M50x SE",
+      "site": "Flipkart",
+      "price": 22287.44,
+      "category": "headphones",
+      "scraped_at": "2025-05-22T15:01:23.493602"
+    },
+    {
+      "product_name": "Sony ATH-M50x SE",
+      "site": "Flipkart",
+      "price": 25239.97,
+      "category": "headphones",
+      "scraped_at": "2025-05-06T15:01:23.493603"
+    },
+    {
+      "product_name": "Adidas Classic Max",
+      "site": "Amazon",
+      "price": 5538.45,
+      "category": "shoes",
+      "scraped_at": "2025-06-05T15:01:23.492951"
+    },
+    {
+      "product_name": "Adidas Classic Max",
+      "site": "Amazon",
+      "price": 5542.49,
+      "category": "shoes",
+      "scraped_at": "2025-05-29T15:01:23.493605"
+    },
+    {
+      "product_name": "Adidas Classic Max",
+      "site": "Amazon",
+      "price": 5567.58,
+      "category": "shoes",
+      "scraped_at": "2025-05-22T15:01:23.493606"
+    },
+    {
+      "product_name": "Adidas Classic Max",
+      "site": "Amazon",
+      "price": 5339.07,
+      "category": "shoes",
+      "scraped_at": "2025-05-06T15:01:23.493607"
+    },
+    {
+      "product_name": "New Balance Air Max Plus",
+      "site": "Amazon",
+      "price": 13435.04,
+      "category": "shoes",
+      "scraped_at": "2025-06-05T15:01:23.492956"
+    },
+    {
+      "product_name": "New Balance Air Max Plus",
+      "site": "Amazon",
+      "price": 12447.8,
+      "category": "shoes",
+      "scraped_at": "2025-05-29T15:01:23.493608"
+    },
+    {
+      "product_name": "New Balance Air Max Plus",
+      "site": "Amazon",
+      "price": 12835.6,
+      "category": "shoes",
+      "scraped_at": "2025-05-22T15:01:23.493609"
+    },
+    {
+      "product_name": "New Balance Air Max Plus",
+      "site": "Amazon",
+      "price": 12601.95,
+      "category": "shoes",
+      "scraped_at": "2025-05-06T15:01:23.493610"
+    },
+    {
+      "product_name": "New Balance Classic Pro",
+      "site": "Amazon",
+      "price": 10205.13,
+      "category": "shoes",
+      "scraped_at": "2025-06-05T15:01:23.492960"
+    },
+    {
+      "product_name": "New Balance Classic Pro",
+      "site": "Amazon",
+      "price": 9851.25,
+      "category": "shoes",
+      "scraped_at": "2025-05-29T15:01:23.493612"
+    },
+    {
+      "product_name": "New Balance Classic Pro",
+      "site": "Amazon",
+      "price": 9449.24,
+      "category": "shoes",
+      "scraped_at": "2025-05-22T15:01:23.493613"
+    },
+    {
+      "product_name": "New Balance Classic Pro",
+      "site": "Amazon",
+      "price": 11095.24,
+      "category": "shoes",
+      "scraped_at": "2025-05-06T15:01:23.493614"
+    },
+    {
+      "product_name": "Reebok Chuck Taylor Plus",
+      "site": "Amazon",
+      "price": 10946.58,
+      "category": "shoes",
+      "scraped_at": "2025-06-05T15:01:23.492964"
+    },
+    {
+      "product_name": "Reebok Chuck Taylor Plus",
+      "site": "Amazon",
+      "price": 11111.34,
+      "category": "shoes",
+      "scraped_at": "2025-05-29T15:01:23.493615"
+    },
+    {
+      "product_name": "Reebok Chuck Taylor Plus",
+      "site": "Amazon",
+      "price": 10042.99,
+      "category": "shoes",
+      "scraped_at": "2025-05-22T15:01:23.493616"
+    },
+    {
+      "product_name": "Reebok Chuck Taylor Plus",
+      "site": "Amazon",
+      "price": 10478.73,
+      "category": "shoes",
+      "scraped_at": "2025-05-06T15:01:23.493617"
+    },
+    {
+      "product_name": "Reebok Classic SE",
+      "site": "Amazon",
+      "price": 12680.68,
+      "category": "shoes",
+      "scraped_at": "2025-06-05T15:01:23.492968"
+    },
+    {
+      "product_name": "Reebok Classic SE",
+      "site": "Amazon",
+      "price": 11754.44,
+      "category": "shoes",
+      "scraped_at": "2025-05-29T15:01:23.493619"
+    },
+    {
+      "product_name": "Reebok Classic SE",
+      "site": "Amazon",
+      "price": 12089.07,
+      "category": "shoes",
+      "scraped_at": "2025-05-22T15:01:23.493620"
+    },
+    {
+      "product_name": "Reebok Classic SE",
+      "site": "Amazon",
+      "price": 13284.95,
+      "category": "shoes",
+      "scraped_at": "2025-05-06T15:01:23.493621"
+    },
+    {
+      "product_name": "Puma 574 SE",
+      "site": "Amazon",
+      "price": 9320.48,
+      "category": "shoes",
+      "scraped_at": "2025-06-05T15:01:23.492973"
+    },
+    {
+      "product_name": "Puma 574 SE",
+      "site": "Amazon",
+      "price": 9983.02,
+      "category": "shoes",
+      "scraped_at": "2025-05-29T15:01:23.493622"
+    },
+    {
+      "product_name": "Puma 574 SE",
+      "site": "Amazon",
+      "price": 8960.21,
+      "category": "shoes",
+      "scraped_at": "2025-05-22T15:01:23.493623"
+    },
+    {
+      "product_name": "Puma 574 SE",
+      "site": "Amazon",
+      "price": 9167.43,
+      "category": "shoes",
+      "scraped_at": "2025-05-06T15:01:23.493624"
+    },
+    {
+      "product_name": "New Balance Air Max Max",
+      "site": "Amazon",
+      "price": 12466.87,
+      "category": "shoes",
+      "scraped_at": "2025-06-05T15:01:23.492977"
+    },
+    {
+      "product_name": "New Balance Air Max Max",
+      "site": "Amazon",
+      "price": 12845.46,
+      "category": "shoes",
+      "scraped_at": "2025-05-29T15:01:23.493625"
+    },
+    {
+      "product_name": "New Balance Air Max Max",
+      "site": "Amazon",
+      "price": 11579.22,
+      "category": "shoes",
+      "scraped_at": "2025-05-22T15:01:23.493627"
+    },
+    {
+      "product_name": "New Balance Air Max Max",
+      "site": "Amazon",
+      "price": 13493.5,
+      "category": "shoes",
+      "scraped_at": "2025-05-06T15:01:23.493628"
+    },
+    {
+      "product_name": "Puma 574 Ultra",
+      "site": "Amazon",
+      "price": 7516.38,
+      "category": "shoes",
+      "scraped_at": "2025-06-05T15:01:23.492981"
+    },
+    {
+      "product_name": "Puma 574 Ultra",
+      "site": "Amazon",
+      "price": 8224.77,
+      "category": "shoes",
+      "scraped_at": "2025-05-29T15:01:23.493629"
+    },
+    {
+      "product_name": "Puma 574 Ultra",
+      "site": "Amazon",
+      "price": 7273.23,
+      "category": "shoes",
+      "scraped_at": "2025-05-22T15:01:23.493630"
+    },
+    {
+      "product_name": "Puma 574 Ultra",
+      "site": "Amazon",
+      "price": 7608.69,
+      "category": "shoes",
+      "scraped_at": "2025-05-06T15:01:23.493631"
+    },
+    {
+      "product_name": "Reebok Chuck Taylor SE",
+      "site": "Flipkart",
+      "price": 6965.41,
+      "category": "shoes",
+      "scraped_at": "2025-06-05T15:01:23.492985"
+    },
+    {
+      "product_name": "Reebok Chuck Taylor SE",
+      "site": "Flipkart",
+      "price": 6787.04,
+      "category": "shoes",
+      "scraped_at": "2025-05-29T15:01:23.493632"
+    },
+    {
+      "product_name": "Reebok Chuck Taylor SE",
+      "site": "Flipkart",
+      "price": 7106.18,
+      "category": "shoes",
+      "scraped_at": "2025-05-22T15:01:23.493634"
+    },
+    {
+      "product_name": "Reebok Chuck Taylor SE",
+      "site": "Flipkart",
+      "price": 7251.68,
+      "category": "shoes",
+      "scraped_at": "2025-05-06T15:01:23.493635"
+    },
+    {
+      "product_name": "Nike Classic SE",
+      "site": "Flipkart",
+      "price": 4903.55,
+      "category": "shoes",
+      "scraped_at": "2025-06-05T15:01:23.492989"
+    },
+    {
+      "product_name": "Nike Classic SE",
+      "site": "Flipkart",
+      "price": 4736.61,
+      "category": "shoes",
+      "scraped_at": "2025-05-29T15:01:23.493636"
+    },
+    {
+      "product_name": "Nike Classic SE",
+      "site": "Flipkart",
+      "price": 5151.88,
+      "category": "shoes",
+      "scraped_at": "2025-05-22T15:01:23.493637"
+    },
+    {
+      "product_name": "Nike Classic SE",
+      "site": "Flipkart",
+      "price": 4668.48,
+      "category": "shoes",
+      "scraped_at": "2025-05-06T15:01:23.493638"
+    },
+    {
+      "product_name": "Nike Classic Lite",
+      "site": "Flipkart",
+      "price": 10818.78,
+      "category": "shoes",
+      "scraped_at": "2025-06-05T15:01:23.492993"
+    },
+    {
+      "product_name": "Nike Classic Lite",
+      "site": "Flipkart",
+      "price": 11727.51,
+      "category": "shoes",
+      "scraped_at": "2025-05-29T15:01:23.493639"
+    },
+    {
+      "product_name": "Nike Classic Lite",
+      "site": "Flipkart",
+      "price": 11348.77,
+      "category": "shoes",
+      "scraped_at": "2025-05-22T15:01:23.493641"
+    },
+    {
+      "product_name": "Nike Classic Lite",
+      "site": "Flipkart",
+      "price": 11535.57,
+      "category": "shoes",
+      "scraped_at": "2025-05-06T15:01:23.493642"
+    },
+    {
+      "product_name": "Puma Air Max Plus",
+      "site": "Flipkart",
+      "price": 10930.31,
+      "category": "shoes",
+      "scraped_at": "2025-06-05T15:01:23.492997"
+    },
+    {
+      "product_name": "Puma Air Max Plus",
+      "site": "Flipkart",
+      "price": 10014.08,
+      "category": "shoes",
+      "scraped_at": "2025-05-29T15:01:23.493643"
+    },
+    {
+      "product_name": "Puma Air Max Plus",
+      "site": "Flipkart",
+      "price": 10500.25,
+      "category": "shoes",
+      "scraped_at": "2025-05-22T15:01:23.493644"
+    },
+    {
+      "product_name": "Puma Air Max Plus",
+      "site": "Flipkart",
+      "price": 11094.07,
+      "category": "shoes",
+      "scraped_at": "2025-05-06T15:01:23.493645"
+    },
+    {
+      "product_name": "Nike Chuck Taylor Plus",
+      "site": "Flipkart",
+      "price": 3042.66,
+      "category": "shoes",
+      "scraped_at": "2025-06-05T15:01:23.493001"
+    },
+    {
+      "product_name": "Nike Chuck Taylor Plus",
+      "site": "Flipkart",
+      "price": 3234.33,
+      "category": "shoes",
+      "scraped_at": "2025-05-29T15:01:23.493646"
+    },
+    {
+      "product_name": "Nike Chuck Taylor Plus",
+      "site": "Flipkart",
+      "price": 3237.22,
+      "category": "shoes",
+      "scraped_at": "2025-05-22T15:01:23.493648"
+    },
+    {
+      "product_name": "Nike Chuck Taylor Plus",
+      "site": "Flipkart",
+      "price": 2796.82,
+      "category": "shoes",
+      "scraped_at": "2025-05-06T15:01:23.493649"
+    },
+    {
+      "product_name": "Reebok Ultraboost",
+      "site": "Flipkart",
+      "price": 11477.74,
+      "category": "shoes",
+      "scraped_at": "2025-06-05T15:01:23.493005"
+    },
+    {
+      "product_name": "Reebok Ultraboost",
+      "site": "Flipkart",
+      "price": 11903.04,
+      "category": "shoes",
+      "scraped_at": "2025-05-29T15:01:23.493650"
+    },
+    {
+      "product_name": "Reebok Ultraboost",
+      "site": "Flipkart",
+      "price": 11787.41,
+      "category": "shoes",
+      "scraped_at": "2025-05-22T15:01:23.493651"
+    },
+    {
+      "product_name": "Reebok Ultraboost",
+      "site": "Flipkart",
+      "price": 12378.32,
+      "category": "shoes",
+      "scraped_at": "2025-05-06T15:01:23.493652"
+    },
+    {
+      "product_name": "Converse Air Max",
+      "site": "Flipkart",
+      "price": 8726.0,
+      "category": "shoes",
+      "scraped_at": "2025-06-05T15:01:23.493009"
+    },
+    {
+      "product_name": "Converse Air Max",
+      "site": "Flipkart",
+      "price": 8288.28,
+      "category": "shoes",
+      "scraped_at": "2025-05-29T15:01:23.493654"
+    },
+    {
+      "product_name": "Converse Air Max",
+      "site": "Flipkart",
+      "price": 9326.55,
+      "category": "shoes",
+      "scraped_at": "2025-05-22T15:01:23.493655"
+    },
+    {
+      "product_name": "Converse Air Max",
+      "site": "Flipkart",
+      "price": 8707.28,
+      "category": "shoes",
+      "scraped_at": "2025-05-06T15:01:23.493656"
+    },
+    {
+      "product_name": "Adidas Air Max Pro",
+      "site": "Flipkart",
+      "price": 13624.92,
+      "category": "shoes",
+      "scraped_at": "2025-06-05T15:01:23.493012"
+    },
+    {
+      "product_name": "Adidas Air Max Pro",
+      "site": "Flipkart",
+      "price": 14050.41,
+      "category": "shoes",
+      "scraped_at": "2025-05-29T15:01:23.493657"
+    },
+    {
+      "product_name": "Adidas Air Max Pro",
+      "site": "Flipkart",
+      "price": 12452.29,
+      "category": "shoes",
+      "scraped_at": "2025-05-22T15:01:23.493658"
+    },
+    {
+      "product_name": "Adidas Air Max Pro",
+      "site": "Flipkart",
+      "price": 13736.75,
+      "category": "shoes",
+      "scraped_at": "2025-05-06T15:01:23.493659"
+    },
+    {
+      "product_name": "Cambridge Textbook Lite",
+      "site": "Amazon",
+      "price": 1070.96,
+      "category": "books",
+      "scraped_at": "2025-06-05T15:01:23.493022"
+    },
+    {
+      "product_name": "Cambridge Textbook Lite",
+      "site": "Amazon",
+      "price": 1056.15,
+      "category": "books",
+      "scraped_at": "2025-05-29T15:01:23.493661"
+    },
+    {
+      "product_name": "Cambridge Textbook Lite",
+      "site": "Amazon",
+      "price": 1027.19,
+      "category": "books",
+      "scraped_at": "2025-05-22T15:01:23.493662"
+    },
+    {
+      "product_name": "Cambridge Textbook Lite",
+      "site": "Amazon",
+      "price": 1148.53,
+      "category": "books",
+      "scraped_at": "2025-05-06T15:01:23.493663"
+    },
+    {
+      "product_name": "Cambridge Academic Ultra",
+      "site": "Amazon",
+      "price": 2326.4,
+      "category": "books",
+      "scraped_at": "2025-06-05T15:01:23.493027"
+    },
+    {
+      "product_name": "Cambridge Academic Ultra",
+      "site": "Amazon",
+      "price": 2141.13,
+      "category": "books",
+      "scraped_at": "2025-05-29T15:01:23.493664"
+    },
+    {
+      "product_name": "Cambridge Academic Ultra",
+      "site": "Amazon",
+      "price": 2143.91,
+      "category": "books",
+      "scraped_at": "2025-05-22T15:01:23.493665"
+    },
+    {
+      "product_name": "Cambridge Academic Ultra",
+      "site": "Amazon",
+      "price": 2156.33,
+      "category": "books",
+      "scraped_at": "2025-05-06T15:01:23.493666"
+    },
+    {
+      "product_name": "HarperCollins Classics",
+      "site": "Amazon",
+      "price": 334.42,
+      "category": "books",
+      "scraped_at": "2025-06-05T15:01:23.493031"
+    },
+    {
+      "product_name": "HarperCollins Classics",
+      "site": "Amazon",
+      "price": 304.85,
+      "category": "books",
+      "scraped_at": "2025-05-29T15:01:23.493667"
+    },
+    {
+      "product_name": "HarperCollins Classics",
+      "site": "Amazon",
+      "price": 363.25,
+      "category": "books",
+      "scraped_at": "2025-05-22T15:01:23.493668"
+    },
+    {
+      "product_name": "HarperCollins Classics",
+      "site": "Amazon",
+      "price": 311.25,
+      "category": "books",
+      "scraped_at": "2025-05-06T15:01:23.493670"
+    },
+    {
+      "product_name": "Random House Textbook Ultra",
+      "site": "Amazon",
+      "price": 2587.02,
+      "category": "books",
+      "scraped_at": "2025-06-05T15:01:23.493034"
+    },
+    {
+      "product_name": "Random House Textbook Ultra",
+      "site": "Amazon",
+      "price": 2334.33,
+      "category": "books",
+      "scraped_at": "2025-05-29T15:01:23.493671"
+    },
+    {
+      "product_name": "Random House Textbook Ultra",
+      "site": "Amazon",
+      "price": 2366.03,
+      "category": "books",
+      "scraped_at": "2025-05-22T15:01:23.493672"
+    },
+    {
+      "product_name": "Random House Textbook Ultra",
+      "site": "Amazon",
+      "price": 2544.22,
+      "category": "books",
+      "scraped_at": "2025-05-06T15:01:23.493673"
+    },
+    {
+      "product_name": "HarperCollins Children Ultra",
+      "site": "Amazon",
+      "price": 574.89,
+      "category": "books",
+      "scraped_at": "2025-06-05T15:01:23.493038"
+    },
+    {
+      "product_name": "HarperCollins Children Ultra",
+      "site": "Amazon",
+      "price": 578.34,
+      "category": "books",
+      "scraped_at": "2025-05-29T15:01:23.493675"
+    },
+    {
+      "product_name": "HarperCollins Children Ultra",
+      "site": "Amazon",
+      "price": 595.11,
+      "category": "books",
+      "scraped_at": "2025-05-22T15:01:23.493676"
+    },
+    {
+      "product_name": "HarperCollins Children Ultra",
+      "site": "Amazon",
+      "price": 542.11,
+      "category": "books",
+      "scraped_at": "2025-05-06T15:01:23.493677"
+    },
+    {
+      "product_name": "Scholastic Textbook Plus",
+      "site": "Amazon",
+      "price": 1214.38,
+      "category": "books",
+      "scraped_at": "2025-06-05T15:01:23.493042"
+    },
+    {
+      "product_name": "Scholastic Textbook Plus",
+      "site": "Amazon",
+      "price": 1288.82,
+      "category": "books",
+      "scraped_at": "2025-05-29T15:01:23.493678"
+    },
+    {
+      "product_name": "Scholastic Textbook Plus",
+      "site": "Amazon",
+      "price": 1222.13,
+      "category": "books",
+      "scraped_at": "2025-05-22T15:01:23.493679"
+    },
+    {
+      "product_name": "Scholastic Textbook Plus",
+      "site": "Amazon",
+      "price": 1197.21,
+      "category": "books",
+      "scraped_at": "2025-05-06T15:01:23.493680"
+    },
+    {
+      "product_name": "Penguin Modern Fiction",
+      "site": "Amazon",
+      "price": 2073.6,
+      "category": "books",
+      "scraped_at": "2025-06-05T15:01:23.493046"
+    },
+    {
+      "product_name": "Penguin Modern Fiction",
+      "site": "Amazon",
+      "price": 2232.15,
+      "category": "books",
+      "scraped_at": "2025-05-29T15:01:23.493682"
+    },
+    {
+      "product_name": "Penguin Modern Fiction",
+      "site": "Amazon",
+      "price": 1921.0,
+      "category": "books",
+      "scraped_at": "2025-05-22T15:01:23.493683"
+    },
+    {
+      "product_name": "Penguin Modern Fiction",
+      "site": "Amazon",
+      "price": 1912.59,
+      "category": "books",
+      "scraped_at": "2025-05-06T15:01:23.493684"
+    },
+    {
+      "product_name": "Oxford Academic Lite",
+      "site": "Amazon",
+      "price": 924.08,
+      "category": "books",
+      "scraped_at": "2025-06-05T15:01:23.493050"
+    },
+    {
+      "product_name": "Oxford Academic Lite",
+      "site": "Amazon",
+      "price": 990.21,
+      "category": "books",
+      "scraped_at": "2025-05-29T15:01:23.493685"
+    },
+    {
+      "product_name": "Oxford Academic Lite",
+      "site": "Amazon",
+      "price": 964.25,
+      "category": "books",
+      "scraped_at": "2025-05-22T15:01:23.493686"
+    },
+    {
+      "product_name": "Oxford Academic Lite",
+      "site": "Amazon",
+      "price": 834.31,
+      "category": "books",
+      "scraped_at": "2025-05-06T15:01:23.493687"
+    },
+    {
+      "product_name": "Random House Modern Fiction Lite",
+      "site": "Flipkart",
+      "price": 719.15,
+      "category": "books",
+      "scraped_at": "2025-06-05T15:01:23.493054"
+    },
+    {
+      "product_name": "Random House Modern Fiction Lite",
+      "site": "Flipkart",
+      "price": 760.38,
+      "category": "books",
+      "scraped_at": "2025-05-29T15:01:23.493689"
+    },
+    {
+      "product_name": "Random House Modern Fiction Lite",
+      "site": "Flipkart",
+      "price": 722.89,
+      "category": "books",
+      "scraped_at": "2025-05-22T15:01:23.493690"
+    },
+    {
+      "product_name": "Random House Modern Fiction Lite",
+      "site": "Flipkart",
+      "price": 710.97,
+      "category": "books",
+      "scraped_at": "2025-05-06T15:01:23.493691"
+    },
+    {
+      "product_name": "Random House Classics Lite",
+      "site": "Flipkart",
+      "price": 1664.06,
+      "category": "books",
+      "scraped_at": "2025-06-05T15:01:23.493058"
+    },
+    {
+      "product_name": "Random House Classics Lite",
+      "site": "Flipkart",
+      "price": 1770.84,
+      "category": "books",
+      "scraped_at": "2025-05-29T15:01:23.493692"
+    },
+    {
+      "product_name": "Random House Classics Lite",
+      "site": "Flipkart",
+      "price": 1757.91,
+      "category": "books",
+      "scraped_at": "2025-05-22T15:01:23.493693"
+    },
+    {
+      "product_name": "Random House Classics Lite",
+      "site": "Flipkart",
+      "price": 1546.57,
+      "category": "books",
+      "scraped_at": "2025-05-06T15:01:23.493694"
+    },
+    {
+      "product_name": "Random House Classics SE",
+      "site": "Flipkart",
+      "price": 1914.26,
+      "category": "books",
+      "scraped_at": "2025-06-05T15:01:23.493062"
+    },
+    {
+      "product_name": "Random House Classics SE",
+      "site": "Flipkart",
+      "price": 1743.92,
+      "category": "books",
+      "scraped_at": "2025-05-29T15:01:23.493695"
+    },
+    {
+      "product_name": "Random House Classics SE",
+      "site": "Flipkart",
+      "price": 1995.0,
+      "category": "books",
+      "scraped_at": "2025-05-22T15:01:23.493696"
+    },
+    {
+      "product_name": "Random House Classics SE",
+      "site": "Flipkart",
+      "price": 1866.3,
+      "category": "books",
+      "scraped_at": "2025-05-06T15:01:23.493698"
+    },
+    {
+      "product_name": "Penguin Academic Pro",
+      "site": "Flipkart",
+      "price": 1382.83,
+      "category": "books",
+      "scraped_at": "2025-06-05T15:01:23.493066"
+    },
+    {
+      "product_name": "Penguin Academic Pro",
+      "site": "Flipkart",
+      "price": 1290.76,
+      "category": "books",
+      "scraped_at": "2025-05-29T15:01:23.493699"
+    },
+    {
+      "product_name": "Penguin Academic Pro",
+      "site": "Flipkart",
+      "price": 1405.21,
+      "category": "books",
+      "scraped_at": "2025-05-22T15:01:23.493700"
+    },
+    {
+      "product_name": "Penguin Academic Pro",
+      "site": "Flipkart",
+      "price": 1438.24,
+      "category": "books",
+      "scraped_at": "2025-05-06T15:01:23.493701"
+    },
+    {
+      "product_name": "Penguin Textbook Lite",
+      "site": "Flipkart",
+      "price": 1197.09,
+      "category": "books",
+      "scraped_at": "2025-06-05T15:01:23.493070"
+    },
+    {
+      "product_name": "Penguin Textbook Lite",
+      "site": "Flipkart",
+      "price": 1206.09,
+      "category": "books",
+      "scraped_at": "2025-05-29T15:01:23.493702"
+    },
+    {
+      "product_name": "Penguin Textbook Lite",
+      "site": "Flipkart",
+      "price": 1173.08,
+      "category": "books",
+      "scraped_at": "2025-05-22T15:01:23.493703"
+    },
+    {
+      "product_name": "Penguin Textbook Lite",
+      "site": "Flipkart",
+      "price": 1138.78,
+      "category": "books",
+      "scraped_at": "2025-05-06T15:01:23.493705"
+    },
+    {
+      "product_name": "Oxford Modern Fiction",
+      "site": "Flipkart",
+      "price": 1896.23,
+      "category": "books",
+      "scraped_at": "2025-06-05T15:01:23.493073"
+    },
+    {
+      "product_name": "Oxford Modern Fiction",
+      "site": "Flipkart",
+      "price": 2022.33,
+      "category": "books",
+      "scraped_at": "2025-05-29T15:01:23.493706"
+    },
+    {
+      "product_name": "Oxford Modern Fiction",
+      "site": "Flipkart",
+      "price": 1825.41,
+      "category": "books",
+      "scraped_at": "2025-05-22T15:01:23.493707"
+    },
+    {
+      "product_name": "Oxford Modern Fiction",
+      "site": "Flipkart",
+      "price": 1760.73,
+      "category": "books",
+      "scraped_at": "2025-05-06T15:01:23.493708"
+    },
+    {
+      "product_name": "HarperCollins Modern Fiction Lite",
+      "site": "Flipkart",
+      "price": 2534.33,
+      "category": "books",
+      "scraped_at": "2025-06-05T15:01:23.493077"
+    },
+    {
+      "product_name": "HarperCollins Modern Fiction Lite",
+      "site": "Flipkart",
+      "price": 2351.77,
+      "category": "books",
+      "scraped_at": "2025-05-29T15:01:23.493709"
+    },
+    {
+      "product_name": "HarperCollins Modern Fiction Lite",
+      "site": "Flipkart",
+      "price": 2316.89,
+      "category": "books",
+      "scraped_at": "2025-05-22T15:01:23.493710"
+    },
+    {
+      "product_name": "HarperCollins Modern Fiction Lite",
+      "site": "Flipkart",
+      "price": 2360.16,
+      "category": "books",
+      "scraped_at": "2025-05-06T15:01:23.493712"
+    },
+    {
+      "product_name": "Scholastic Children Ultra",
+      "site": "Flipkart",
+      "price": 2703.57,
+      "category": "books",
+      "scraped_at": "2025-06-05T15:01:23.493081"
+    },
+    {
+      "product_name": "Scholastic Children Ultra",
+      "site": "Flipkart",
+      "price": 2478.61,
+      "category": "books",
+      "scraped_at": "2025-05-29T15:01:23.493713"
+    },
+    {
+      "product_name": "Scholastic Children Ultra",
+      "site": "Flipkart",
+      "price": 2696.66,
+      "category": "books",
+      "scraped_at": "2025-05-22T15:01:23.493714"
+    },
+    {
+      "product_name": "Scholastic Children Ultra",
+      "site": "Flipkart",
+      "price": 2611.3,
+      "category": "books",
+      "scraped_at": "2025-05-06T15:01:23.493715"
+    },
+    {
+      "product_name": "Timex Digital Ultra",
+      "site": "Amazon",
+      "price": 4089.76,
+      "category": "watch",
+      "scraped_at": "2025-06-05T15:01:23.493091"
+    },
+    {
+      "product_name": "Timex Digital Ultra",
+      "site": "Amazon",
+      "price": 3888.98,
+      "category": "watch",
+      "scraped_at": "2025-05-29T15:01:23.493716"
+    },
+    {
+      "product_name": "Timex Digital Ultra",
+      "site": "Amazon",
+      "price": 4378.11,
+      "category": "watch",
+      "scraped_at": "2025-05-22T15:01:23.493717"
+    },
+    {
+      "product_name": "Timex Digital Ultra",
+      "site": "Amazon",
+      "price": 4413.01,
+      "category": "watch",
+      "scraped_at": "2025-05-06T15:01:23.493718"
+    },
+    {
+      "product_name": "Citizen Analog SE",
+      "site": "Amazon",
+      "price": 15598.95,
+      "category": "watch",
+      "scraped_at": "2025-06-05T15:01:23.493095"
+    },
+    {
+      "product_name": "Citizen Analog SE",
+      "site": "Amazon",
+      "price": 14217.13,
+      "category": "watch",
+      "scraped_at": "2025-05-29T15:01:23.493720"
+    },
+    {
+      "product_name": "Citizen Analog SE",
+      "site": "Amazon",
+      "price": 14679.39,
+      "category": "watch",
+      "scraped_at": "2025-05-22T15:01:23.493721"
+    },
+    {
+      "product_name": "Citizen Analog SE",
+      "site": "Amazon",
+      "price": 14478.76,
+      "category": "watch",
+      "scraped_at": "2025-05-06T15:01:23.493722"
+    },
+    {
+      "product_name": "Fossil Dress Plus",
+      "site": "Amazon",
+      "price": 40048.44,
+      "category": "watch",
+      "scraped_at": "2025-06-05T15:01:23.493099"
+    },
+    {
+      "product_name": "Fossil Dress Plus",
+      "site": "Amazon",
+      "price": 41260.75,
+      "category": "watch",
+      "scraped_at": "2025-05-29T15:01:23.493723"
+    },
+    {
+      "product_name": "Fossil Dress Plus",
+      "site": "Amazon",
+      "price": 43453.03,
+      "category": "watch",
+      "scraped_at": "2025-05-22T15:01:23.493724"
+    },
+    {
+      "product_name": "Fossil Dress Plus",
+      "site": "Amazon",
+      "price": 39375.8,
+      "category": "watch",
+      "scraped_at": "2025-05-06T15:01:23.493725"
+    },
+    {
+      "product_name": "Titan Dress Pro",
+      "site": "Amazon",
+      "price": 7205.29,
+      "category": "watch",
+      "scraped_at": "2025-06-05T15:01:23.493103"
+    },
+    {
+      "product_name": "Titan Dress Pro",
+      "site": "Amazon",
+      "price": 7220.6,
+      "category": "watch",
+      "scraped_at": "2025-05-29T15:01:23.493727"
+    },
+    {
+      "product_name": "Titan Dress Pro",
+      "site": "Amazon",
+      "price": 6768.69,
+      "category": "watch",
+      "scraped_at": "2025-05-22T15:01:23.493728"
+    },
+    {
+      "product_name": "Titan Dress Pro",
+      "site": "Amazon",
+      "price": 6652.17,
+      "category": "watch",
+      "scraped_at": "2025-05-06T15:01:23.493729"
+    },
+    {
+      "product_name": "Titan Analog SE",
+      "site": "Amazon",
+      "price": 13814.96,
+      "category": "watch",
+      "scraped_at": "2025-06-05T15:01:23.493107"
+    },
+    {
+      "product_name": "Titan Analog SE",
+      "site": "Amazon",
+      "price": 14141.66,
+      "category": "watch",
+      "scraped_at": "2025-05-29T15:01:23.493730"
+    },
+    {
+      "product_name": "Titan Analog SE",
+      "site": "Amazon",
+      "price": 13874.69,
+      "category": "watch",
+      "scraped_at": "2025-05-22T15:01:23.493731"
+    },
+    {
+      "product_name": "Titan Analog SE",
+      "site": "Amazon",
+      "price": 14079.83,
+      "category": "watch",
+      "scraped_at": "2025-05-06T15:01:23.493732"
+    },
+    {
+      "product_name": "Casio Digital",
+      "site": "Amazon",
+      "price": 39384.24,
+      "category": "watch",
+      "scraped_at": "2025-06-05T15:01:23.493110"
+    },
+    {
+      "product_name": "Casio Digital",
+      "site": "Amazon",
+      "price": 43021.82,
+      "category": "watch",
+      "scraped_at": "2025-05-29T15:01:23.493734"
+    },
+    {
+      "product_name": "Casio Digital",
+      "site": "Amazon",
+      "price": 39341.88,
+      "category": "watch",
+      "scraped_at": "2025-05-22T15:01:23.493735"
+    },
+    {
+      "product_name": "Casio Digital",
+      "site": "Amazon",
+      "price": 38185.71,
+      "category": "watch",
+      "scraped_at": "2025-05-06T15:01:23.493736"
+    },
+    {
+      "product_name": "Casio Analog Plus",
+      "site": "Amazon",
+      "price": 36103.97,
+      "category": "watch",
+      "scraped_at": "2025-06-05T15:01:23.493115"
+    },
+    {
+      "product_name": "Casio Analog Plus",
+      "site": "Amazon",
+      "price": 38686.43,
+      "category": "watch",
+      "scraped_at": "2025-05-29T15:01:23.493737"
+    },
+    {
+      "product_name": "Casio Analog Plus",
+      "site": "Amazon",
+      "price": 37309.96,
+      "category": "watch",
+      "scraped_at": "2025-05-22T15:01:23.493738"
+    },
+    {
+      "product_name": "Casio Analog Plus",
+      "site": "Amazon",
+      "price": 35977.74,
+      "category": "watch",
+      "scraped_at": "2025-05-06T15:01:23.493739"
+    },
+    {
+      "product_name": "Casio Analog Ultra",
+      "site": "Amazon",
+      "price": 19511.35,
+      "category": "watch",
+      "scraped_at": "2025-06-05T15:01:23.493118"
+    },
+    {
+      "product_name": "Casio Analog Ultra",
+      "site": "Amazon",
+      "price": 21137.33,
+      "category": "watch",
+      "scraped_at": "2025-05-29T15:01:23.493741"
+    },
+    {
+      "product_name": "Casio Analog Ultra",
+      "site": "Amazon",
+      "price": 17702.67,
+      "category": "watch",
+      "scraped_at": "2025-05-22T15:01:23.493742"
+    },
+    {
+      "product_name": "Casio Analog Ultra",
+      "site": "Amazon",
+      "price": 19495.16,
+      "category": "watch",
+      "scraped_at": "2025-05-06T15:01:23.493743"
+    },
+    {
+      "product_name": "Timex Smart SE",
+      "site": "Flipkart",
+      "price": 15834.89,
+      "category": "watch",
+      "scraped_at": "2025-06-05T15:01:23.493122"
+    },
+    {
+      "product_name": "Timex Smart SE",
+      "site": "Flipkart",
+      "price": 16365.94,
+      "category": "watch",
+      "scraped_at": "2025-05-29T15:01:23.493744"
+    },
+    {
+      "product_name": "Timex Smart SE",
+      "site": "Flipkart",
+      "price": 15166.35,
+      "category": "watch",
+      "scraped_at": "2025-05-22T15:01:23.493745"
+    },
+    {
+      "product_name": "Timex Smart SE",
+      "site": "Flipkart",
+      "price": 15337.98,
+      "category": "watch",
+      "scraped_at": "2025-05-06T15:01:23.493746"
+    },
+    {
+      "product_name": "Fossil Sports SE",
+      "site": "Flipkart",
+      "price": 42492.5,
+      "category": "watch",
+      "scraped_at": "2025-06-05T15:01:23.493126"
+    },
+    {
+      "product_name": "Fossil Sports SE",
+      "site": "Flipkart",
+      "price": 46679.82,
+      "category": "watch",
+      "scraped_at": "2025-05-29T15:01:23.493747"
+    },
+    {
+      "product_name": "Fossil Sports SE",
+      "site": "Flipkart",
+      "price": 46708.54,
+      "category": "watch",
+      "scraped_at": "2025-05-22T15:01:23.493748"
+    },
+    {
+      "product_name": "Fossil Sports SE",
+      "site": "Flipkart",
+      "price": 41712.19,
+      "category": "watch",
+      "scraped_at": "2025-05-06T15:01:23.493750"
+    },
+    {
+      "product_name": "Citizen Digital Plus",
+      "site": "Flipkart",
+      "price": 23617.79,
+      "category": "watch",
+      "scraped_at": "2025-06-05T15:01:23.493130"
+    },
+    {
+      "product_name": "Citizen Digital Plus",
+      "site": "Flipkart",
+      "price": 21790.83,
+      "category": "watch",
+      "scraped_at": "2025-05-29T15:01:23.493751"
+    },
+    {
+      "product_name": "Citizen Digital Plus",
+      "site": "Flipkart",
+      "price": 23598.97,
+      "category": "watch",
+      "scraped_at": "2025-05-22T15:01:23.493752"
+    },
+    {
+      "product_name": "Citizen Digital Plus",
+      "site": "Flipkart",
+      "price": 21797.3,
+      "category": "watch",
+      "scraped_at": "2025-05-06T15:01:23.493753"
+    },
+    {
+      "product_name": "Timex Smart",
+      "site": "Flipkart",
+      "price": 2876.74,
+      "category": "watch",
+      "scraped_at": "2025-06-05T15:01:23.493134"
+    },
+    {
+      "product_name": "Timex Smart",
+      "site": "Flipkart",
+      "price": 2883.02,
+      "category": "watch",
+      "scraped_at": "2025-05-29T15:01:23.493754"
+    },
+    {
+      "product_name": "Timex Smart",
+      "site": "Flipkart",
+      "price": 2659.63,
+      "category": "watch",
+      "scraped_at": "2025-05-22T15:01:23.493756"
+    },
+    {
+      "product_name": "Timex Smart",
+      "site": "Flipkart",
+      "price": 2731.59,
+      "category": "watch",
+      "scraped_at": "2025-05-06T15:01:23.493757"
+    },
+    {
+      "product_name": "Casio Analog Max",
+      "site": "Flipkart",
+      "price": 44731.62,
+      "category": "watch",
+      "scraped_at": "2025-06-05T15:01:23.493138"
+    },
+    {
+      "product_name": "Casio Analog Max",
+      "site": "Flipkart",
+      "price": 42735.8,
+      "category": "watch",
+      "scraped_at": "2025-05-29T15:01:23.493758"
+    },
+    {
+      "product_name": "Casio Analog Max",
+      "site": "Flipkart",
+      "price": 44544.36,
+      "category": "watch",
+      "scraped_at": "2025-05-22T15:01:23.493759"
+    },
+    {
+      "product_name": "Casio Analog Max",
+      "site": "Flipkart",
+      "price": 42947.98,
+      "category": "watch",
+      "scraped_at": "2025-05-06T15:01:23.493760"
+    },
+    {
+      "product_name": "Citizen Smart Plus",
+      "site": "Flipkart",
+      "price": 32834.96,
+      "category": "watch",
+      "scraped_at": "2025-06-05T15:01:23.493142"
+    },
+    {
+      "product_name": "Citizen Smart Plus",
+      "site": "Flipkart",
+      "price": 33421.4,
+      "category": "watch",
+      "scraped_at": "2025-05-29T15:01:23.493762"
+    },
+    {
+      "product_name": "Citizen Smart Plus",
+      "site": "Flipkart",
+      "price": 33248.78,
+      "category": "watch",
+      "scraped_at": "2025-05-22T15:01:23.493763"
+    },
+    {
+      "product_name": "Citizen Smart Plus",
+      "site": "Flipkart",
+      "price": 30185.05,
+      "category": "watch",
+      "scraped_at": "2025-05-06T15:01:23.493764"
+    },
+    {
+      "product_name": "Timex Analog Max",
+      "site": "Flipkart",
+      "price": 31182.55,
+      "category": "watch",
+      "scraped_at": "2025-06-05T15:01:23.493146"
+    },
+    {
+      "product_name": "Timex Analog Max",
+      "site": "Flipkart",
+      "price": 32816.69,
+      "category": "watch",
+      "scraped_at": "2025-05-29T15:01:23.493765"
+    },
+    {
+      "product_name": "Timex Analog Max",
+      "site": "Flipkart",
+      "price": 32930.92,
+      "category": "watch",
+      "scraped_at": "2025-05-22T15:01:23.493766"
+    },
+    {
+      "product_name": "Timex Analog Max",
+      "site": "Flipkart",
+      "price": 32833.95,
+      "category": "watch",
+      "scraped_at": "2025-05-06T15:01:23.493767"
+    },
+    {
+      "product_name": "Casio Smart Max",
+      "site": "Flipkart",
+      "price": 50726.7,
+      "category": "watch",
+      "scraped_at": "2025-06-05T15:01:23.493149"
+    },
+    {
+      "product_name": "Casio Smart Max",
+      "site": "Flipkart",
+      "price": 47398.75,
+      "category": "watch",
+      "scraped_at": "2025-05-29T15:01:23.493768"
+    },
+    {
+      "product_name": "Casio Smart Max",
+      "site": "Flipkart",
+      "price": 48026.73,
+      "category": "watch",
+      "scraped_at": "2025-05-22T15:01:23.493770"
+    },
+    {
+      "product_name": "Casio Smart Max",
+      "site": "Flipkart",
+      "price": 53998.03,
+      "category": "watch",
+      "scraped_at": "2025-05-06T15:01:23.493771"
+    },
+    {
+      "product_name": "Tommy Hilfiger Sport Lite",
+      "site": "Amazon",
+      "price": 3851.36,
+      "category": "backpack",
+      "scraped_at": "2025-06-05T15:01:23.493159"
+    },
+    {
+      "product_name": "Tommy Hilfiger Sport Lite",
+      "site": "Amazon",
+      "price": 3772.46,
+      "category": "backpack",
+      "scraped_at": "2025-05-29T15:01:23.493772"
+    },
+    {
+      "product_name": "Tommy Hilfiger Sport Lite",
+      "site": "Amazon",
+      "price": 3631.67,
+      "category": "backpack",
+      "scraped_at": "2025-05-22T15:01:23.493773"
+    },
+    {
+      "product_name": "Tommy Hilfiger Sport Lite",
+      "site": "Amazon",
+      "price": 4225.34,
+      "category": "backpack",
+      "scraped_at": "2025-05-06T15:01:23.493774"
+    },
+    {
+      "product_name": "VIP Sport Plus",
+      "site": "Amazon",
+      "price": 7222.64,
+      "category": "backpack",
+      "scraped_at": "2025-06-05T15:01:23.493163"
+    },
+    {
+      "product_name": "VIP Sport Plus",
+      "site": "Amazon",
+      "price": 7457.49,
+      "category": "backpack",
+      "scraped_at": "2025-05-29T15:01:23.493775"
+    },
+    {
+      "product_name": "VIP Sport Plus",
+      "site": "Amazon",
+      "price": 7184.46,
+      "category": "backpack",
+      "scraped_at": "2025-05-22T15:01:23.493776"
+    },
+    {
+      "product_name": "VIP Sport Plus",
+      "site": "Amazon",
+      "price": 7921.17,
+      "category": "backpack",
+      "scraped_at": "2025-05-06T15:01:23.493777"
+    },
+    {
+      "product_name": "Tommy Hilfiger Laptop Lite",
+      "site": "Amazon",
+      "price": 2442.95,
+      "category": "backpack",
+      "scraped_at": "2025-06-05T15:01:23.493167"
+    },
+    {
+      "product_name": "Tommy Hilfiger Laptop Lite",
+      "site": "Amazon",
+      "price": 2250.27,
+      "category": "backpack",
+      "scraped_at": "2025-05-29T15:01:23.493779"
+    },
+    {
+      "product_name": "Tommy Hilfiger Laptop Lite",
+      "site": "Amazon",
+      "price": 2338.45,
+      "category": "backpack",
+      "scraped_at": "2025-05-22T15:01:23.493780"
+    },
+    {
+      "product_name": "Tommy Hilfiger Laptop Lite",
+      "site": "Amazon",
+      "price": 2585.88,
+      "category": "backpack",
+      "scraped_at": "2025-05-06T15:01:23.493781"
+    },
+    {
+      "product_name": "Wildcraft Hiking Plus",
+      "site": "Amazon",
+      "price": 1625.48,
+      "category": "backpack",
+      "scraped_at": "2025-06-05T15:01:23.493171"
+    },
+    {
+      "product_name": "Wildcraft Hiking Plus",
+      "site": "Amazon",
+      "price": 1595.99,
+      "category": "backpack",
+      "scraped_at": "2025-05-29T15:01:23.493782"
+    },
+    {
+      "product_name": "Wildcraft Hiking Plus",
+      "site": "Amazon",
+      "price": 1624.97,
+      "category": "backpack",
+      "scraped_at": "2025-05-22T15:01:23.493783"
+    },
+    {
+      "product_name": "Wildcraft Hiking Plus",
+      "site": "Amazon",
+      "price": 1622.4,
+      "category": "backpack",
+      "scraped_at": "2025-05-06T15:01:23.493784"
+    },
+    {
+      "product_name": "VIP Casual Pro",
+      "site": "Amazon",
+      "price": 2184.68,
+      "category": "backpack",
+      "scraped_at": "2025-06-05T15:01:23.493174"
+    },
+    {
+      "product_name": "VIP Casual Pro",
+      "site": "Amazon",
+      "price": 2120.59,
+      "category": "backpack",
+      "scraped_at": "2025-05-29T15:01:23.493786"
+    },
+    {
+      "product_name": "VIP Casual Pro",
+      "site": "Amazon",
+      "price": 2318.69,
+      "category": "backpack",
+      "scraped_at": "2025-05-22T15:01:23.493787"
+    },
+    {
+      "product_name": "VIP Casual Pro",
+      "site": "Amazon",
+      "price": 2369.67,
+      "category": "backpack",
+      "scraped_at": "2025-05-06T15:01:23.493788"
+    },
+    {
+      "product_name": "Tommy Hilfiger Sport Plus",
+      "site": "Amazon",
+      "price": 7746.36,
+      "category": "backpack",
+      "scraped_at": "2025-06-05T15:01:23.493178"
+    },
+    {
+      "product_name": "Tommy Hilfiger Sport Plus",
+      "site": "Amazon",
+      "price": 7186.63,
+      "category": "backpack",
+      "scraped_at": "2025-05-29T15:01:23.493789"
+    },
+    {
+      "product_name": "Tommy Hilfiger Sport Plus",
+      "site": "Amazon",
+      "price": 7095.0,
+      "category": "backpack",
+      "scraped_at": "2025-05-22T15:01:23.493790"
+    },
+    {
+      "product_name": "Tommy Hilfiger Sport Plus",
+      "site": "Amazon",
+      "price": 7679.5,
+      "category": "backpack",
+      "scraped_at": "2025-05-06T15:01:23.493791"
+    },
+    {
+      "product_name": "Tommy Hilfiger Hiking Plus",
+      "site": "Amazon",
+      "price": 1878.66,
+      "category": "backpack",
+      "scraped_at": "2025-06-05T15:01:23.493182"
+    },
+    {
+      "product_name": "Tommy Hilfiger Hiking Plus",
+      "site": "Amazon",
+      "price": 1976.14,
+      "category": "backpack",
+      "scraped_at": "2025-05-29T15:01:23.493793"
+    },
+    {
+      "product_name": "Tommy Hilfiger Hiking Plus",
+      "site": "Amazon",
+      "price": 1903.35,
+      "category": "backpack",
+      "scraped_at": "2025-05-22T15:01:23.493794"
+    },
+    {
+      "product_name": "Tommy Hilfiger Hiking Plus",
+      "site": "Amazon",
+      "price": 2040.28,
+      "category": "backpack",
+      "scraped_at": "2025-05-06T15:01:23.493795"
+    },
+    {
+      "product_name": "Tommy Hilfiger Hiking Pro",
+      "site": "Amazon",
+      "price": 8116.07,
+      "category": "backpack",
+      "scraped_at": "2025-06-05T15:01:23.493186"
+    },
+    {
+      "product_name": "Tommy Hilfiger Hiking Pro",
+      "site": "Amazon",
+      "price": 7598.09,
+      "category": "backpack",
+      "scraped_at": "2025-05-29T15:01:23.493796"
+    },
+    {
+      "product_name": "Tommy Hilfiger Hiking Pro",
+      "site": "Amazon",
+      "price": 8301.42,
+      "category": "backpack",
+      "scraped_at": "2025-05-22T15:01:23.493797"
+    },
+    {
+      "product_name": "Tommy Hilfiger Hiking Pro",
+      "site": "Amazon",
+      "price": 7408.05,
+      "category": "backpack",
+      "scraped_at": "2025-05-06T15:01:23.493798"
+    },
+    {
+      "product_name": "Nike Hiking Lite",
+      "site": "Flipkart",
+      "price": 7830.65,
+      "category": "backpack",
+      "scraped_at": "2025-06-05T15:01:23.493190"
+    },
+    {
+      "product_name": "Nike Hiking Lite",
+      "site": "Flipkart",
+      "price": 7783.62,
+      "category": "backpack",
+      "scraped_at": "2025-05-29T15:01:23.493799"
+    },
+    {
+      "product_name": "Nike Hiking Lite",
+      "site": "Flipkart",
+      "price": 7318.51,
+      "category": "backpack",
+      "scraped_at": "2025-05-22T15:01:23.493801"
+    },
+    {
+      "product_name": "Nike Hiking Lite",
+      "site": "Flipkart",
+      "price": 7662.72,
+      "category": "backpack",
+      "scraped_at": "2025-05-06T15:01:23.493802"
+    },
+    {
+      "product_name": "VIP Sport Max",
+      "site": "Flipkart",
+      "price": 2513.97,
+      "category": "backpack",
+      "scraped_at": "2025-06-05T15:01:23.493194"
+    },
+    {
+      "product_name": "VIP Sport Max",
+      "site": "Flipkart",
+      "price": 2645.81,
+      "category": "backpack",
+      "scraped_at": "2025-05-29T15:01:23.493803"
+    },
+    {
+      "product_name": "VIP Sport Max",
+      "site": "Flipkart",
+      "price": 2485.82,
+      "category": "backpack",
+      "scraped_at": "2025-05-22T15:01:23.493804"
+    },
+    {
+      "product_name": "VIP Sport Max",
+      "site": "Flipkart",
+      "price": 2727.44,
+      "category": "backpack",
+      "scraped_at": "2025-05-06T15:01:23.493805"
+    },
+    {
+      "product_name": "VIP Casual Pro",
+      "site": "Flipkart",
+      "price": 6311.47,
+      "category": "backpack",
+      "scraped_at": "2025-06-05T15:01:23.493198"
+    },
+    {
+      "product_name": "VIP Casual Pro",
+      "site": "Flipkart",
+      "price": 5841.6,
+      "category": "backpack",
+      "scraped_at": "2025-05-29T15:01:23.493806"
+    },
+    {
+      "product_name": "VIP Casual Pro",
+      "site": "Flipkart",
+      "price": 6010.03,
+      "category": "backpack",
+      "scraped_at": "2025-05-22T15:01:23.493807"
+    },
+    {
+      "product_name": "VIP Casual Pro",
+      "site": "Flipkart",
+      "price": 5853.32,
+      "category": "backpack",
+      "scraped_at": "2025-05-06T15:01:23.493808"
+    },
+    {
+      "product_name": "American Tourister Laptop Pro",
+      "site": "Flipkart",
+      "price": 3855.48,
+      "category": "backpack",
+      "scraped_at": "2025-06-05T15:01:23.493202"
+    },
+    {
+      "product_name": "American Tourister Laptop Pro",
+      "site": "Flipkart",
+      "price": 3539.95,
+      "category": "backpack",
+      "scraped_at": "2025-05-29T15:01:23.493810"
+    },
+    {
+      "product_name": "American Tourister Laptop Pro",
+      "site": "Flipkart",
+      "price": 3586.33,
+      "category": "backpack",
+      "scraped_at": "2025-05-22T15:01:23.493811"
+    },
+    {
+      "product_name": "American Tourister Laptop Pro",
+      "site": "Flipkart",
+      "price": 4021.48,
+      "category": "backpack",
+      "scraped_at": "2025-05-06T15:01:23.493812"
+    },
+    {
+      "product_name": "Wildcraft Laptop Max",
+      "site": "Flipkart",
+      "price": 6286.87,
+      "category": "backpack",
+      "scraped_at": "2025-06-05T15:01:23.493206"
+    },
+    {
+      "product_name": "Wildcraft Laptop Max",
+      "site": "Flipkart",
+      "price": 6514.45,
+      "category": "backpack",
+      "scraped_at": "2025-05-29T15:01:23.493813"
+    },
+    {
+      "product_name": "Wildcraft Laptop Max",
+      "site": "Flipkart",
+      "price": 5717.12,
+      "category": "backpack",
+      "scraped_at": "2025-05-22T15:01:23.493814"
+    },
+    {
+      "product_name": "Wildcraft Laptop Max",
+      "site": "Flipkart",
+      "price": 5765.08,
+      "category": "backpack",
+      "scraped_at": "2025-05-06T15:01:23.493815"
+    },
+    {
+      "product_name": "VIP Travel SE",
+      "site": "Flipkart",
+      "price": 5343.77,
+      "category": "backpack",
+      "scraped_at": "2025-06-05T15:01:23.493209"
+    },
+    {
+      "product_name": "VIP Travel SE",
+      "site": "Flipkart",
+      "price": 4856.44,
+      "category": "backpack",
+      "scraped_at": "2025-05-29T15:01:23.493817"
+    },
+    {
+      "product_name": "VIP Travel SE",
+      "site": "Flipkart",
+      "price": 4866.9,
+      "category": "backpack",
+      "scraped_at": "2025-05-22T15:01:23.493818"
+    },
+    {
+      "product_name": "VIP Travel SE",
+      "site": "Flipkart",
+      "price": 5567.16,
+      "category": "backpack",
+      "scraped_at": "2025-05-06T15:01:23.493819"
+    },
+    {
+      "product_name": "Wildcraft Casual Plus",
+      "site": "Flipkart",
+      "price": 2007.78,
+      "category": "backpack",
+      "scraped_at": "2025-06-05T15:01:23.493214"
+    },
+    {
+      "product_name": "Wildcraft Casual Plus",
+      "site": "Flipkart",
+      "price": 2073.92,
+      "category": "backpack",
+      "scraped_at": "2025-05-29T15:01:23.493820"
+    },
+    {
+      "product_name": "Wildcraft Casual Plus",
+      "site": "Flipkart",
+      "price": 1841.9,
+      "category": "backpack",
+      "scraped_at": "2025-05-22T15:01:23.493821"
+    },
+    {
+      "product_name": "Wildcraft Casual Plus",
+      "site": "Flipkart",
+      "price": 2103.17,
+      "category": "backpack",
+      "scraped_at": "2025-05-06T15:01:23.493822"
+    },
+    {
+      "product_name": "Skybags Sport Max",
+      "site": "Flipkart",
+      "price": 4970.55,
+      "category": "backpack",
+      "scraped_at": "2025-06-05T15:01:23.493217"
+    },
+    {
+      "product_name": "Skybags Sport Max",
+      "site": "Flipkart",
+      "price": 4721.46,
+      "category": "backpack",
+      "scraped_at": "2025-05-29T15:01:23.493823"
+    },
+    {
+      "product_name": "Skybags Sport Max",
+      "site": "Flipkart",
+      "price": 4528.22,
+      "category": "backpack",
+      "scraped_at": "2025-05-22T15:01:23.493825"
+    },
+    {
+      "product_name": "Skybags Sport Max",
+      "site": "Flipkart",
+      "price": 4836.99,
+      "category": "backpack",
+      "scraped_at": "2025-05-06T15:01:23.493826"
+    },
+    {
+      "product_name": "Fujifilm Mirrorless",
+      "site": "Amazon",
+      "price": 130214.47,
+      "category": "camera",
+      "scraped_at": "2025-06-05T15:01:23.493227"
+    },
+    {
+      "product_name": "Fujifilm Mirrorless",
+      "site": "Amazon",
+      "price": 118537.2,
+      "category": "camera",
+      "scraped_at": "2025-05-29T15:01:23.493827"
+    },
+    {
+      "product_name": "Fujifilm Mirrorless",
+      "site": "Amazon",
+      "price": 132275.3,
+      "category": "camera",
+      "scraped_at": "2025-05-22T15:01:23.493828"
+    },
+    {
+      "product_name": "Fujifilm Mirrorless",
+      "site": "Amazon",
+      "price": 142667.31,
+      "category": "camera",
+      "scraped_at": "2025-05-06T15:01:23.493829"
+    },
+    {
+      "product_name": "Fujifilm Mirrorless SE",
+      "site": "Amazon",
+      "price": 60025.03,
+      "category": "camera",
+      "scraped_at": "2025-06-05T15:01:23.493232"
+    },
+    {
+      "product_name": "Fujifilm Mirrorless SE",
+      "site": "Amazon",
+      "price": 64870.51,
+      "category": "camera",
+      "scraped_at": "2025-05-29T15:01:23.493831"
+    },
+    {
+      "product_name": "Fujifilm Mirrorless SE",
+      "site": "Amazon",
+      "price": 54347.36,
+      "category": "camera",
+      "scraped_at": "2025-05-22T15:01:23.493832"
+    },
+    {
+      "product_name": "Fujifilm Mirrorless SE",
+      "site": "Amazon",
+      "price": 55965.23,
+      "category": "camera",
+      "scraped_at": "2025-05-06T15:01:23.493833"
+    },
+    {
+      "product_name": "Canon Point & Shoot Max",
+      "site": "Amazon",
+      "price": 103587.89,
+      "category": "camera",
+      "scraped_at": "2025-06-05T15:01:23.493236"
+    },
+    {
+      "product_name": "Canon Point & Shoot Max",
+      "site": "Amazon",
+      "price": 105507.13,
+      "category": "camera",
+      "scraped_at": "2025-05-29T15:01:23.493834"
+    },
+    {
+      "product_name": "Canon Point & Shoot Max",
+      "site": "Amazon",
+      "price": 102291.62,
+      "category": "camera",
+      "scraped_at": "2025-05-22T15:01:23.493835"
+    },
+    {
+      "product_name": "Canon Point & Shoot Max",
+      "site": "Amazon",
+      "price": 104623.56,
+      "category": "camera",
+      "scraped_at": "2025-05-06T15:01:23.493837"
+    },
+    {
+      "product_name": "Canon Action Pro",
+      "site": "Amazon",
+      "price": 77275.77,
+      "category": "camera",
+      "scraped_at": "2025-06-05T15:01:23.493240"
+    },
+    {
+      "product_name": "Canon Action Pro",
+      "site": "Amazon",
+      "price": 80702.65,
+      "category": "camera",
+      "scraped_at": "2025-05-29T15:01:23.493838"
+    },
+    {
+      "product_name": "Canon Action Pro",
+      "site": "Amazon",
+      "price": 82886.1,
+      "category": "camera",
+      "scraped_at": "2025-05-22T15:01:23.493839"
+    },
+    {
+      "product_name": "Canon Action Pro",
+      "site": "Amazon",
+      "price": 79350.38,
+      "category": "camera",
+      "scraped_at": "2025-05-06T15:01:23.493840"
+    },
+    {
+      "product_name": "Sony Action Max",
+      "site": "Amazon",
+      "price": 195095.58,
+      "category": "camera",
+      "scraped_at": "2025-06-05T15:01:23.493244"
+    },
+    {
+      "product_name": "Sony Action Max",
+      "site": "Amazon",
+      "price": 181202.07,
+      "category": "camera",
+      "scraped_at": "2025-05-29T15:01:23.493841"
+    },
+    {
+      "product_name": "Sony Action Max",
+      "site": "Amazon",
+      "price": 194982.65,
+      "category": "camera",
+      "scraped_at": "2025-05-22T15:01:23.493842"
+    },
+    {
+      "product_name": "Sony Action Max",
+      "site": "Amazon",
+      "price": 204872.39,
+      "category": "camera",
+      "scraped_at": "2025-05-06T15:01:23.493844"
+    },
+    {
+      "product_name": "Olympus Action Plus",
+      "site": "Amazon",
+      "price": 219194.09,
+      "category": "camera",
+      "scraped_at": "2025-06-05T15:01:23.493247"
+    },
+    {
+      "product_name": "Olympus Action Plus",
+      "site": "Amazon",
+      "price": 203754.49,
+      "category": "camera",
+      "scraped_at": "2025-05-29T15:01:23.493845"
+    },
+    {
+      "product_name": "Olympus Action Plus",
+      "site": "Amazon",
+      "price": 203216.95,
+      "category": "camera",
+      "scraped_at": "2025-05-22T15:01:23.493846"
+    },
+    {
+      "product_name": "Olympus Action Plus",
+      "site": "Amazon",
+      "price": 227441.6,
+      "category": "camera",
+      "scraped_at": "2025-05-06T15:01:23.493847"
+    },
+    {
+      "product_name": "Nikon Mirrorless Pro",
+      "site": "Amazon",
+      "price": 169258.22,
+      "category": "camera",
+      "scraped_at": "2025-06-05T15:01:23.493251"
+    },
+    {
+      "product_name": "Nikon Mirrorless Pro",
+      "site": "Amazon",
+      "price": 166472.47,
+      "category": "camera",
+      "scraped_at": "2025-05-29T15:01:23.493849"
+    },
+    {
+      "product_name": "Nikon Mirrorless Pro",
+      "site": "Amazon",
+      "price": 169061.84,
+      "category": "camera",
+      "scraped_at": "2025-05-22T15:01:23.493850"
+    },
+    {
+      "product_name": "Nikon Mirrorless Pro",
+      "site": "Amazon",
+      "price": 156165.65,
+      "category": "camera",
+      "scraped_at": "2025-05-06T15:01:23.493851"
+    },
+    {
+      "product_name": "Nikon Instant Lite",
+      "site": "Amazon",
+      "price": 141163.88,
+      "category": "camera",
+      "scraped_at": "2025-06-05T15:01:23.493255"
+    },
+    {
+      "product_name": "Nikon Instant Lite",
+      "site": "Amazon",
+      "price": 141677.91,
+      "category": "camera",
+      "scraped_at": "2025-05-29T15:01:23.493852"
+    },
+    {
+      "product_name": "Nikon Instant Lite",
+      "site": "Amazon",
+      "price": 127876.61,
+      "category": "camera",
+      "scraped_at": "2025-05-22T15:01:23.493853"
+    },
+    {
+      "product_name": "Nikon Instant Lite",
+      "site": "Amazon",
+      "price": 147240.63,
+      "category": "camera",
+      "scraped_at": "2025-05-06T15:01:23.493854"
+    },
+    {
+      "product_name": "Panasonic Instant Lite",
+      "site": "Flipkart",
+      "price": 136762.15,
+      "category": "camera",
+      "scraped_at": "2025-06-05T15:01:23.493259"
+    },
+    {
+      "product_name": "Panasonic Instant Lite",
+      "site": "Flipkart",
+      "price": 146103.59,
+      "category": "camera",
+      "scraped_at": "2025-05-29T15:01:23.493856"
+    },
+    {
+      "product_name": "Panasonic Instant Lite",
+      "site": "Flipkart",
+      "price": 129109.63,
+      "category": "camera",
+      "scraped_at": "2025-05-22T15:01:23.493857"
+    },
+    {
+      "product_name": "Panasonic Instant Lite",
+      "site": "Flipkart",
+      "price": 133032.34,
+      "category": "camera",
+      "scraped_at": "2025-05-06T15:01:23.493858"
+    },
+    {
+      "product_name": "Sony DSLR",
+      "site": "Flipkart",
+      "price": 21291.78,
+      "category": "camera",
+      "scraped_at": "2025-06-05T15:01:23.493263"
+    },
+    {
+      "product_name": "Sony DSLR",
+      "site": "Flipkart",
+      "price": 20822.9,
+      "category": "camera",
+      "scraped_at": "2025-05-29T15:01:23.493859"
+    },
+    {
+      "product_name": "Sony DSLR",
+      "site": "Flipkart",
+      "price": 22772.56,
+      "category": "camera",
+      "scraped_at": "2025-05-22T15:01:23.493860"
+    },
+    {
+      "product_name": "Sony DSLR",
+      "site": "Flipkart",
+      "price": 22820.53,
+      "category": "camera",
+      "scraped_at": "2025-05-06T15:01:23.493861"
+    },
+    {
+      "product_name": "Sony Professional Max",
+      "site": "Flipkart",
+      "price": 138660.13,
+      "category": "camera",
+      "scraped_at": "2025-06-05T15:01:23.493267"
+    },
+    {
+      "product_name": "Sony Professional Max",
+      "site": "Flipkart",
+      "price": 137251.98,
+      "category": "camera",
+      "scraped_at": "2025-05-29T15:01:23.493862"
+    },
+    {
+      "product_name": "Sony Professional Max",
+      "site": "Flipkart",
+      "price": 144533.65,
+      "category": "camera",
+      "scraped_at": "2025-05-22T15:01:23.493864"
+    },
+    {
+      "product_name": "Sony Professional Max",
+      "site": "Flipkart",
+      "price": 134539.7,
+      "category": "camera",
+      "scraped_at": "2025-05-06T15:01:23.493865"
+    },
+    {
+      "product_name": "Canon Professional Lite",
+      "site": "Flipkart",
+      "price": 91835.54,
+      "category": "camera",
+      "scraped_at": "2025-06-05T15:01:23.493271"
+    },
+    {
+      "product_name": "Canon Professional Lite",
+      "site": "Flipkart",
+      "price": 100338.13,
+      "category": "camera",
+      "scraped_at": "2025-05-29T15:01:23.493866"
+    },
+    {
+      "product_name": "Canon Professional Lite",
+      "site": "Flipkart",
+      "price": 92560.96,
+      "category": "camera",
+      "scraped_at": "2025-05-22T15:01:23.493867"
+    },
+    {
+      "product_name": "Canon Professional Lite",
+      "site": "Flipkart",
+      "price": 100652.33,
+      "category": "camera",
+      "scraped_at": "2025-05-06T15:01:23.493868"
+    },
+    {
+      "product_name": "Nikon Instant Lite",
+      "site": "Flipkart",
+      "price": 82277.79,
+      "category": "camera",
+      "scraped_at": "2025-06-05T15:01:23.493275"
+    },
+    {
+      "product_name": "Nikon Instant Lite",
+      "site": "Flipkart",
+      "price": 74865.03,
+      "category": "camera",
+      "scraped_at": "2025-05-29T15:01:23.493869"
+    },
+    {
+      "product_name": "Nikon Instant Lite",
+      "site": "Flipkart",
+      "price": 90035.03,
+      "category": "camera",
+      "scraped_at": "2025-05-22T15:01:23.493871"
+    },
+    {
+      "product_name": "Nikon Instant Lite",
+      "site": "Flipkart",
+      "price": 79092.94,
+      "category": "camera",
+      "scraped_at": "2025-05-06T15:01:23.493872"
+    },
+    {
+      "product_name": "Panasonic Professional Lite",
+      "site": "Flipkart",
+      "price": 25642.82,
+      "category": "camera",
+      "scraped_at": "2025-06-05T15:01:23.493279"
+    },
+    {
+      "product_name": "Panasonic Professional Lite",
+      "site": "Flipkart",
+      "price": 27103.0,
+      "category": "camera",
+      "scraped_at": "2025-05-29T15:01:23.493873"
+    },
+    {
+      "product_name": "Panasonic Professional Lite",
+      "site": "Flipkart",
+      "price": 24507.24,
+      "category": "camera",
+      "scraped_at": "2025-05-22T15:01:23.493874"
+    },
+    {
+      "product_name": "Panasonic Professional Lite",
+      "site": "Flipkart",
+      "price": 23238.02,
+      "category": "camera",
+      "scraped_at": "2025-05-06T15:01:23.493875"
+    },
+    {
+      "product_name": "Canon Mirrorless SE",
+      "site": "Flipkart",
+      "price": 203583.71,
+      "category": "camera",
+      "scraped_at": "2025-06-05T15:01:23.493283"
+    },
+    {
+      "product_name": "Canon Mirrorless SE",
+      "site": "Flipkart",
+      "price": 207576.72,
+      "category": "camera",
+      "scraped_at": "2025-05-29T15:01:23.493877"
+    },
+    {
+      "product_name": "Canon Mirrorless SE",
+      "site": "Flipkart",
+      "price": 218763.03,
+      "category": "camera",
+      "scraped_at": "2025-05-22T15:01:23.493878"
+    },
+    {
+      "product_name": "Canon Mirrorless SE",
+      "site": "Flipkart",
+      "price": 194364.97,
+      "category": "camera",
+      "scraped_at": "2025-05-06T15:01:23.493879"
+    },
+    {
+      "product_name": "Fujifilm Instant Lite",
+      "site": "Flipkart",
+      "price": 40259.7,
+      "category": "camera",
+      "scraped_at": "2025-06-05T15:01:23.493287"
+    },
+    {
+      "product_name": "Fujifilm Instant Lite",
+      "site": "Flipkart",
+      "price": 41953.19,
+      "category": "camera",
+      "scraped_at": "2025-05-29T15:01:23.493881"
+    },
+    {
+      "product_name": "Fujifilm Instant Lite",
+      "site": "Flipkart",
+      "price": 39803.72,
+      "category": "camera",
+      "scraped_at": "2025-05-22T15:01:23.493882"
+    },
+    {
+      "product_name": "Fujifilm Instant Lite",
+      "site": "Flipkart",
+      "price": 43318.5,
+      "category": "camera",
+      "scraped_at": "2025-05-06T15:01:23.493883"
+    },
+    {
+      "product_name": "Lenovo Tab S8",
+      "site": "Amazon",
+      "price": 62119.52,
+      "category": "tablet",
+      "scraped_at": "2025-06-05T15:01:23.493296"
+    },
+    {
+      "product_name": "Lenovo Tab S8",
+      "site": "Amazon",
+      "price": 67750.32,
+      "category": "tablet",
+      "scraped_at": "2025-05-29T15:01:23.493884"
+    },
+    {
+      "product_name": "Lenovo Tab S8",
+      "site": "Amazon",
+      "price": 57828.66,
+      "category": "tablet",
+      "scraped_at": "2025-05-22T15:01:23.493885"
+    },
+    {
+      "product_name": "Lenovo Tab S8",
+      "site": "Amazon",
+      "price": 67024.25,
+      "category": "tablet",
+      "scraped_at": "2025-05-06T15:01:23.493887"
+    },
+    {
+      "product_name": "Samsung Tab S8 Ultra",
+      "site": "Amazon",
+      "price": 74228.82,
+      "category": "tablet",
+      "scraped_at": "2025-06-05T15:01:23.493300"
+    },
+    {
+      "product_name": "Samsung Tab S8 Ultra",
+      "site": "Amazon",
+      "price": 68171.0,
+      "category": "tablet",
+      "scraped_at": "2025-05-29T15:01:23.493888"
+    },
+    {
+      "product_name": "Samsung Tab S8 Ultra",
+      "site": "Amazon",
+      "price": 77343.59,
+      "category": "tablet",
+      "scraped_at": "2025-05-22T15:01:23.493889"
+    },
+    {
+      "product_name": "Samsung Tab S8 Ultra",
+      "site": "Amazon",
+      "price": 75526.29,
+      "category": "tablet",
+      "scraped_at": "2025-05-06T15:01:23.493890"
+    },
+    {
+      "product_name": "iPad Go Pro",
+      "site": "Amazon",
+      "price": 27417.5,
+      "category": "tablet",
+      "scraped_at": "2025-06-05T15:01:23.493304"
+    },
+    {
+      "product_name": "iPad Go Pro",
+      "site": "Amazon",
+      "price": 28040.64,
+      "category": "tablet",
+      "scraped_at": "2025-05-29T15:01:23.493891"
+    },
+    {
+      "product_name": "iPad Go Pro",
+      "site": "Amazon",
+      "price": 27253.14,
+      "category": "tablet",
+      "scraped_at": "2025-05-22T15:01:23.493893"
+    },
+    {
+      "product_name": "iPad Go Pro",
+      "site": "Amazon",
+      "price": 26329.25,
+      "category": "tablet",
+      "scraped_at": "2025-05-06T15:01:23.493894"
+    },
+    {
+      "product_name": "Samsung Tab S8 Lite",
+      "site": "Amazon",
+      "price": 40617.64,
+      "category": "tablet",
+      "scraped_at": "2025-06-05T15:01:23.493308"
+    },
+    {
+      "product_name": "Samsung Tab S8 Lite",
+      "site": "Amazon",
+      "price": 37245.03,
+      "category": "tablet",
+      "scraped_at": "2025-05-29T15:01:23.493895"
+    },
+    {
+      "product_name": "Samsung Tab S8 Lite",
+      "site": "Amazon",
+      "price": 42654.6,
+      "category": "tablet",
+      "scraped_at": "2025-05-22T15:01:23.493896"
+    },
+    {
+      "product_name": "Samsung Tab S8 Lite",
+      "site": "Amazon",
+      "price": 39239.16,
+      "category": "tablet",
+      "scraped_at": "2025-05-06T15:01:23.493897"
+    },
+    {
+      "product_name": "iPad S8 Lite",
+      "site": "Amazon",
+      "price": 58266.67,
+      "category": "tablet",
+      "scraped_at": "2025-06-05T15:01:23.493311"
+    },
+    {
+      "product_name": "iPad S8 Lite",
+      "site": "Amazon",
+      "price": 56388.72,
+      "category": "tablet",
+      "scraped_at": "2025-05-29T15:01:23.493898"
+    },
+    {
+      "product_name": "iPad S8 Lite",
+      "site": "Amazon",
+      "price": 56583.49,
+      "category": "tablet",
+      "scraped_at": "2025-05-22T15:01:23.493899"
+    },
+    {
+      "product_name": "iPad S8 Lite",
+      "site": "Amazon",
+      "price": 53409.25,
+      "category": "tablet",
+      "scraped_at": "2025-05-06T15:01:23.493901"
+    },
+    {
+      "product_name": "Huawei Go Max",
+      "site": "Amazon",
+      "price": 84440.4,
+      "category": "tablet",
+      "scraped_at": "2025-06-05T15:01:23.493315"
+    },
+    {
+      "product_name": "Huawei Go Max",
+      "site": "Amazon",
+      "price": 91616.39,
+      "category": "tablet",
+      "scraped_at": "2025-05-29T15:01:23.493902"
+    },
+    {
+      "product_name": "Huawei Go Max",
+      "site": "Amazon",
+      "price": 91044.61,
+      "category": "tablet",
+      "scraped_at": "2025-05-22T15:01:23.493903"
+    },
+    {
+      "product_name": "Huawei Go Max",
+      "site": "Amazon",
+      "price": 81915.1,
+      "category": "tablet",
+      "scraped_at": "2025-05-06T15:01:23.493904"
+    },
+    {
+      "product_name": "iPad MatePad Ultra",
+      "site": "Amazon",
+      "price": 10607.27,
+      "category": "tablet",
+      "scraped_at": "2025-06-05T15:01:23.493319"
+    },
+    {
+      "product_name": "iPad MatePad Ultra",
+      "site": "Amazon",
+      "price": 11042.53,
+      "category": "tablet",
+      "scraped_at": "2025-05-29T15:01:23.493905"
+    },
+    {
+      "product_name": "iPad MatePad Ultra",
+      "site": "Amazon",
+      "price": 11342.72,
+      "category": "tablet",
+      "scraped_at": "2025-05-22T15:01:23.493906"
+    },
+    {
+      "product_name": "iPad MatePad Ultra",
+      "site": "Amazon",
+      "price": 11031.97,
+      "category": "tablet",
+      "scraped_at": "2025-05-06T15:01:23.493907"
+    },
+    {
+      "product_name": "Amazon Fire M10 Pro",
+      "site": "Amazon",
+      "price": 51440.61,
+      "category": "tablet",
+      "scraped_at": "2025-06-05T15:01:23.493323"
+    },
+    {
+      "product_name": "Amazon Fire M10 Pro",
+      "site": "Amazon",
+      "price": 46633.28,
+      "category": "tablet",
+      "scraped_at": "2025-05-29T15:01:23.493909"
+    },
+    {
+      "product_name": "Amazon Fire M10 Pro",
+      "site": "Amazon",
+      "price": 52839.6,
+      "category": "tablet",
+      "scraped_at": "2025-05-22T15:01:23.493910"
+    },
+    {
+      "product_name": "Amazon Fire M10 Pro",
+      "site": "Amazon",
+      "price": 48750.74,
+      "category": "tablet",
+      "scraped_at": "2025-05-06T15:01:23.493911"
+    },
+    {
+      "product_name": "Lenovo Tab M10 Lite",
+      "site": "Flipkart",
+      "price": 71877.9,
+      "category": "tablet",
+      "scraped_at": "2025-06-05T15:01:23.493327"
+    },
+    {
+      "product_name": "Lenovo Tab M10 Lite",
+      "site": "Flipkart",
+      "price": 77718.56,
+      "category": "tablet",
+      "scraped_at": "2025-05-29T15:01:23.493912"
+    },
+    {
+      "product_name": "Lenovo Tab M10 Lite",
+      "site": "Flipkart",
+      "price": 67380.85,
+      "category": "tablet",
+      "scraped_at": "2025-05-22T15:01:23.493913"
+    },
+    {
+      "product_name": "Lenovo Tab M10 Lite",
+      "site": "Flipkart",
+      "price": 78648.94,
+      "category": "tablet",
+      "scraped_at": "2025-05-06T15:01:23.493914"
+    },
+    {
+      "product_name": "Lenovo Tab HD 10 Plus",
+      "site": "Flipkart",
+      "price": 43902.78,
+      "category": "tablet",
+      "scraped_at": "2025-06-05T15:01:23.493331"
+    },
+    {
+      "product_name": "Lenovo Tab HD 10 Plus",
+      "site": "Flipkart",
+      "price": 47607.17,
+      "category": "tablet",
+      "scraped_at": "2025-05-29T15:01:23.493916"
+    },
+    {
+      "product_name": "Lenovo Tab HD 10 Plus",
+      "site": "Flipkart",
+      "price": 40491.65,
+      "category": "tablet",
+      "scraped_at": "2025-05-22T15:01:23.493917"
+    },
+    {
+      "product_name": "Lenovo Tab HD 10 Plus",
+      "site": "Flipkart",
+      "price": 41853.33,
+      "category": "tablet",
+      "scraped_at": "2025-05-06T15:01:23.493918"
+    },
+    {
+      "product_name": "Samsung Tab HD 10 Lite",
+      "site": "Flipkart",
+      "price": 20599.33,
+      "category": "tablet",
+      "scraped_at": "2025-06-05T15:01:23.493335"
+    },
+    {
+      "product_name": "Samsung Tab HD 10 Lite",
+      "site": "Flipkart",
+      "price": 21498.47,
+      "category": "tablet",
+      "scraped_at": "2025-05-29T15:01:23.493919"
+    },
+    {
+      "product_name": "Samsung Tab HD 10 Lite",
+      "site": "Flipkart",
+      "price": 21701.98,
+      "category": "tablet",
+      "scraped_at": "2025-05-22T15:01:23.493920"
+    },
+    {
+      "product_name": "Samsung Tab HD 10 Lite",
+      "site": "Flipkart",
+      "price": 22038.99,
+      "category": "tablet",
+      "scraped_at": "2025-05-06T15:01:23.493921"
+    },
+    {
+      "product_name": "Samsung Tab M10 Plus",
+      "site": "Flipkart",
+      "price": 26163.54,
+      "category": "tablet",
+      "scraped_at": "2025-06-05T15:01:23.493339"
+    },
+    {
+      "product_name": "Samsung Tab M10 Plus",
+      "site": "Flipkart",
+      "price": 26911.61,
+      "category": "tablet",
+      "scraped_at": "2025-05-29T15:01:23.493922"
+    },
+    {
+      "product_name": "Samsung Tab M10 Plus",
+      "site": "Flipkart",
+      "price": 25859.12,
+      "category": "tablet",
+      "scraped_at": "2025-05-22T15:01:23.493924"
+    },
+    {
+      "product_name": "Samsung Tab M10 Plus",
+      "site": "Flipkart",
+      "price": 24013.76,
+      "category": "tablet",
+      "scraped_at": "2025-05-06T15:01:23.493925"
+    },
+    {
+      "product_name": "Lenovo Tab M10 Ultra",
+      "site": "Flipkart",
+      "price": 29794.21,
+      "category": "tablet",
+      "scraped_at": "2025-06-05T15:01:23.493343"
+    },
+    {
+      "product_name": "Lenovo Tab M10 Ultra",
+      "site": "Flipkart",
+      "price": 29596.45,
+      "category": "tablet",
+      "scraped_at": "2025-05-29T15:01:23.493926"
+    },
+    {
+      "product_name": "Lenovo Tab M10 Ultra",
+      "site": "Flipkart",
+      "price": 30006.86,
+      "category": "tablet",
+      "scraped_at": "2025-05-22T15:01:23.493927"
+    },
+    {
+      "product_name": "Lenovo Tab M10 Ultra",
+      "site": "Flipkart",
+      "price": 32486.43,
+      "category": "tablet",
+      "scraped_at": "2025-05-06T15:01:23.493928"
+    },
+    {
+      "product_name": "Samsung Tab M10 Max",
+      "site": "Flipkart",
+      "price": 38731.2,
+      "category": "tablet",
+      "scraped_at": "2025-06-05T15:01:23.493347"
+    },
+    {
+      "product_name": "Samsung Tab M10 Max",
+      "site": "Flipkart",
+      "price": 41842.16,
+      "category": "tablet",
+      "scraped_at": "2025-05-29T15:01:23.493930"
+    },
+    {
+      "product_name": "Samsung Tab M10 Max",
+      "site": "Flipkart",
+      "price": 35067.86,
+      "category": "tablet",
+      "scraped_at": "2025-05-22T15:01:23.493931"
+    },
+    {
+      "product_name": "Samsung Tab M10 Max",
+      "site": "Flipkart",
+      "price": 37726.96,
+      "category": "tablet",
+      "scraped_at": "2025-05-06T15:01:23.493932"
+    },
+    {
+      "product_name": "Lenovo Tab HD 10 Plus",
+      "site": "Flipkart",
+      "price": 50264.89,
+      "category": "tablet",
+      "scraped_at": "2025-06-05T15:01:23.493351"
+    },
+    {
+      "product_name": "Lenovo Tab HD 10 Plus",
+      "site": "Flipkart",
+      "price": 53269.96,
+      "category": "tablet",
+      "scraped_at": "2025-05-29T15:01:23.493933"
+    },
+    {
+      "product_name": "Lenovo Tab HD 10 Plus",
+      "site": "Flipkart",
+      "price": 54818.14,
+      "category": "tablet",
+      "scraped_at": "2025-05-22T15:01:23.493934"
+    },
+    {
+      "product_name": "Lenovo Tab HD 10 Plus",
+      "site": "Flipkart",
+      "price": 53201.03,
+      "category": "tablet",
+      "scraped_at": "2025-05-06T15:01:23.493935"
+    },
+    {
+      "product_name": "Huawei MatePad Ultra",
+      "site": "Flipkart",
+      "price": 41541.85,
+      "category": "tablet",
+      "scraped_at": "2025-06-05T15:01:23.493355"
+    },
+    {
+      "product_name": "Huawei MatePad Ultra",
+      "site": "Flipkart",
+      "price": 40176.28,
+      "category": "tablet",
+      "scraped_at": "2025-05-29T15:01:23.493936"
+    },
+    {
+      "product_name": "Huawei MatePad Ultra",
+      "site": "Flipkart",
+      "price": 41655.86,
+      "category": "tablet",
+      "scraped_at": "2025-05-22T15:01:23.493938"
+    },
+    {
+      "product_name": "Huawei MatePad Ultra",
+      "site": "Flipkart",
+      "price": 42489.38,
+      "category": "tablet",
+      "scraped_at": "2025-05-06T15:01:23.493939"
+    },
+    {
+      "product_name": "Marshall Boom Ultra",
+      "site": "Amazon",
+      "price": 12430.93,
+      "category": "speaker",
+      "scraped_at": "2025-06-05T15:01:23.493364"
+    },
+    {
+      "product_name": "Marshall Boom Ultra",
+      "site": "Amazon",
+      "price": 12634.01,
+      "category": "speaker",
+      "scraped_at": "2025-05-29T15:01:23.493940"
+    },
+    {
+      "product_name": "Marshall Boom Ultra",
+      "site": "Amazon",
+      "price": 13470.45,
+      "category": "speaker",
+      "scraped_at": "2025-05-22T15:01:23.493941"
+    },
+    {
+      "product_name": "Marshall Boom Ultra",
+      "site": "Amazon",
+      "price": 13224.37,
+      "category": "speaker",
+      "scraped_at": "2025-05-06T15:01:23.493942"
+    },
+    {
+      "product_name": "Bose Onyx",
+      "site": "Amazon",
+      "price": 28143.99,
+      "category": "speaker",
+      "scraped_at": "2025-06-05T15:01:23.493368"
+    },
+    {
+      "product_name": "Bose Onyx",
+      "site": "Amazon",
+      "price": 25887.11,
+      "category": "speaker",
+      "scraped_at": "2025-05-29T15:01:23.493943"
+    },
+    {
+      "product_name": "Bose Onyx",
+      "site": "Amazon",
+      "price": 30756.43,
+      "category": "speaker",
+      "scraped_at": "2025-05-22T15:01:23.493944"
+    },
+    {
+      "product_name": "Bose Onyx",
+      "site": "Amazon",
+      "price": 29068.36,
+      "category": "speaker",
+      "scraped_at": "2025-05-06T15:01:23.493946"
+    },
+    {
+      "product_name": "JBL Boom Pro",
+      "site": "Amazon",
+      "price": 4767.0,
+      "category": "speaker",
+      "scraped_at": "2025-06-05T15:01:23.493372"
+    },
+    {
+      "product_name": "JBL Boom Pro",
+      "site": "Amazon",
+      "price": 4304.28,
+      "category": "speaker",
+      "scraped_at": "2025-05-29T15:01:23.493947"
+    },
+    {
+      "product_name": "JBL Boom Pro",
+      "site": "Amazon",
+      "price": 4898.83,
+      "category": "speaker",
+      "scraped_at": "2025-05-22T15:01:23.493948"
+    },
+    {
+      "product_name": "JBL Boom Pro",
+      "site": "Amazon",
+      "price": 4764.63,
+      "category": "speaker",
+      "scraped_at": "2025-05-06T15:01:23.493949"
+    },
+    {
+      "product_name": "Marshall Boom Pro",
+      "site": "Amazon",
+      "price": 12612.35,
+      "category": "speaker",
+      "scraped_at": "2025-06-05T15:01:23.493376"
+    },
+    {
+      "product_name": "Marshall Boom Pro",
+      "site": "Amazon",
+      "price": 13587.57,
+      "category": "speaker",
+      "scraped_at": "2025-05-29T15:01:23.493950"
+    },
+    {
+      "product_name": "Marshall Boom Pro",
+      "site": "Amazon",
+      "price": 11452.65,
+      "category": "speaker",
+      "scraped_at": "2025-05-22T15:01:23.493951"
+    },
+    {
+      "product_name": "Marshall Boom Pro",
+      "site": "Amazon",
+      "price": 12175.3,
+      "category": "speaker",
+      "scraped_at": "2025-05-06T15:01:23.493952"
+    },
+    {
+      "product_name": "JBL Onyx Max",
+      "site": "Amazon",
+      "price": 5732.37,
+      "category": "speaker",
+      "scraped_at": "2025-06-05T15:01:23.493380"
+    },
+    {
+      "product_name": "JBL Onyx Max",
+      "site": "Amazon",
+      "price": 5452.49,
+      "category": "speaker",
+      "scraped_at": "2025-05-29T15:01:23.493954"
+    },
+    {
+      "product_name": "JBL Onyx Max",
+      "site": "Amazon",
+      "price": 6160.38,
+      "category": "speaker",
+      "scraped_at": "2025-05-22T15:01:23.493955"
+    },
+    {
+      "product_name": "JBL Onyx Max",
+      "site": "Amazon",
+      "price": 5479.71,
+      "category": "speaker",
+      "scraped_at": "2025-05-06T15:01:23.493956"
+    },
+    {
+      "product_name": "Bose SoundLink Plus",
+      "site": "Amazon",
+      "price": 23801.77,
+      "category": "speaker",
+      "scraped_at": "2025-06-05T15:01:23.493384"
+    },
+    {
+      "product_name": "Bose SoundLink Plus",
+      "site": "Amazon",
+      "price": 22988.5,
+      "category": "speaker",
+      "scraped_at": "2025-05-29T15:01:23.493957"
+    },
+    {
+      "product_name": "Bose SoundLink Plus",
+      "site": "Amazon",
+      "price": 23741.41,
+      "category": "speaker",
+      "scraped_at": "2025-05-22T15:01:23.493958"
+    },
+    {
+      "product_name": "Bose SoundLink Plus",
+      "site": "Amazon",
+      "price": 25752.75,
+      "category": "speaker",
+      "scraped_at": "2025-05-06T15:01:23.493959"
+    },
+    {
+      "product_name": "JBL SoundLink Plus",
+      "site": "Amazon",
+      "price": 20876.6,
+      "category": "speaker",
+      "scraped_at": "2025-06-05T15:01:23.493388"
+    },
+    {
+      "product_name": "JBL SoundLink Plus",
+      "site": "Amazon",
+      "price": 20818.38,
+      "category": "speaker",
+      "scraped_at": "2025-05-29T15:01:23.493961"
+    },
+    {
+      "product_name": "JBL SoundLink Plus",
+      "site": "Amazon",
+      "price": 19178.48,
+      "category": "speaker",
+      "scraped_at": "2025-05-22T15:01:23.493962"
+    },
+    {
+      "product_name": "JBL SoundLink Plus",
+      "site": "Amazon",
+      "price": 21377.06,
+      "category": "speaker",
+      "scraped_at": "2025-05-06T15:01:23.493963"
+    },
+    {
+      "product_name": "Bose Onyx Lite",
+      "site": "Amazon",
+      "price": 22671.53,
+      "category": "speaker",
+      "scraped_at": "2025-06-05T15:01:23.493392"
+    },
+    {
+      "product_name": "Bose Onyx Lite",
+      "site": "Amazon",
+      "price": 21748.54,
+      "category": "speaker",
+      "scraped_at": "2025-05-29T15:01:23.493964"
+    },
+    {
+      "product_name": "Bose Onyx Lite",
+      "site": "Amazon",
+      "price": 20755.91,
+      "category": "speaker",
+      "scraped_at": "2025-05-22T15:01:23.493965"
+    },
+    {
+      "product_name": "Bose Onyx Lite",
+      "site": "Amazon",
+      "price": 21772.9,
+      "category": "speaker",
+      "scraped_at": "2025-05-06T15:01:23.493966"
+    },
+    {
+      "product_name": "Ultimate Ears SRS-XB Plus",
+      "site": "Flipkart",
+      "price": 18758.34,
+      "category": "speaker",
+      "scraped_at": "2025-06-05T15:01:23.493396"
+    },
+    {
+      "product_name": "Ultimate Ears SRS-XB Plus",
+      "site": "Flipkart",
+      "price": 17569.92,
+      "category": "speaker",
+      "scraped_at": "2025-05-29T15:01:23.493968"
+    },
+    {
+      "product_name": "Ultimate Ears SRS-XB Plus",
+      "site": "Flipkart",
+      "price": 20446.19,
+      "category": "speaker",
+      "scraped_at": "2025-05-22T15:01:23.493969"
+    },
+    {
+      "product_name": "Ultimate Ears SRS-XB Plus",
+      "site": "Flipkart",
+      "price": 18887.59,
+      "category": "speaker",
+      "scraped_at": "2025-05-06T15:01:23.493970"
+    },
+    {
+      "product_name": "Ultimate Ears Flip",
+      "site": "Flipkart",
+      "price": 14913.02,
+      "category": "speaker",
+      "scraped_at": "2025-06-05T15:01:23.493400"
+    },
+    {
+      "product_name": "Ultimate Ears Flip",
+      "site": "Flipkart",
+      "price": 16251.61,
+      "category": "speaker",
+      "scraped_at": "2025-05-29T15:01:23.493971"
+    },
+    {
+      "product_name": "Ultimate Ears Flip",
+      "site": "Flipkart",
+      "price": 15555.55,
+      "category": "speaker",
+      "scraped_at": "2025-05-22T15:01:23.493972"
+    },
+    {
+      "product_name": "Ultimate Ears Flip",
+      "site": "Flipkart",
+      "price": 15952.86,
+      "category": "speaker",
+      "scraped_at": "2025-05-06T15:01:23.493973"
+    },
+    {
+      "product_name": "JBL Onyx Ultra",
+      "site": "Flipkart",
+      "price": 18417.89,
+      "category": "speaker",
+      "scraped_at": "2025-06-05T15:01:23.493403"
+    },
+    {
+      "product_name": "JBL Onyx Ultra",
+      "site": "Flipkart",
+      "price": 17166.5,
+      "category": "speaker",
+      "scraped_at": "2025-05-29T15:01:23.493975"
+    },
+    {
+      "product_name": "JBL Onyx Ultra",
+      "site": "Flipkart",
+      "price": 18666.25,
+      "category": "speaker",
+      "scraped_at": "2025-05-22T15:01:23.493976"
+    },
+    {
+      "product_name": "JBL Onyx Ultra",
+      "site": "Flipkart",
+      "price": 17052.98,
+      "category": "speaker",
+      "scraped_at": "2025-05-06T15:01:23.493977"
+    },
+    {
+      "product_name": "JBL Acton",
+      "site": "Flipkart",
+      "price": 24843.39,
+      "category": "speaker",
+      "scraped_at": "2025-06-05T15:01:23.493407"
+    },
+    {
+      "product_name": "JBL Acton",
+      "site": "Flipkart",
+      "price": 25076.84,
+      "category": "speaker",
+      "scraped_at": "2025-05-29T15:01:23.493978"
+    },
+    {
+      "product_name": "JBL Acton",
+      "site": "Flipkart",
+      "price": 26758.6,
+      "category": "speaker",
+      "scraped_at": "2025-05-22T15:01:23.493979"
+    },
+    {
+      "product_name": "JBL Acton",
+      "site": "Flipkart",
+      "price": 26613.72,
+      "category": "speaker",
+      "scraped_at": "2025-05-06T15:01:23.493980"
+    },
+    {
+      "product_name": "Sony Acton Ultra",
+      "site": "Flipkart",
+      "price": 18771.84,
+      "category": "speaker",
+      "scraped_at": "2025-06-05T15:01:23.493411"
+    },
+    {
+      "product_name": "Sony Acton Ultra",
+      "site": "Flipkart",
+      "price": 20201.47,
+      "category": "speaker",
+      "scraped_at": "2025-05-29T15:01:23.493981"
+    },
+    {
+      "product_name": "Sony Acton Ultra",
+      "site": "Flipkart",
+      "price": 20310.1,
+      "category": "speaker",
+      "scraped_at": "2025-05-22T15:01:23.493982"
+    },
+    {
+      "product_name": "Sony Acton Ultra",
+      "site": "Flipkart",
+      "price": 20392.0,
+      "category": "speaker",
+      "scraped_at": "2025-05-06T15:01:23.493983"
+    },
+    {
+      "product_name": "Harman Kardon Boom",
+      "site": "Flipkart",
+      "price": 17567.93,
+      "category": "speaker",
+      "scraped_at": "2025-06-05T15:01:23.493415"
+    },
+    {
+      "product_name": "Harman Kardon Boom",
+      "site": "Flipkart",
+      "price": 18329.59,
+      "category": "speaker",
+      "scraped_at": "2025-05-29T15:01:23.493985"
+    },
+    {
+      "product_name": "Harman Kardon Boom",
+      "site": "Flipkart",
+      "price": 18265.79,
+      "category": "speaker",
+      "scraped_at": "2025-05-22T15:01:23.493986"
+    },
+    {
+      "product_name": "Harman Kardon Boom",
+      "site": "Flipkart",
+      "price": 18409.0,
+      "category": "speaker",
+      "scraped_at": "2025-05-06T15:01:23.493987"
+    },
+    {
+      "product_name": "Marshall SoundLink Plus",
+      "site": "Flipkart",
+      "price": 7511.75,
+      "category": "speaker",
+      "scraped_at": "2025-06-05T15:01:23.493419"
+    },
+    {
+      "product_name": "Marshall SoundLink Plus",
+      "site": "Flipkart",
+      "price": 7122.79,
+      "category": "speaker",
+      "scraped_at": "2025-05-29T15:01:23.493988"
+    },
+    {
+      "product_name": "Marshall SoundLink Plus",
+      "site": "Flipkart",
+      "price": 7807.24,
+      "category": "speaker",
+      "scraped_at": "2025-05-22T15:01:23.493990"
+    },
+    {
+      "product_name": "Marshall SoundLink Plus",
+      "site": "Flipkart",
+      "price": 7534.35,
+      "category": "speaker",
+      "scraped_at": "2025-05-06T15:01:23.493991"
+    },
+    {
+      "product_name": "Harman Kardon Onyx Plus",
+      "site": "Flipkart",
+      "price": 10359.22,
+      "category": "speaker",
+      "scraped_at": "2025-06-05T15:01:23.493423"
+    },
+    {
+      "product_name": "Harman Kardon Onyx Plus",
+      "site": "Flipkart",
+      "price": 9557.01,
+      "category": "speaker",
+      "scraped_at": "2025-05-29T15:01:23.493992"
+    },
+    {
+      "product_name": "Harman Kardon Onyx Plus",
+      "site": "Flipkart",
+      "price": 10766.62,
+      "category": "speaker",
+      "scraped_at": "2025-05-22T15:01:23.493993"
+    },
+    {
+      "product_name": "Harman Kardon Onyx Plus",
+      "site": "Flipkart",
+      "price": 9345.45,
+      "category": "speaker",
+      "scraped_at": "2025-05-06T15:01:23.493994"
+    }
+  ]
+}
